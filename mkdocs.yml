@@ -1,0 +1,136 @@
+site_name: 10xDevelopers
+site_description: AI powered development resources and guides
+# Adjust branch name and docs folder path
+# repo_url: https://github.com/shlomoc/10xDevelopers
+# edit_uri: edit/main/docs/  
+theme:
+  name: material
+
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    logo: fontawesome/solid/code
+  favicon: img/favicon.ico
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.tracking
+    - content.code.copy
+    - content.code.annotate
+    - search.suggest
+    - search.highlight
+    - navigation.footer
+
+markdown_extensions:
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+        custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - admonition
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - codehilite
+  - toc:
+      permalink: true
+  - attr_list
+  - md_in_html
+  - footnotes
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+copyright: Copyright &copy; 2025 10xDevelopers.dev
+
+plugins:
+  - search
+  - tags
+
+extra_css:
+  - stylesheets/override.css
+
+nav:
+  - Home: index.md
+  - Ultimate Vibe Coding Guide: guides/ultimate-vibe-coding-guide.md
+  - Structured Development Process:
+    - Find Something to Build:
+      - Getting Started: structured/find/index.md
+    - Planning:
+      - Planning: structured/planning/index.md
+      - Ideas to Development Plans: structured/planning/ideas-to-development-plans.md
+      - Feature Prioritization: structured/planning/feature-prioritization.md
+      - MVP Validation: structured/planning/mvp-validation.md
+    - Requirements:
+      - Requirements: structured/requirements/index.md
+      - PRD Creation: structured/requirements/prd.md
+    - Tech Stack:
+      - Tech Stack: structured/tech-stack/index.md
+      - Sample Tech Stack: structured/tech-stack/tech-stack.md
+    - App Flow:
+      - App Flow: structured/appflow/index.md
+      - Sitemap: structured/appflow/sitemap-design-doc.md
+      - UI Prototype: structured/appflow/ui-prototype.md
+    - Design:
+      - Design: structured/design/index.md
+      - Design Spec: structured/design/design-spec-prompt.md
+    - Implementation:
+      - Implementation: structured/implementation/index.md
+      - Implementation Plan: structured/implementation/implementation-plan.md
+      - Code Generation: structured/implementation/codegen.md
+      - Code Review: structured/implementation/code-review.md
+      - Testing and Debugging: structured/implementation/debugging.md
+    - Security:
+      - Security: structured/security/index.md
+      - Security Scan: structured/security/security-scan.md
+    - Deployment:
+      - Deployment: structured/deployment/index.md
+      - Vercel Deployment: structured/deployment/vercel-deployment.md
+    - Documentation:
+      - Documentation: structured/documentation/index.md
+    - Feedback & Maintenance:
+      - Feedback & Maintenance: structured/maintenance/index.md
+  - Agentic Process:
+    - Agentic Process: agentic/index.md
+  - Prompt Engineering: 
+    - OpenAI: prompt-engineering/openai.md
+    - Anthropic: prompt-engineering/anthropic.md
+    - Gemini: prompt-engineering/gemini.md
+    - Grok: prompt-engineering/grok.md
+    - Prompting Resources: prompt-engineering/prompt-resources.md
+  - AI IDEs:
+    - Lovable.dev: ide/lovable.md
+    - Cursor AI: ide/cursor.md
+    - Windsurf: ide/windsurf.md
+    - Cline: ide/cline.md
+    - Roo Code: ide/roo.md
+    - Firebase: ide/firebase.md
+  - Resources:
+    - AI Resources: resources/ai-resources.md
+  - Contributing: contributing.md

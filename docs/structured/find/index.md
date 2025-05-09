@@ -1,0 +1,36 @@
+---
+title: Find Something to Build
+description: Guide to identifying market opportunities for your SaaS
+---
+
+# Find Something to Build
+
+## Purpose 
+
+Identify market opportunities for your SaaS.
+
+## Input
+
+* Market trends and research
+* Industry insights
+* Your domain knowledge
+
+## Steps
+
+### 1. Identify gaps in the market where a new SaaS could fit
+### 2. Utilize AI tools:
+* [Perplexity Deep Research](https://www.perplexity.ai/) - Advanced AI research assistant
+* [ChatGPT Deep Search](https://chat.openai.com/) - OpenAI's conversational AI
+* [Grok Deeper Search](https://grok.x.ai/) - X's AI platform
+### 3. Ask specific questions like 'Find me 10 biggest gaps in the XYZ industry' or 'Validate this startup idea: [insert idea]. Include market size, top 3 competitors, current demand signals, and possible monetization.'
+### 4. Use [Google Trends](https://trends.google.com/) to find search volume for keywords of interest
+### 5. Check [Vercel Domain Search](https://vercel.com/domains) for available domains matching your keywords
+
+## Output
+
+* `market-opportunity.md` - Document outlining your SaaS idea, market opportunity, and initial concept
+
+## Next Steps
+
+* Proceed to [Planning](../planning/index.md) using your `market-opportunity.md` as input
+
