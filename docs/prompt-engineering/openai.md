@@ -2,11 +2,12 @@
 
 - [ChatGPT](https://chatgpt.com/)  
 - [OpenAI Models](https://platform.openai.com/docs/models)  
+- [How to choose models](https://help.openai.com/en/articles/11165333-chatgpt-enterprise-models-limits)
 - [OpenAI Playground](https://platform.openai.com/playground/chat?models=gpt-4o)  
 - [OpenAI Tokenizer](https://platform.openai.com/tokenizer)  
 - [OpenAI Prompt Engineering Docs](https://platform.openai.com/docs/guides/prompt-engineering)  
 - [OpenAI Reasoning Models Docs](https://platform.openai.com/docs/guides/reasoning/advice-on-prompting)  
-- [OpenAI Cookbook](https://github.com/openai/openai-cookbook)  
+- [OpenAI Cookbook](https://cookbook.openai.com/) 
 - [OpenAI Function calling](https://platform.openai.com/docs/guides/function-calling)  
 - [OpenAI Blog](https://openai.com/blog)  
 - [OpenAI Developer Forum](https://community.openai.com/)  

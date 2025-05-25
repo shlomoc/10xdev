@@ -11,6 +11,12 @@ Use this prompt for AI to generate fully functional code from specifications and
 
 ### 1. Provide your `implementation-steps.md` file in the implementation_plan section
 ### 2. Include your IDE-specific rules in the ide_rules section
+Pick up a feature from the implementation plan
+### 2a. (optional)
+- Ask for different approaches first, not the code
+- Pick the best approach and ask for a detailed action plan
+- Review the plan carefully
+- Pull up API docs if needed, review them, and attach them inside Cursor
 ### 3. Run the prompt to generate code for the next incomplete step
 ### 4. Follow any user instructions provided by the AI
 ### 5. Mark the step as complete in your implementation plan
@@ -33,6 +39,7 @@ Your task is to:
 2. Generate the necessary code for all files specified in that step
 3. Keep tests up to date after changing code.
 4. Add new tests to cover new features or edge cases
+Only write code if you’re 95% confident. Ask questions if anything is unclear.
 
 
 The implementation plan is just a suggestion meant to provide a high-level overview of the objective. Use it to guide you, but you do not have to adhere to it strictly. Make sure to follow the given IDE rules as you work along the lines of the plan.
@@ -62,3 +69,4 @@ You also have permission to update the implementation plan if needed. If you upd
 
 ## Next Steps
 After code generation, use [Code Review](./code-review.md) to improve your code.
+

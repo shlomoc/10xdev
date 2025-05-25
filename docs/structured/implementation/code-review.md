@@ -7,6 +7,11 @@ Analyze implemented code to improve code quality.
 - Implemented codebase
 - `implementation-steps.md`
 
+You can now use [CodeRabbit](https://www.coderabbit.ai/) (free) inside your IDE.
+Just install the extension in Cursor, Windsurf, or VS Code, stage a commit, and get instant feedback.
+
+Alternatively, you can use a prompt like below:
+
 ## Prompt
 
 ```md

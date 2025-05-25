@@ -19,7 +19,7 @@ Collaborate with AI to define your project scope, target audience, and features 
 <pre>
 ```md
 
-I have a web app idea I'd like to develop. Here's my initial concept: `{{IDEA}}`. I want to collaborate with you to turn this into a detailed project request. Let's iterate together until we have a complete request that I find to be satisfactory. After each of our exchanges, please return the current state of the request in this format:
+I have a web app idea I'd like to develop. Here's my initial concept: `{{IDEA}}`. Help me refine it, validate the market, uncover monetization options, and outline a roadmap from MVP to first $10k in revenue. I want to collaborate with you to turn this into a detailed project request. Let's iterate together until we have a complete request that I find to be satisfactory. After each of our exchanges, please return the current state of the request in this format:
 
 # Project Name
 ## Market Opportunity

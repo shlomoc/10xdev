@@ -31,3 +31,5 @@ This configures following for SPARC framework:
 ### 5. Configure auto approve for vibe coding
 
 * Configure commands to allow for auto execute (e.g. npm, npx ...)
+
+### 6. Prompt Roo to implement your `project-prd.md` on the `tech-stack.md` 

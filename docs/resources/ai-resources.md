@@ -5,14 +5,16 @@
 
 ## Tools
 ### [Obsidian](https://obsidian.md/): Markdown Editor
-### [Flow](https://wisprflow.ai/): Voice dictation (Windows)
+### [Flow](https://superwhisper.com/): Voice dictation (Mac)
+### [Deepwiki](https://deepwiki.com/): Wiki-style documentation for any GitHub repository
+### [Gitinjest](https://gitingest.com/): Turn any Git repository into a simple text digest of its codebase
 
 ## Frameworks
 ### [MCP](https://modelcontextprotocol.io/introduction): Model Context Protocol (MCP) Official Documentation
 
  * #### [Composio](https://mcp.composio.dev/) Instantly Connect to 100+ Managed MCP Servers
 
- * #### [MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) A curated list of MCP Servers
+* #### [MCP Servers](https://github.com/modelcontextprotocol/servers) Referenced implementation of MCP Servers
 
  * #### [FastMCP](https://github.com/jlowin/fastmcp): The fast, Pythonic way to build MCP servers and clients.
 
@@ -49,8 +51,8 @@ AI Researcher and educator.
 ## Reddit Communities
 ### [r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/)
 
-## Discord Communities
-### [Agentics Foundation](https://discord.com/channels/1283874310720716890/1283874311597461622)
+## Orgs
+### [Agentics Org](http://agentics.org)
 
 ## Newsletters
 ### [The Batch](https://www.deeplearning.ai/the-batch/) Weekly AI news and insights to help readers keep up with this rapidly changing field
@@ -70,6 +72,6 @@ AI Researcher and educator.
 
 ### [Vibe coding MenuGen](https://karpathy.bearblog.dev/vibe-coding-menugen/) Andrei Karpathy explores hype vs reality of vibe coding
 
-### [Sitting is New Smoking](https://x.com/CodyAlt/status/1897678611819458784) 
+### [Sitting is New Smoking](https://x.com/CodyAlt/status/ 1897678611819458784) Posture tip reminders
 
 

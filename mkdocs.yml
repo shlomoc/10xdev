@@ -36,8 +36,7 @@ theme:
     - search.suggest
     - search.highlight
     - navigation.footer
-
-markdown_extensions:
+    
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
@@ -46,15 +45,14 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences:
-        custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
+      custom_fences:
+      - name: mermaid
+        class: mermaid
+        format: !!python/name:pymdownx.superfences.fence_code_format
   - admonition
   - pymdownx.details
   - pymdownx.tabbed:
       alternate_style: true
-  - codehilite
   - toc:
       permalink: true
   - attr_list
@@ -116,8 +114,8 @@ nav:
       - Documentation: structured/documentation/index.md
     - Feedback & Maintenance:
       - Feedback & Maintenance: structured/maintenance/index.md
-  - Agentic Process:
-    - Agentic Process: agentic/index.md
+    - Agentic Process:
+      - Agentic Process: structured/agentic/index.md
   - Prompt Engineering: 
     - OpenAI: prompt-engineering/openai.md
     - Anthropic: prompt-engineering/anthropic.md
@@ -130,7 +128,12 @@ nav:
     - Windsurf: ide/windsurf.md
     - Cline: ide/cline.md
     - Roo Code: ide/roo.md
-    - Firebase: ide/firebase.md
+    - Google AI Studio: ide/aistudio.md
+  - Agent Frameworks:
+    - A2A: agent-frameworks/a2a.md
+    - LangGraph: agent-frameworks/langgraph.md
+    - CrewAI: agent-frameworks/crewai.md
+    - Mastra: agent-frameworks/mastra.md
   - Resources:
     - AI Resources: resources/ai-resources.md
   - Contributing: contributing.md

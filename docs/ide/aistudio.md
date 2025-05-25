@@ -1,0 +1,7 @@
+# **Google AI Studio**
+
+### [Google for AI Developers](https://ai.google.dev/) Central developer hub
+### [Google AI Studio](https://aistudio.google.com/apps): Build Apps with Gemini 
+### [Firebase](https://firebase.google.com/): Google's Mobile and Web App Development Platform
+### [Firebase Studio docs](https://firebase.google.com/docs/studio)
+### [Jules](https://jules.google.com) Jules is an experimental coding agent 
