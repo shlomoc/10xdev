@@ -5,7 +5,7 @@
 
 ## Tools
 ### [Obsidian](https://obsidian.md/): Markdown Editor
-### [Flow](https://superwhisper.com/): Voice dictation (Mac)
+### [SuperWhisper](https://superwhisper.com/): Voice dictation (Mac)
 ### [Deepwiki](https://deepwiki.com/): Wiki-style documentation for any GitHub repository
 ### [Gitinjest](https://gitingest.com/): Turn any Git repository into a simple text digest of its codebase
 
@@ -47,9 +47,6 @@ AI Researcher and educator.
 ### [How I use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=1414s) Andrei Karpathy explains
 
 ### [Understanding the Context Window & Token Costs](https://www.youtube.com/watch?v=Z0GWWTHpcik) Vibe Coding with Cline
-
-## Reddit Communities
-### [r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/)
 
 ## Orgs
 ### [Agentics Org](http://agentics.org)

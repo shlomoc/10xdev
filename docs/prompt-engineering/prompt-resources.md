@@ -34,10 +34,9 @@
 #### [God of Prompt](https://x.com/godofprompt): Sharing AI Prompts, Tips & Tricks.
 
 ### Reddit
-#### [God of Prompt](https://www.reddit.com/r/aipromptprogramming/): This group focuses on using AI tools for Ai programming & prompt engineering.
+#### [r/aipromptprogramming/](https://www.reddit.com/r/aipromptprogramming/): This group focuses on using AI tools for Ai programming & prompt engineering.
+#### [r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/)
 
-### Prompts
-#### [Build MCP stdio Server](https://github.com/ChrisRoyse/MCP-Prompt-STDIO/blob/main/MCPSetupPrompt)
 
 
 
