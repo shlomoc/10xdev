@@ -7,6 +7,7 @@
 ## Prompt Libraries
 
 ### [God of Prompt](https://www.godofprompt.ai/): Your AI Superpowers In One Click.
+### [LangChain Hub](https://smith.langchain.com/hub/) Explore and contribute prompts to the community hub
 ### [Prompt Hub](https://www.prompthub.us/): Community-driven Prompt platform
 ### [Prompt Library templates from Spec to Code](https://www.jointakeoff.com/prompts): o1 pro template system.
 
@@ -17,6 +18,8 @@
 
 ## Best practices
 ### [Tips for prompting AI IDEs](../reference/ideTips.md)
+### [Choose the most appropriate model for the task](https://platform.openai.com/docs/models) OpenAI model comparison
+### [Use the playground to test your prompts](https://platform.openai.com/playground/prompt) OpenAI model playground
 
 ## Customizing ChatGPT
 ### [ChatGPT Custom Instructions](https://www.linkedin.com/posts/reuvencohen_customizing-chatgpt-is-the-easiest-way-to-activity-7320423754726010880-SYu2/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAAsDPgBDJuUuadvvnSxPUkh_oT8zWlUvrk): Ruv's custom instructions
@@ -34,8 +37,8 @@
 #### [God of Prompt](https://x.com/godofprompt): Sharing AI Prompts, Tips & Tricks.
 
 ### Reddit
-#### [r/aipromptprogramming/](https://www.reddit.com/r/aipromptprogramming/): This group focuses on using AI tools for Ai programming & prompt engineering.
-#### [r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/)
+#### [r/aipromptprogramming](https://www.reddit.com/r/aipromptprogramming/): This group focuses on using AI tools for Ai programming & prompt engineering.
+#### [r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/): coding side of ChatGPT
 
 
 

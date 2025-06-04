@@ -193,6 +193,10 @@ Please provide detailed documentation with clear descriptions and consider mobil
 The completed sitemap and user flow documentation will be saved as `app-sitemap.md` for use in implementation planning.
 ```
 
+## Prompt 3: Ask ChatGPT to list all the UI screens needed for your product.
+
+Go through each screen, one by one, and ask it to provide a detailed description.
+
 
 ## Output
 - `app-sitemap.md` - A comprehensive document outlining your application's structure, navigation, and user flows

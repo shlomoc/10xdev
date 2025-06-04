@@ -7,7 +7,7 @@ source: "https://x.com/PrajwalTomar_/status/1904540868935131622"
 
 # The Ultimate Vibe Coding Guide (2025)
 
-![The Ultimate Vibe Coding Guide (2025)](../img/vibe-guide.png)
+![The Ultimate Vibe Coding Guide (2025)](../img/rickrubin.jpg)
 
 **FROM IDEA TO MVP IN WEEKS**
 
@@ -143,8 +143,10 @@ A modern, streamlined approach to building MVPs in weeks using AI-powered tools 
 
 **Outcome:** Technology stack optimized for AI-assisted development.
 
-## [AI App MVP Prompt Template](../reference/ai_mvp_template.md)
-## [12 Rules to Vibe Code Without Frustration](https://creatoreconomy.so/p/12-rules-to-vibe-code-without-frustration)
+### [The Way of Code](https://www.thewayofcode.com/) Based on Lao Tzu (by Rick Rubin with Anthropic)
+### [12 Rules to Vibe Code Without Frustration](https://creatoreconomy.so/p/12-rules-to-vibe-code-without-frustration)
+### [AI App MVP Prompt Template](../reference/ai_mvp_template.md)
+
 
 ---
 

@@ -36,7 +36,7 @@ If no one is actively seeking a solution, the demand may be insufficient.
 
 To validate demand, consider these approaches:
 
-* **Search Volume Check**: Use tools like [Google Keyword Planner](https://business.google.com/us/ad-tools/keyword-planner/) or Ahrefs to see how many people are searching for the problem
+* **Search Volume Check**: Use tools like [Google Keyword Planner](https://business.google.com/us/ad-tools/keyword-planner/) to see how many people are searching for the problem
 * **Community Research**: Explore platforms like Reddit, X, and Discord forums to gauge discussions around the problem
 
 ### 4. Create a Validation Landing Page

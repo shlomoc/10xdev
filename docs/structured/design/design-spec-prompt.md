@@ -13,7 +13,7 @@
 1. Provide your `project-prd.md` file in the project_request section
 2. Include your `app-sitemap.md` in the app_sitemap section
 3. Detail your preferred technology stack in the tech_stack section
-4. Use this prompt with your preferred AI thinking model (like OpenAI o1) to generate a robust technical specification document.
+4. Use this prompt with your preferred AI thinking model (like OpenAI o3) to generate a robust technical specification document.
 5. Review and refine the output as needed
 6. Save the final document as `design-spec.md`
 

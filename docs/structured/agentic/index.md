@@ -9,9 +9,14 @@ Automate code development using agents.
 
 ## Steps
 
-### 1. Setup [Github Codespace](https://github.com/codespaces/) for your repository. Or [Devpod](https://devpod.sh/)
+### 1. (Optional) Setup [Github Codespace](https://github.com/codespaces/) for your repository. Or [Devpod](https://devpod.sh/)
 ### 2. Install Cline, Roo
-### 3. Bootstrap Roo setup with [create-sparc](https://www.linkedin.com/pulse/automated-code-development-new-sparc-npx-create-sparc-reuven-cohen-8ujwe/)
+### 3. Bootstrap Roo setup with [create-sparc](https://github.com/ruvnet/rUv-dev)
+
+```bash
+npx create-sparc init
+```
+
 
 This configures following for SPARC framework:
 
@@ -33,3 +38,5 @@ This configures following for SPARC framework:
 * Configure commands to allow for auto execute (e.g. npm, npx ...)
 
 ### 6. Prompt Roo to implement your `project-prd.md` on the `tech-stack.md` 
+
+* Select the "⚡️ SPARC Orchestrator" mode in Roo Code and describe your project goal

@@ -15,12 +15,13 @@ Break down development into manageable tasks and implement the code following be
 
 ## Steps
 
+* Use Roo code with boomerang mode and [SPARC](../agentic/index.md)
+* Or, go through the implementation planning, code generation, testing and debugging steps below.
+
 ### 1. Implementation Planning
-* Use the [Implementation Plan Guide](./implementation-plan.md)
-* Break down development into manageable tasks
-* Define dependencies between components
-* Create logical implementation sequence
-* Set up version control branching strategy
+* Option 1: Use the [Implementation Plan Guide](./implementation-plan.md)
+* Option 2: Use [Taskmaster](./taskmaster.md)
+* Option 3: Use [Memory Bank](https://docs.cline.bot/prompting/cline-memory-bank)
 
 ### 2. Code Generation
 * Follow the [Code Generation Guide](./codegen.md)

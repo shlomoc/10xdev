@@ -1,6 +1,6 @@
 # **Roo**
 
-## [Roo Code](https://roocode.com/): Your AI-Powered Dev Team, Right in Your Editor.
+## [Roo Code](https://roocode.com/): Your AI-Powered Dev Team, Right in Your Editor
 
 - [Documentation](https://docs.roocode.com/)
 - [Boomerang tasks](https://docs.roocode.com/features/boomerang-tasks)

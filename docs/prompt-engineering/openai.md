@@ -14,4 +14,5 @@
 - [OpenAI API Reference](https://platform.openai.com/docs/api-reference/introduction)  
 - [OpenAI GPTs Documentation](https://platform.openai.com/docs/introduction/gpts)  
 - [GPT Store](https://chat.openai.com/gpts)  
-- [Create a GPT](https://chat.openai.com/gpts/editor)  
+- [Create a GPT](https://chat.openai.com/gpts/editor) 
+- [Codex](https://openai.com/codex/)

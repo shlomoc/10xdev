@@ -17,6 +17,11 @@ Pick up a feature from the implementation plan
 - Pick the best approach and ask for a detailed action plan
 - Review the plan carefully
 - Pull up API docs if needed, review them, and attach them inside Cursor
+### 2b. (optional)
+- Use TDD
+```md
+Write test first, then write the code, and then iterate the code until all tests pass
+```
 ### 3. Run the prompt to generate code for the next incomplete step
 ### 4. Follow any user instructions provided by the AI
 ### 5. Mark the step as complete in your implementation plan

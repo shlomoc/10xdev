@@ -93,7 +93,7 @@ Ensure optimal performance and user experience on all devices:
 
 ## Project Structure
 
-A clear, organized project structure facilitates ease of maintenance and scalability.
+A clear, organized project structure facilitates ease of maintenance and scalability.  Here is one example:
 
 ```
 project/
@@ -107,6 +107,8 @@ project/
 ├── styles/           # Global styles
 ├── utils/            # utility functions
 ```
+
+(If you are using next.js template, another approach is to take a screenshot of the folders it generates in Visual Studio to give to Cursor IDE.)
 
 ## Getting Started
 
