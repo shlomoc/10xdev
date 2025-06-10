@@ -11,9 +11,9 @@ Define the structure, navigation, and flow of your application.
 
 Some curated sites for inspiration:
 
-* [curated.design](https://www.curated.design/) – Top-notch website designs.
-* [godly.website](https://godly.website/) – Animated, experimental sites.
-* [Mobbin](https://mobbin.com) – Mobile UI screenshots from popular apps.
+* [curated.design](https://www.curated.design/) Top-notch website designs.
+* [godly.website](https://godly.website/) Animated, experimental sites.
+* [Mobbin](https://mobbin.com) Mobile UI screenshots from popular apps.
 
 Screenshot them for upload.
 

@@ -20,8 +20,8 @@ Break down development into manageable tasks and implement the code following be
 
 ### 1. Implementation Planning
 * Option 1: Use the [Implementation Plan Guide](./implementation-plan.md)
-* Option 2: Use [Taskmaster](./taskmaster.md)
-* Option 3: Use [Memory Bank](https://docs.cline.bot/prompting/cline-memory-bank)
+* Option 2: Use [Taskmaster](./taskmaster.md) based on your `project-prd.md` file
+* Option 3: Use [Memory Bank](https://docs.cline.bot/prompting/cline-memory-bank) based on your input documents
 
 ### 2. Code Generation
 * Follow the [Code Generation Guide](./codegen.md)

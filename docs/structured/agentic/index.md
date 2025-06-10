@@ -9,7 +9,7 @@ Automate code development using agents.
 
 ## Steps
 
-### 1. (Optional) Setup [Github Codespace](https://github.com/codespaces/) for your repository. Or [Devpod](https://devpod.sh/)
+### 1. (Optional) Setup [Github Codespace](https://github.com/codespaces/) for your repository. You can connect to codespaces from your desktop local Visual Studio.
 ### 2. Install Cline, Roo
 ### 3. Bootstrap Roo setup with [create-sparc](https://github.com/ruvnet/rUv-dev)
 
@@ -31,7 +31,7 @@ This configures following for SPARC framework:
 * Setup Instruct Proflie (with 0.25 temperature)
 * Associate thinking modes (Architect, Spec writer..) to thinking profile
 * Associate instruct modes (Coder, Debugger ...) to instruct profile
-* Export profiles (to use again)
+* (Optional: Export profiles)
 
 ### 5. Configure auto approve for vibe coding
 

@@ -13,7 +13,7 @@ Use this prompt to break down a complex app project into manageable steps for ex
 ### 1. Provide your `design-spec.md` file in the design_spec section
 ### 2. Include your `app-sitemap.md` in the app_sitemap section
 ### 3. Detail your technology stack in the tech_stack section
-### 4. Run the prompt to generate a comprehensive implementation plan
+### 4. Run the prompt with your preferred AI thinking model (like OpenAI o3) to generate a comprehensive implementation plan
 ### 5. Review and refine the output as needed
 ### 6. Save the final document as `implementation-steps.md`
 
@@ -28,7 +28,6 @@ Your goal is to create a detailed, step-by-step plan that will guide the code ge
 
 # Input
 First, carefully review the following uploaded inputs for Design doc `design-spec.md`, Sitemap `app-sitemap.md` and Tech Stack `tech-stack.md`
-
 
 After reviewing these inputs, your task is to create a comprehensive, detailed plan for implementing the web application.
 

@@ -24,7 +24,7 @@ Systematically analyze and prioritize your application features to create a focu
 ## The Prompt
 
 ```md
-I need help prioritizing features for my SaaS application. 
+Help prioritize features for my SaaS application. 
 
 # Input
 Please review the attached `features.md` and `market-opportunity.md` files.

@@ -10,15 +10,18 @@
  * #### [Deepwiki](https://deepwiki.com/): Wiki-style documentation for any GitHub repository
  * #### [Gitinjest](https://gitingest.com/): Turn any Git repository into a simple text digest of its codebase
  * #### [Gitdiagram](https://gitdiagram.com/): Turn any GitHub repository into an interactive diagram
+* #### [Braintrust.dev Evals](https://www.braintrust.dev/docs/guides/evals)
  * #### [Replicate](https://www.replicate.com/): Deploying and running ML models (inference)
  * #### [Huggingface](https://huggingface.co): The AI community building the future: Models · Spaces · Datasets
 
 ## Frameworks
 * ### [MCP](https://modelcontextprotocol.io/introduction): Model Context Protocol (MCP) Official Documentation
 
-    * #### [Composio](https://mcp.composio.dev/) Instantly Connect to 100+ Managed MCP Servers
-
     * #### [MCP Servers](https://github.com/modelcontextprotocol/servers) Referenced implementation of MCP Servers
+
+    * #### [MCP Registry](https://github.com/modelcontextprotocol/registry) A community driven registry service for MCP servers
+
+    * #### [MCP Registry from Mastra](https://mastra.ai/mcp-registry-registry) A registry of MCP registries
 
     * #### [FastMCP](https://github.com/jlowin/fastmcp): The fast, Pythonic way to build MCP servers and clients
 
@@ -44,11 +47,18 @@
 
  * #### [Philosphy of Software Design](https://www.youtube.com/watch?v=lz451zUlF-k) with John Ousterhout
 
+  * #### [The new code: specs write once, run everywhere](https://www.youtube.com/live/U-fMsbY-kHY?t=29432s) Specification Driven Development
+
 ## Communities
  * #### [Agentics Org](http://agentics.org) Non-profit organization dedicated to democratizing artificial intelligence education and innovation
 
 ## Newsletters
  * #### [The Batch](https://www.deeplearning.ai/the-batch/) Weekly AI news and insights to help readers keep up with this rapidly changing field
+
+ * #### [AINativeDev](https://ainativedev.io/) Stay up to date with the latest in AI Native Development
+
+## Blogs
+ * #### [Simon Willison's Weblog](https://simonwillison.net/)
 
 ## Roadmaps
  * #### [AI Engineer Roadmap](https://roadmap.sh/ai-engineer/)
@@ -58,9 +68,10 @@
 
  * #### [Andrew Ng on concept of 10x Engineer](https://www.linkedin.com/posts/andrewyng_a-10x-engineer-a-widely-accepted-concept-activity-7293685385631539201-GvfA/) 
 
- * #### [How To Become A 10x Developer: Step-By-Step Guide](https://zerotomastery.io/blog/how-to-become-a-10x-developer/) 
+ * #### [How To Become A 10x Developer: Step-By-Step Guide](https://zerotomastery.io/blog/how-to-become-a-10x-developer/) Andrei Neagoie
 
- * #### [The Ultimate Guide to Becoming a 10x Dev](https://www.fromthetrenches.dev/p/16-ways-to-become-100x-dev) 
+ * #### [The Ultimate Guide to Becoming a 10x Dev](https://www.fromthetrenches.dev/p/16-ways-to-become-100x-dev) From The Trenches
+
 
 ## Articles
 
@@ -68,6 +79,5 @@
 
  * #### [Vibe coding MenuGen](https://karpathy.bearblog.dev/vibe-coding-menugen/) Andrei Karpathy explores hype vs reality of vibe coding
 
- * #### [Sitting is New Smoking](https://x.com/CodyAlt/status/1897678611819458784) Posture tip reminders
 
 

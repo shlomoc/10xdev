@@ -15,9 +15,9 @@ Establish clear project requirements and specifications.
 
 ## Steps
 
-### 1. Use the [PRD Creation prompt](./prd.md)
-### 2. Alternatively, launch [ChatPRD](https://chatgpt.com/g/g-G5diVh12v-chatprd-ai-for-product-managers)
-### 3. You can use [Codeguide](https://www.codeguide.dev/) for help in creating detailed documentation for your project
+### 1. Launch [ChatPRD](https://chatgpt.com/g/g-G5diVh12v-chatprd-ai-for-product-managers)
+### 2. Alternatively, use a custom mode in Cursor like [PRD mode](https://playbooks.com/modes/prd)  
+### 3. You can also use [Codeguide](https://www.codeguide.dev/) for help in creating detailed documentation for your project
 
 ## Output
 - `project-prd.md` - Comprehensive Product Requirements Document containing:

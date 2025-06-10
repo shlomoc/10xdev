@@ -4,6 +4,12 @@
 ### [Learn Prompting](https://learnprompting.org): Free course
 ### [Google Prompt Engineering White Paper](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 
+## Prompt Generators
+
+### [ChatPRD](https://chatgpt.com/g/g-G5diVh12v-chatprd-ai-for-product-managers): AI for Product Managers.
+### [SnapPrompt](https://chatgpt.com/g/g-674c835b12b48191bc59fd0f3953d345-snapprompt): Turn screenshot into ready-to-use prompt to recreate the UI.
+### Products like [bolt](https://bolt.new) have prompt wizard.
+
 ## Prompt Libraries
 
 ### [God of Prompt](https://www.godofprompt.ai/): Your AI Superpowers In One Click.
@@ -11,10 +17,7 @@
 ### [Prompt Hub](https://www.prompthub.us/): Community-driven Prompt platform
 ### [Prompt Library templates from Spec to Code](https://www.jointakeoff.com/prompts): o1 pro template system.
 
-## Prompt Generators
 
-### [ChatPRD](https://chatgpt.com/g/g-G5diVh12v-chatprd-ai-for-product-managers): AI for Product Managers.
-### [SnapPrompt](https://chatgpt.com/g/g-674c835b12b48191bc59fd0f3953d345-snapprompt): Turn screenshot into ready-to-use prompt to recreate the UI.
 
 ## Best practices
 ### [Tips for prompting AI IDEs](../reference/ideTips.md)

@@ -87,7 +87,6 @@ nav:
       - MVP Validation: structured/planning/mvp-validation.md
     - Requirements:
       - Requirements: structured/requirements/index.md
-      - PRD Creation: structured/requirements/prd.md
     - Tech Stack:
       - Tech Stack: structured/tech-stack/index.md
       - Sample Tech Stack: structured/tech-stack/tech-stack.md
@@ -129,6 +128,7 @@ nav:
     - Cline: ide/cline.md
     - Roo Code: ide/roo.md
     - Google AI Studio: ide/aistudio.md
+    - Github Copilot: ide/github.md
   - Agent Frameworks:
     - A2A: agent-frameworks/a2a.md
     - LangGraph: agent-frameworks/langgraph.md

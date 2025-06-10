@@ -7,8 +7,10 @@ Analyze implemented code to improve code quality.
 - Implemented codebase
 - `implementation-steps.md`
 
-You can now use [CodeRabbit](https://www.coderabbit.ai/) (free) inside your IDE.
+You can now use tools like [CodeRabbit](https://www.coderabbit.ai/) (free) inside your IDE.
 Just install the extension in Cursor, Windsurf, or VS Code, stage a commit, and get instant feedback.
+
+You can also use a Cursor custom mode like [Refactor mode](https://playbooks.com/modes/refactor) to improve code.
 
 Alternatively, you can use a prompt like below:
 
@@ -88,4 +90,4 @@ Begin your response with your analysis of the current implementation, then proce
 - Ensures best practices are applied consistently
 
 ## Next Steps
-Implement the the code refactor plan.  After implementing the code refactor plan, proceed to [Testing](./debugging.md).
+Implement the the code refactor plan.  After implementing the code refactor plan, proceed to [Testing and Debugging](./debugging.md).

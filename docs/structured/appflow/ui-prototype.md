@@ -39,7 +39,12 @@ Consider:
 - Responsive design considerations
 ```
 
-### 3. UI Prototype Development
+## Output
+* Wireframes or page images
+
+## Optional
+* UI Prototype Development
+
 Utilize [Lovable](https://lovable.dev) to create a functional UI prototype from your wireframes.
 
 ```md
@@ -55,8 +60,6 @@ Please include:
 
 You can also use [SnapPrompt](https://chatgpt.com/g/g-674c835b12b48191bc59fd0f3953d345-snapprompt) to turn a screenshot into ready-to-use prompt to recreate the UI.
 
-## Output
-* Wireframes or page images
 
 ## Next Steps
 * Proceed to [Design Spec](../design/index.md) using your `project-prd.md`, `tech-stack.md`, `app-sitemap.md` and wireframes as input

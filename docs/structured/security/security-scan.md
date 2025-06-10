@@ -19,7 +19,7 @@ Identify and remediate security vulnerabilities, ensure compliance with best pra
 ## Security Prompt
 
 ```md
-I need you to act as a security expert and do a full audit of the codebase. Your goal is to flag high-impact vulnerabilities and help fix them with minimal changes.
+Act as a security expert and do a full audit of the codebase. Your goal is to flag high-impact vulnerabilities and help fix them with minimal changes.
 
 Follow this 3-phase approach:
 

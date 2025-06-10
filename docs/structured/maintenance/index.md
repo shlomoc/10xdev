@@ -14,10 +14,11 @@ Collect user feedback and implement iterative improvements.
 
 ## Steps
 
-### 1. Implement analytics and feedback collection
-### 2. Prioritize improvements based on user feedback
-### 3. Plan feature enhancements
-### 4. Schedule regular maintenance
+### 1. Paste all feedback into (Cursor)
+### 2. Ask it to create `maintenance-log.md` with root causes + fixes
+### 3. Break it down, one item at a time
+### 4. Ask (Cursor) to fix each one and check it off
+### 5. Review your final commits (with CodeRabbit)
 
 ## Output
 * `maintenance-log.md` - Ongoing maintenance documentation

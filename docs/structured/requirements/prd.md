@@ -17,7 +17,7 @@ Create a a detailed Product Requirements Document (PRD) that clearly defines you
 ## The Prompt
 
 ```md
-I need help creating a comprehensive Product Requirements Document (PRD) for my SaaS application.
+Help create a comprehensive Product Requirements Document (PRD) for my SaaS application.
 
 # Input
 Please review my `feature-priorities.md` file or the following information:
@@ -96,7 +96,7 @@ Please provide detailed specifications for each section while maintaining clarit
 ## Example
 
 ```prompt
-I need help creating a comprehensive Product Requirements Document (PRD) for my SaaS application.
+Help create a comprehensive Product Requirements Document (PRD) for my SaaS application.
 
 # Input
 Please review my `feature-priorities.md` file or the following information:

@@ -19,7 +19,7 @@ description: Systematically identify and resolve issues in your application
 ### 2. Run your unit and integration tests
 ### 3. Use the latest, best coding models to find the core issues
 ### 4. Utilize models with large context windows (e.g., Gemini Pro 2.5) to scan the codebase
-### 5. Only attach relevant files so AI can focus on the problem area effectively
+### 5. Attach the relevant files so AI can focus on the problem area effectively
 
 ### Debugging Prompts
 

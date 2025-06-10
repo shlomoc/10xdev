@@ -19,7 +19,7 @@ A modern, streamlined approach to building MVPs in weeks using AI-powered tools 
 
 **Contents:**
 
-- Replace Figma with @lovable_dev for instant responsive UIs
+- Replace Figma with [lovable](https://lovable.dev) for instant responsive UIs
 - Get clickable prototypes in Week 1
 - Built-in auth, forms, and routing
 
@@ -43,7 +43,7 @@ A modern, streamlined approach to building MVPs in weeks using AI-powered tools 
 
 **Contents:**
 
-- 70-80% core functionality built in @lovable_dev
+- 70-80% core functionality built in lovable.
 - Frontend-backend integration
 - User roles and permissions
 - Basic CRUD operations
@@ -57,7 +57,7 @@ A modern, streamlined approach to building MVPs in weeks using AI-powered tools 
 **Contents:**
 
 - GitHub sync from Lovable
-- @cursor_ai for intelligent codebase management
+-[cursor](http://www.cursor.com)for intelligent codebase management
 - Multi-file edits and optimizations
 - Backend logic and API refinement
 
@@ -143,9 +143,9 @@ A modern, streamlined approach to building MVPs in weeks using AI-powered tools 
 
 **Outcome:** Technology stack optimized for AI-assisted development.
 
-### [The Way of Code](https://www.thewayofcode.com/) Based on Lao Tzu (by Rick Rubin with Anthropic)
+### [The Way of Code](https://www.thewayofcode.com/) Inspiration based on Lao Tzu (by Rick Rubin with Anthropic)
 ### [12 Rules to Vibe Code Without Frustration](https://creatoreconomy.so/p/12-rules-to-vibe-code-without-frustration)
-### [AI App MVP Prompt Template](../reference/ai_mvp_template.md)
+### [AI App MVP Prompt Template](../reference/AI_MVP_Template.md)
 
 
 ---
