@@ -2,24 +2,34 @@
 
 ## Tools
 
+### Search & Documentation
  * #### [Perplexity](https://www.perplexity.ai/): AI search
- * #### [Ideagram](https://ideogram.ai/): Generate stunning images
- * #### [11ElevenLabs](https://elevenlabs.io/): Voice AI platform
- * #### [Obsidian](https://obsidian.md/): Markdown Editor
- * #### [SuperWhisper](https://superwhisper.com/): Voice dictation (Mac)
  * #### [Deepwiki](https://deepwiki.com/): Wiki-style documentation for any GitHub repository
  * #### [Gitinjest](https://gitingest.com/): Turn any Git repository into a simple text digest of its codebase
  * #### [Gitdiagram](https://gitdiagram.com/): Turn any GitHub repository into an interactive diagram
-* #### [Braintrust.dev Evals](https://www.braintrust.dev/docs/guides/evals)
+
+### AI Development & Model Deployment
  * #### [Replicate](https://www.replicate.com/): Deploying and running ML models (inference)
+ * #### [Copilotkit.ai](https://www.copilotkit.ai/): Build an AI copilot for your app
+ * #### [@Web 21st.dev](https://21st.dev): Discover, share & remix the best UI components
  * #### [Huggingface](https://huggingface.co): The AI community building the future: Models · Spaces · Datasets
+ * #### [Braintrust.dev Evals](https://www.braintrust.dev/docs/guides/evals)
+
+
+### Content Creation
+ * #### [Ideagram](https://ideogram.ai/): Generate stunning images
+ * #### [11ElevenLabs](https://elevenlabs.io/): Voice AI platform
+ * #### [Tavus](https://www.tavus.io/): Conversational Video Interface
+
+### Productivity & Note-Taking
+ * #### [Obsidian](https://obsidian.md/): Markdown Editor
+ * #### [SuperWhisper](https://superwhisper.com/): Voice dictation (Mac)
+ * #### [Notebook LLM](https://notebooklm.google.com/): Voice dictation (Mac)
 
 ## Frameworks
 * ### [MCP](https://modelcontextprotocol.io/introduction): Model Context Protocol (MCP) Official Documentation
 
     * #### [MCP Servers](https://github.com/modelcontextprotocol/servers) Referenced implementation of MCP Servers
-
-    * #### [MCP Registry](https://github.com/modelcontextprotocol/registry) A community driven registry service for MCP servers
 
     * #### [MCP Registry from Mastra](https://mastra.ai/mcp-registry-registry) A registry of MCP registries
 
@@ -71,6 +81,8 @@
  * #### [How To Become A 10x Developer: Step-By-Step Guide](https://zerotomastery.io/blog/how-to-become-a-10x-developer/) Andrei Neagoie
 
  * #### [The Ultimate Guide to Becoming a 10x Dev](https://www.fromthetrenches.dev/p/16-ways-to-become-100x-dev) From The Trenches
+
+ * #### [GenAI Application Engineers](https://www.deeplearning.ai/the-batch/issue-305/) From the Batch
 
 
 ## Articles

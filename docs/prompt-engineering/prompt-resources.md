@@ -8,7 +8,10 @@
 
 ### [ChatPRD](https://chatgpt.com/g/g-G5diVh12v-chatprd-ai-for-product-managers): AI for Product Managers.
 ### [SnapPrompt](https://chatgpt.com/g/g-674c835b12b48191bc59fd0f3953d345-snapprompt): Turn screenshot into ready-to-use prompt to recreate the UI.
-### Products like [bolt](https://bolt.new) have prompt wizard.
+### [Anthropic Prompt Generator/Improver](https://console.anthropic.com/dashboard): Generate a prompt
+### [OpenAI Playground](https://platform.openai.com/playground/chat): Create prompt wizard
+### [meta-prompt-workflow](./meta-prompt-workflow.md)
+Products like [bolt](https://bolt.new) also have prompt wizard.
 
 ## Prompt Libraries
 

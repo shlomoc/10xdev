@@ -49,6 +49,9 @@ Add additional logs to validate your assumptions and track the transformation of
 Explain the approach in detail first without writing any code.
 ```
 
+**4. Debugging UI Issues**
+A useful tool for debugging UI issues without needing to manually copy and paste console logs is [browser-tools-mcp](MCPhttps://github.com/AgentDeskAI/browser-tools-mcp).  Windsurf also provides a feature for browser testing.
+
 ## Output
 - Resolved application issues
 - Documentation of problems and solutions

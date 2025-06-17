@@ -2,7 +2,7 @@
 
 > How to participate in 10xDevelopers community
 
-We welcome contributions from the community! Please review our [README.txt](https://github.com/shlomoc/10xdevelopers/README.md) for details on how to submit changes.
+We welcome contributions from the community! Please review our [README.txt](https://github.com/shlomoc/10xdev/blob/main/README.md) for details on how to submit changes.
 
 [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
