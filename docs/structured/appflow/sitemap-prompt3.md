@@ -4,7 +4,7 @@ This approach provides a structured template for creating a comprehensive sitema
 
 ### Steps
 
-1. Provide your `project-prd.md` file or replace placeholder information with your application details
+1. Provide your `prd.md` file or replace placeholder information with your application details
 2. List all key features that need to be accessible
 3. Define all user types and their permissions
 4. Include any specific navigation requirements
@@ -16,7 +16,7 @@ This approach provides a structured template for creating a comprehensive sitema
 I need help creating a comprehensive sitemap and user flow documentation for my SaaS application.
 
 # Input
-Please review my `project-prd.md` file or the following information:
+Please review my `prd.md` file or the following information:
 
 Application Name: [APP NAME]
 Core Features: [LIST KEY FEATURES FROM PRD]

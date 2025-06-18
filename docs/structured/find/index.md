@@ -19,7 +19,7 @@ Identify market opportunities for your SaaS.
 
 ### 1. Identify gaps in the market where a new SaaS could fit
 
-Why is this need unmet? Who has this need? Are there enough people to make it worthwhile?  What are the weaknesses of the competition? Can you find a whitespace with an underserved market? Can you build a compelling solution to meet this need in delightful way?
+What is the gap? Why is this need unmet? Who has this need? Are there enough people to make it worthwhile?  What are the weaknesses of the competition? Can you find a whitespace with an underserved market? Can you build a compelling solution to meet this need in delightful way?
 
 ### 2. Utilize AI tools:
 * [Perplexity Deep Research](https://www.perplexity.ai/) - Advanced AI research assistant

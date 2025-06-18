@@ -4,7 +4,7 @@
 Generate comprehensive technical specifications.
 
 ## Input
-* `project-prd.md` from previous step
+* `prd.md` from previous step
 * `tech-stack.md` from previous step
 * `app-sitemap.md` from previous step
 

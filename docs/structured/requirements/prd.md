@@ -82,7 +82,7 @@ Reflection:
 - Reflect on how each element contributes to the overall project goals.
 
 # Output
-Please provide detailed specifications for each section while maintaining clarity and actionability. The final document will be saved as `project-prd.md` for reference during development.
+Please provide detailed specifications for each section while maintaining clarity and actionability. The final document will be saved as `prd.md` for reference during development.
 ```
 
 ## How to Use
@@ -91,7 +91,7 @@ Please provide detailed specifications for each section while maintaining clarit
 2. Replace the placeholder information with your product details
 3. Be specific about your target audience and use cases
 4. Include any specific technical requirements or constraints
-5. Save the output as `project-prd.md` for the next step
+5. Save the output as `prd.md` for the next step
 
 ## Example
 
@@ -114,7 +114,7 @@ Prioritized Features:
 ```
 
 ## Output
-- `project-prd.md` - A comprehensive Product Requirements Document that defines all aspects of your product
+- `prd.md` - A comprehensive Product Requirements Document that defines all aspects of your product
 
 ## PRD Best Practices
 
@@ -191,4 +191,4 @@ Before finalizing your PRD, ensure:
 
 ## Next Steps
 After completing your PRD:
-1. Proceed to [Tech Stack](../tech-stack/index.md) and [App Flow](../appflow/index.md) using your `project-prd.md` as input
+1. Proceed to [Tech Stack](../tech-stack/index.md) and [App Flow](../appflow/index.md) using your `prd.md` as input

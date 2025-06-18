@@ -29,6 +29,6 @@ This configures following for SPARC framework:
 
 * Configure commands to allow for auto execute (e.g. npm, npx ...)
 
-### 5. Prompt Roo to implement your `project-prd.md` on the `tech-stack.md` 
+### 5. Prompt Roo to implement your `prd.md` on the `tech-stack.md` 
 
 * Select the "⚡️ SPARC Orchestrator" mode in Roo Code and describe your project goal

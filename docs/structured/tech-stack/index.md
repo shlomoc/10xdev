@@ -9,7 +9,7 @@ description: Choose and document your application's technology stack
 Define the technologies that will be used to build your application.
 
 ## Input
-- `project-prd.md` from previous step
+- `prd.md` from previous step
 
 ## Steps
 
@@ -32,4 +32,4 @@ Define the technologies that will be used to build your application.
     - Testing frameworks
 
 ## Next Steps
-- Proceed to [App Flow](../appflow/index.md) using your `project-prd.md` and `tech-stack.md` as input
+- Proceed to [App Flow](../appflow/index.md) using your `prd.md` and `tech-stack.md` as input

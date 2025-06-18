@@ -35,7 +35,7 @@ Establish clear project requirements and specifications.
 ### 3. You can also use [Codeguide](https://www.codeguide.dev/) for help in creating detailed documentation for your project
 
 ## Output
-- `project-prd.md` - Comprehensive Product Requirements Document containing:
+- `prd.md` - Comprehensive Product Requirements Document containing:
     - App overview
     - User flows
     - Tech stack & APIs
@@ -43,4 +43,4 @@ Establish clear project requirements and specifications.
     - In-scope vs. out-of-scope items
 
 ## Next Steps
-- Proceed to [Tech Stack](../tech-stack/index.md) and [App Flow](../appflow/index.md) using your `project-prd.md` as input
+- Proceed to [Tech Stack](../tech-stack/index.md) and [App Flow](../appflow/index.md) using your `prd.md` as input

@@ -4,16 +4,19 @@
 
 ### Search & Documentation
  * #### [Perplexity](https://www.perplexity.ai/): AI search
+
  * #### [Deepwiki](https://deepwiki.com/): Wiki-style documentation for any GitHub repository
  * #### [Gitinjest](https://gitingest.com/): Turn any Git repository into a simple text digest of its codebase
  * #### [Gitdiagram](https://gitdiagram.com/): Turn any GitHub repository into an interactive diagram
 
+
 ### AI Development & Model Deployment
  * #### [Replicate](https://www.replicate.com/): Deploying and running ML models (inference)
  * #### [Copilotkit.ai](https://www.copilotkit.ai/): Build an AI copilot for your app
- * #### [@Web 21st.dev](https://21st.dev): Discover, share & remix the best UI components
+ * #### [21st.dev](https://21st.dev): Discover, share & remix the best UI components
  * #### [Huggingface](https://huggingface.co): The AI community building the future: Models · Spaces · Datasets
- * #### [Braintrust.dev Evals](https://www.braintrust.dev/docs/guides/evals)
+ * #### [Braintrust.dev](https://www.braintrust.dev/docs/guides/evals) Evals
+ * #### [Tutorials for building agents](https://github.com/NirDiamant/agents-towards-production) Open-source playbook for building agents
 
 
 ### Content Creation
@@ -24,7 +27,7 @@
 ### Productivity & Note-Taking
  * #### [Obsidian](https://obsidian.md/): Markdown Editor
  * #### [SuperWhisper](https://superwhisper.com/): Voice dictation (Mac)
- * #### [Notebook LLM](https://notebooklm.google.com/): Voice dictation (Mac)
+ * #### [Notebook LLM](https://notebooklm.google.com/): Understand complex topics, ask questions, & get instant insight
 
 ## Frameworks
 * ### [MCP](https://modelcontextprotocol.io/introduction): Model Context Protocol (MCP) Official Documentation

@@ -119,7 +119,7 @@ nav:
     - OpenAI: prompt-engineering/openai.md
     - Anthropic: prompt-engineering/anthropic.md
     - Gemini: prompt-engineering/gemini.md
-    - Grok: prompt-engineering/grok.md
+    - xAI: prompt-engineering/xAI.md
     - Prompting Resources: prompt-engineering/prompt-resources.md
   - AI IDEs:
     - Lovable.dev: ide/lovable.md

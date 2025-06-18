@@ -19,7 +19,7 @@ A modern, streamlined approach to building MVPs in weeks using AI-powered tools 
 
 **Contents:**
 
-- Replace Figma with [lovable](https://lovable.dev) for instant responsive UIs
+- Replace Figma with [lovable.dev](https://lovable.dev) for instant responsive UIs
 - Get clickable prototypes in Week 1
 - Built-in auth, forms, and routing
 
@@ -56,8 +56,7 @@ A modern, streamlined approach to building MVPs in weeks using AI-powered tools 
 
 **Contents:**
 
-- GitHub sync from Lovable
--[cursor](http://www.cursor.com)for intelligent codebase management
+- GitHub sync from Lovable -> [Cursor](http://www.cursor.com) for intelligent codebase management
 - Multi-file edits and optimizations
 - Backend logic and API refinement
 

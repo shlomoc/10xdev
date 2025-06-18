@@ -4,13 +4,13 @@
 💡 Generate comprehensive technical specifications that serve as the architectural blueprint for your software project.
 
 ## Input
-- `project-prd.md` - Your Product Requirements Document
+- `prd.md` - Your Product Requirements Document
 - `app-sitemap.md` - Your application structure and navigation document
 - Tech stack information
 
 ## Steps
 
-1. Provide your `project-prd.md` file in the project_request section
+1. Provide your `prd.md` file in the project_request section
 2. Include your `app-sitemap.md` in the app_sitemap section
 3. Detail your preferred technology stack in the tech_stack section
 4. Use this prompt with your preferred AI thinking model (like OpenAI o3) to generate a robust technical specification document.
@@ -31,7 +31,7 @@ You are an expert software architect tasked with creating detailed technical spe
 Your specifications will be used as direct input for planning & code generation AI systems, so they must be precise, structured, and comprehensive.
 
 # Input
-First, carefully review the uploaded PRD `project-prd.md`, Sitemap `app-sitemap.md` and Tech Stack `tech-stack.md`
+First, carefully review the uploaded PRD `prd.md`, Sitemap `app-sitemap.md` and Tech Stack `tech-stack.md`
 
 
 Your task is to generate a comprehensive technical specification based on this information.

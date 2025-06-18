@@ -4,7 +4,7 @@
 Establishes your design system and visual language for consistent UI/UX implementation.
 
 ## Input
-* `project-prd.md` from previous step
+* `prd.md` from previous step
 * `app-sitemap.md` from previous step
 
 ## Steps
@@ -62,4 +62,4 @@ You can also use [SnapPrompt](https://chatgpt.com/g/g-674c835b12b48191bc59fd0f39
 
 
 ## Next Steps
-* Proceed to [Design Spec](../design/index.md) using your `project-prd.md`, `tech-stack.md`, `app-sitemap.md` and wireframes as input
+* Proceed to [Design Spec](../design/index.md) using your `prd.md`, `tech-stack.md`, `app-sitemap.md` and wireframes as input

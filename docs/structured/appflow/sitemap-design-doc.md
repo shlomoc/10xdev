@@ -10,7 +10,7 @@ description: Create a comprehensive sitemap and user flow documentation for your
 This guide helps you create a detailed sitemap and user flow documentation that maps out your application's structure and navigation paths. Choose between two approaches based on your needs.
 
 ## Input
-- `project-prd.md` - Your Product Requirements Document
+- `prd.md` - Your Product Requirements Document
 - User types and profiles
 
 ## Prompt 1: Interactive Sitemap & Design Doc
@@ -36,7 +36,7 @@ Sitemap & Design Doc
 You are a world-class UI and UX designer.
 
 # Input
-Please review my `project-prd.md` file or the following information:
+Please review my `prd.md` file or the following information:
 
 Here are my end-user profiles:
 `insert profiles from PRD`

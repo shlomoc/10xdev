@@ -4,13 +4,13 @@
 
 ## Introduction
 
-This documentation outlines the technology stack used in a cutting-edge web application starter template powered by Next.js 14. The stack is designed for modern development, integrating robust frameworks, authentication, databases, payment solutions, and responsive design practices.
+This documentation outlines the technology stack used in a cutting-edge web application starter template powered by Next.js. The stack is designed for modern development, integrating robust frameworks, authentication, databases, payment solutions, and responsive design practices.
 
 ## Overview of Tech Stack
 
 | Category       | Technology                |
 |----------------|---------------------------|
-| Framework      | Next.js 14 (App Router)   |
+| Framework      | Next.js (App Router)   |
 | Authentication | Clerk                     |
 | Database       | Supabase                  |
 | Styling        | Tailwind CSS              |
@@ -21,7 +21,7 @@ This documentation outlines the technology stack used in a cutting-edge web appl
 
 ## Core Technologies
 
-### 1. Next.js 14 (App Router)
+### 1. Next.js (App Router)
 
 Next.js provides server-side rendering, API routes, and optimized performance. The App Router simplifies navigation and structure.
 

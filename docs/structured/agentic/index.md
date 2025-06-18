@@ -4,7 +4,7 @@
 Automate code development using agents.
 
 ## Input
-* `project-prd.md` from previous steps
+* `prd.md` from previous steps
 * `tech-stack.md` from previous steps
 
 ## Steps
