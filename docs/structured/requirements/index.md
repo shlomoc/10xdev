@@ -31,6 +31,7 @@ Establish clear project requirements and specifications.
 ## Steps
 
 ### 1. Launch [ChatPRD](https://chatgpt.com/g/g-G5diVh12v-chatprd-ai-for-product-managers)
+Continue iterating and refining until all requirements are clearly spelled out.
 ### 2. Alternatively, use a custom mode in Cursor like [PRD mode](https://playbooks.com/modes/prd)  
 ### 3. You can also use [Codeguide](https://www.codeguide.dev/) for help in creating detailed documentation for your project
 

@@ -1,7 +1,7 @@
 # Resources for Effective Prompting  
 
 ## Tutorials
-### [Learn Prompting](https://learnprompting.org): Free course
+### [Prompt Engineering Guide](https://www.forwardfuture.ai/p/humanity-s-last-prompt-engineering-guide) By Matthew Berman and Nick Wentz
 ### [Google Prompt Engineering White Paper](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 
 ## Prompt Generators

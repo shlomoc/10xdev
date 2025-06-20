@@ -16,7 +16,6 @@
  * #### [21st.dev](https://21st.dev): Discover, share & remix the best UI components
  * #### [Huggingface](https://huggingface.co): The AI community building the future: Models · Spaces · Datasets
  * #### [Braintrust.dev](https://www.braintrust.dev/docs/guides/evals) Evals
- * #### [Tutorials for building agents](https://github.com/NirDiamant/agents-towards-production) Open-source playbook for building agents
 
 
 ### Content Creation
@@ -46,7 +45,7 @@
 
  * #### [ByteByteGo](https://www.youtube.com/c/ByteByteGo) System design concepts and software architecture explained
 
- * #### [Mathew Berman](https://www.youtube.com/@matthew_berman) Youtuber keeping up with latest trending topics in AI
+ * #### [Matthew Berman](https://www.youtube.com/@matthew_berman) Youtuber keeping up with latest trending topics in AI
 
  * #### [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy) AI Researcher and educator
 
@@ -62,8 +61,11 @@
 
   * #### [The new code: specs write once, run everywhere](https://www.youtube.com/live/U-fMsbY-kHY?t=29432s) Specification Driven Development
 
+  * #### [Andrej Karpathy: Software Is Changing (Again)](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
+
 ## Communities
  * #### [Agentics Org](http://agentics.org) Non-profit organization dedicated to democratizing artificial intelligence education and innovation
+ * #### [AI Builders Club](https://www.aibuilderclub.com/) Community of Builders (paid)
 
 ## Newsletters
  * #### [The Batch](https://www.deeplearning.ai/the-batch/) Weekly AI news and insights to help readers keep up with this rapidly changing field
@@ -90,7 +92,7 @@
 
 ## Articles
 
- * #### [Vibe coding Rules example](https://gist.github.com/mberman84/a283d5e59bddfd7133ab74b62da9d7b9) from Mathew Berman
+ * #### [Vibe coding Rules example](https://gist.github.com/mberman84/a283d5e59bddfd7133ab74b62da9d7b9) from Matthew Berman
 
  * #### [Vibe coding MenuGen](https://karpathy.bearblog.dev/vibe-coding-menugen/) Andrei Karpathy explores hype vs reality of vibe coding
 
