@@ -9,5 +9,3 @@
 - [Community Projects](https://github.com/RooCodeInc/Roo-Code-Docs/blob/main/docs/community/index.md)
 - [MCP](https://docs.roocode.com/features/mcp/overview)
 
-## Setup Guide
-To Automate Code Development with Roo Code and SPARC Orchestration, see the [Bootstrap Roo setup with create-sparc](https://www.linkedin.com/pulse/automated-code-development-new-sparc-npx-create-sparc-reuven-cohen-8ujwe/)

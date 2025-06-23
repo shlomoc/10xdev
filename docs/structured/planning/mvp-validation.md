@@ -50,7 +50,6 @@ Before coding, create a basic landing page that includes:
 Drive traffic through:
 
 * Social media posts and polls
-* Targeted ads to potential users
 * Community discussions
 
 ### 5. Secure Pre-Commitments

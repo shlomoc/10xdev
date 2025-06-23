@@ -11,7 +11,7 @@ Generate comprehensive technical specifications.
 ## Steps
 
 ### 1. Use the [Design Spec Prompt](./design-spec-prompt.md)
-### 2. Alternatively, use a custom mode in Cursor like [Plan mode](https://playbooks.com/modes/plan)
+### 2. Alternatively, use a custom mode in Cursor like [Plan mode](https://playbooks.com/modes/plan) or [SPARC agentic](../agentic/index.md) process
 ### 3. Include your PRD, sitemap, and tech stack documents in the prompt
 ### 4. Review and refine the generated specification
 

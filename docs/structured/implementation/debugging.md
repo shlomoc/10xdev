@@ -28,7 +28,7 @@ Here are some prompts that can be used to guide AI in debugging:
 **1. Basic Debugging:**
 
 ```md
-Use tree of thought reasoning to find the core issue first and then plan step by step to fix the issue.
+Find the core issue first and then plan step by step to fix the issue.
 ```
 
 **2. Debugging with Additional Context:**

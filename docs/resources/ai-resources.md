@@ -11,7 +11,6 @@
  * #### [Gitdiagram](https://gitdiagram.com/) Turn any GitHub repository into an interactive diagram
 
 
-
 ### AI Development & Model Deployment
  * #### [Replicate](https://www.replicate.com/) Deploying and running ML models (inference)
  * #### [Copilotkit.ai](https://www.copilotkit.ai/) Build an AI copilot for your app
@@ -30,16 +29,12 @@
  * #### [SuperWhisper](https://superwhisper.com/) Voice dictation (Mac)
  * #### [Notebook LLM](https://notebooklm.google.com/) Understand complex topics, ask questions, & get instant insight
 
-## Frameworks
-* ### [MCP](https://modelcontextprotocol.io/introduction) Model Context Protocol (MCP) Official Documentation
+### MCP
+* #### [MCP](https://modelcontextprotocol.io/introduction) Model Context Protocol (MCP) Official Documentation
+* #### [MCP Servers](https://github.com/modelcontextprotocol/servers) Referenced implementation of MCP Servers
+* #### [MCP Registry from Mastra](https://mastra.ai/mcp-registry-registry) A registry of MCP registries
+* #### [FastMCP](https://github.com/jlowin/fastmcp) The fast, Pythonic way to build MCP servers and clients
 
-    * #### [MCP Servers](https://github.com/modelcontextprotocol/servers) Referenced implementation of MCP Servers
-
-    * #### [MCP Registry from Mastra](https://mastra.ai/mcp-registry-registry) A registry of MCP registries
-
-    * #### [FastMCP](https://github.com/jlowin/fastmcp) The fast, Pythonic way to build MCP servers and clients
-
-* ### [SPARC](https://gist.github.com/ruvnet/27ee9b1dc01eec69bc270e2861aa2c05) (Specification, Pseudocode, Architecture, Refinement, and Completion)
 
 ## YouTube Channels
 
@@ -47,13 +42,15 @@
 
  * #### [ByteByteGo](https://www.youtube.com/c/ByteByteGo) System design concepts and software architecture explained
 
- * #### [Matthew Berman](https://www.youtube.com/@matthew_berman) Youtuber keeping up with latest trending topics in AI
+ * #### [Matthew Berman](https://www.youtube.com/@matthew_berman) Latest trending topics in AI
 
  * #### [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy) AI Researcher and educator
 
  * #### [AI Engineer](https://www.youtube.com/@aiDotEngineer) Talks, workshops, events, and training for AI Engineers 
 
 ## YouTube Videos
+
+ * #### [Andrej Karpathy: Software Is Changing (Again)](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
 
  * #### [How I use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=1414s) Andrei Karpathy explains
 
@@ -63,7 +60,6 @@
 
   * #### [The new code: specs write once, run everywhere](https://www.youtube.com/live/U-fMsbY-kHY?t=29432s) Specification Driven Development
 
-  * #### [Andrej Karpathy: Software Is Changing (Again)](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
 
 ## Communities
  * #### [Agentics Org](http://agentics.org) Non-profit organization dedicated to democratizing artificial intelligence education and innovation

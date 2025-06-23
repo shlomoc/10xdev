@@ -75,14 +75,6 @@ Effective email communication solutions integrated seamlessly into the stack.
 
 ## Additional Features
 
-### Real-time Capabilities
-
-Enhance user interaction with real-time functionality:
-
-- Instant notifications
-- Live data updates
-- WebSocket connectivity
-
 ### Responsive Design
 
 Ensure optimal performance and user experience on all devices:
@@ -97,15 +89,19 @@ A clear, organized project structure facilitates ease of maintenance and scalabi
 
 ```
 project/
-├── app/              # Next.js app router pages
-├── components/       # React components
-├── documentation/    # Generated documentation
-├── hooks/            # integration hooks
-├── lib/              # library functions
-├── public/           # Static assets
-├── supabase/         # supabase functions
-├── styles/           # Global styles
-├── utils/            # utility functions
+├── documentation/        # Generated documentation
+├── public/               # Static assets
+├── src/                  # Source code root
+│   ├── app/              # Next.js app router pages
+│   ├── components/       # React components
+│   ├── hooks/            # Integration hooks
+│   ├── lib/              # Library functions
+│   ├── styles/           # Global styles
+│   ├── supabase/         # Supabase functions
+│   ├── utils/            # Utility functions
+├── tests/                # Test suites
+│   ├── integration/      # Integration tests
+│   └── unit/             # Unit tests
 ```
 
 (If you are using next.js template, another approach is to take a screenshot of the folders it generates in Visual Studio to give to Cursor IDE.)
@@ -123,7 +119,3 @@ Create free accounts to begin development:
 For troubleshooting, use resources such as [Perplexity](https://perplexity.com/).
 
 Get the basics to help you build an MVP using a sample [starter kit](https://vercel.com/templates/next.js).
-
-
-
-

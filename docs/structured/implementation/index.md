@@ -10,8 +10,9 @@ Break down development into manageable tasks and implement the code following be
 
 ## Input
 - `design-spec.md` from previous step
-- `app-sitemap.md` from previous step
-- `tech-stack.md` from previous step
+- `prd.md` from previous steps
+- `app-sitemap.md` from previous steps
+- `tech-stack.md` from previous steps
 
 ## Steps
 

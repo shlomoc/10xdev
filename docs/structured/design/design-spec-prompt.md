@@ -62,7 +62,6 @@ In your analysis, be sure to:
 
 After your analysis, generate the technical specification using the following markdown structure:
 
-```markdown
 # {Project Name} Technical Specification
 
 ## 1. System Overview

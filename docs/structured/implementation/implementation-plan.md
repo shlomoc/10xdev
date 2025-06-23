@@ -5,8 +5,9 @@ Use this prompt to break down a complex app project into manageable steps for ex
 
 ## Input
 - `design-spec.md` - Technical specifications document
+- `prd.md` - Product Requirements Doc
 - `app-sitemap.md` - Application structure and navigation
-- Tech stack information
+- `tech-stack.md` - Tech stack
 
 ## For Existing codebase (or starting from template)
 Take a screenshot of the folders (from the Explorer view in the Visual Studio editor) and include that in the prompt.
@@ -20,12 +21,9 @@ If you have existing code on Github, these tools can be useful:
 
 ## Steps
 
-### 1. Provide your `design-spec.md` file in the design_spec section
-### 2. Include your `app-sitemap.md` in the app_sitemap section
-### 3. Detail your technology stack in the tech_stack section
-### 4. Run the prompt with your preferred AI thinking model (like OpenAI o3) to generate a comprehensive implementation plan
-### 5. Review and refine the output as needed
-### 6. Save the final document as `implementation-steps.md`
+### 1. Run the prompt with your preferred AI thinking model (like OpenAI o3) to generate a comprehensive implementation plan
+### 2. Review and refine the output as needed
+### 3. Save the final document as `implementation-steps.md`
 
 
 ## Prompt
@@ -37,7 +35,7 @@ You are an AI task planner responsible for breaking down a complex web applicati
 Your goal is to create a detailed, step-by-step plan that will guide the code generation process for building a fully functional web application based on a provided technical specification.
 
 # Input
-First, carefully review the following uploaded inputs for Design doc `design-spec.md`, Sitemap `app-sitemap.md` and Tech Stack `tech-stack.md`
+First, carefully review the following uploaded inputs for Design doc `design-spec.md`, PRD `prd.md`, Sitemap `app-sitemap.md` and Tech Stack `tech-stack.md`
 
 After reviewing these inputs, your task is to create a comprehensive, detailed plan for implementing the web application.
 

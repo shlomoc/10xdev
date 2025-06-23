@@ -115,6 +115,8 @@ nav:
       - Feedback & Maintenance: structured/maintenance/index.md
     - Agentic Process:
       - Agentic Process: structured/agentic/index.md
+      - SPARC Claude: structured/agentic/SPARC-claude.md
+      - SPARC Roo: structured/agentic/SPARC-roo.md
   - Prompt Engineering: 
     - OpenAI: prompt-engineering/openai.md
     - Anthropic: prompt-engineering/anthropic.md

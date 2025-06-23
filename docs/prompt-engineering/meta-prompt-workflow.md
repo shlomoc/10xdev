@@ -56,4 +56,3 @@ Continue the cycle of:
 
 Repeat this process until you achieve the desired results.
 
-*Note: The key to success is thorough testing and honest feedback at each iteration.*

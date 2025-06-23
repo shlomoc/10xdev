@@ -3,12 +3,12 @@
 ## Steps
 
 ### 1. Install Cline, Roo
+
 ### 2. Bootstrap Roo setup with [create-sparc](https://github.com/ruvnet/rUv-dev)
 
 ```bash
 npx create-sparc init
 ```
-
 
 This configures following for SPARC framework:
 
@@ -32,3 +32,7 @@ This configures following for SPARC framework:
 ### 5. Prompt Roo to implement your `prd.md` on the `tech-stack.md` 
 
 * Select the "⚡️ SPARC Orchestrator" mode in Roo Code and describe your project goal
+
+## Reference
+
+[Bootstrap Roo setup with create-sparc](https://www.linkedin.com/pulse/automated-code-development-new-sparc-npx-create-sparc-reuven-cohen-8ujwe/) Article

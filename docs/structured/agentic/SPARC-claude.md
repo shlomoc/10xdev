@@ -3,7 +3,7 @@
 ## Purpose
 Automate code development using agents.
 
-## Note: claude-flow is a work in progress (use @latest to get latest version)
+#### Note: use @latest to get latest version of claude-flow
 
 ## Steps
 
@@ -24,6 +24,7 @@ npx -y claude-flow@latest --version
 claude --dangerously-skip-permissions
 # accept the ui warning message
 # exit claude
+# this command bypasses all permission checks and lets Claude work uninterrupted until completion.
 
 ```
 

@@ -96,7 +96,6 @@ A modern, streamlined approach to building MVPs in weeks using AI-powered tools 
 
 - Row-Level Security
 - Rate limiting via Vercel
-- CAPTCHA integration
 - API key protection
 - Server-side validation
 
@@ -141,6 +140,8 @@ A modern, streamlined approach to building MVPs in weeks using AI-powered tools 
 - ChatGPT + CodeGuide (planning)
 
 **Outcome:** Technology stack optimized for AI-assisted development.
+
+## References
 
 ### [The Way of Code](https://www.thewayofcode.com/) Inspiration based on Lao Tzu (by Rick Rubin with Anthropic)
 ### [12 Rules to Vibe Code Without Frustration](https://creatoreconomy.so/p/12-rules-to-vibe-code-without-frustration)

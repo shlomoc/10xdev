@@ -1,6 +1,6 @@
 # **Cline**
 
-## [Cline](https://cline.bot/): AI pair programmer that helps you write code faster
+## [Cline](https://cline.bot/): AI pair programmer that helps you write code faster (open source)
 
 - [Documentation](https://docs.cline.bot/)
 - [Memory Bank](https://docs.cline.bot/prompting/cline-memory-bank)
