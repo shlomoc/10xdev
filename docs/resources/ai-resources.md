@@ -3,39 +3,41 @@
 ## Tools
 
 ### Search & Documentation
- * #### [Perplexity](https://www.perplexity.ai/): AI search
+ * #### [Perplexity](https://www.perplexity.ai/) AI search
 
- * #### [Deepwiki](https://deepwiki.com/): Wiki-style documentation for any GitHub repository
- * #### [Gitinjest](https://gitingest.com/): Turn any Git repository into a simple text digest of its codebase
- * #### [Gitdiagram](https://gitdiagram.com/): Turn any GitHub repository into an interactive diagram
+ * #### [Gitmcp.io](https://gitmcp.io/) Create a Remote MCP server for any GitHub repository
+ * #### [Deepwiki](https://deepwiki.com/) Wiki-style documentation for any GitHub repository
+ * #### [Gitinjest](https://gitingest.com/) Turn any Git repository into a simple text digest of its codebase
+ * #### [Gitdiagram](https://gitdiagram.com/) Turn any GitHub repository into an interactive diagram
+
 
 
 ### AI Development & Model Deployment
- * #### [Replicate](https://www.replicate.com/): Deploying and running ML models (inference)
- * #### [Copilotkit.ai](https://www.copilotkit.ai/): Build an AI copilot for your app
- * #### [21st.dev](https://21st.dev): Discover, share & remix the best UI components
- * #### [Huggingface](https://huggingface.co): The AI community building the future: Models · Spaces · Datasets
+ * #### [Replicate](https://www.replicate.com/) Deploying and running ML models (inference)
+ * #### [Copilotkit.ai](https://www.copilotkit.ai/) Build an AI copilot for your app
+ * #### [21st.dev](https://21st.dev) Discover, share & remix the best UI components
+ * #### [Huggingface](https://huggingface.co) The AI community building the future: Models · Spaces · Datasets
  * #### [Braintrust.dev](https://www.braintrust.dev/docs/guides/evals) Evals
 
 
 ### Content Creation
- * #### [Ideagram](https://ideogram.ai/): Generate stunning images
- * #### [11ElevenLabs](https://elevenlabs.io/): Voice AI platform
- * #### [Tavus](https://www.tavus.io/): Conversational Video Interface
+ * #### [Ideagram](https://ideogram.ai/) Generate stunning images
+ * #### [11ElevenLabs](https://elevenlabs.io/) Voice AI platform
+ * #### [Tavus](https://www.tavus.io/) Conversational Video Interface
 
 ### Productivity & Note-Taking
- * #### [Obsidian](https://obsidian.md/): Markdown Editor
- * #### [SuperWhisper](https://superwhisper.com/): Voice dictation (Mac)
- * #### [Notebook LLM](https://notebooklm.google.com/): Understand complex topics, ask questions, & get instant insight
+ * #### [Obsidian](https://obsidian.md/) Markdown Editor
+ * #### [SuperWhisper](https://superwhisper.com/) Voice dictation (Mac)
+ * #### [Notebook LLM](https://notebooklm.google.com/) Understand complex topics, ask questions, & get instant insight
 
 ## Frameworks
-* ### [MCP](https://modelcontextprotocol.io/introduction): Model Context Protocol (MCP) Official Documentation
+* ### [MCP](https://modelcontextprotocol.io/introduction) Model Context Protocol (MCP) Official Documentation
 
     * #### [MCP Servers](https://github.com/modelcontextprotocol/servers) Referenced implementation of MCP Servers
 
     * #### [MCP Registry from Mastra](https://mastra.ai/mcp-registry-registry) A registry of MCP registries
 
-    * #### [FastMCP](https://github.com/jlowin/fastmcp): The fast, Pythonic way to build MCP servers and clients
+    * #### [FastMCP](https://github.com/jlowin/fastmcp) The fast, Pythonic way to build MCP servers and clients
 
 * ### [SPARC](https://gist.github.com/ruvnet/27ee9b1dc01eec69bc270e2861aa2c05) (Specification, Pseudocode, Architecture, Refinement, and Completion)
 

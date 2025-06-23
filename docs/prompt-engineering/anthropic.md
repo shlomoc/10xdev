@@ -21,7 +21,11 @@
 
 ## Coding Tools
 - [Claude Code](https://www.anthropic.com/claude-code)
+You can now sign up for a monthly plan (instead of paying per token which quickly adds up).
 - [Claude Code Docs](https://docs.anthropic.com/en/docs/claude-code/overview) 
 - [Claude Code Best Practices](https://www.anthropic.com/engineering/claude-code-best-practices) "think" < "think hard" < "think harder" < "ultrathink." Each level allocates progressively more thinking budget for Claude to use.
 - [Claude Code Common workflows](https://docs.anthropic.com/en/docs/claude-code/common-workflows)
-- [Tips on using Claude Code](https://spiess.dev/blog/how-i-use-claude-code) by Philipp Spiess, developer
+- [r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/) subreddit
+- [Article on using Claude Code](https://spiess.dev/blog/how-i-use-claude-code) by Philipp Spiess, developer
+- [Youtube on using Claude Code](https://www.youtube.com/watch?v=gNR3XI5Eb0k) by 
+Chris Raroque, developer
