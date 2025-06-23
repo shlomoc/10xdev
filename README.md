@@ -4,7 +4,7 @@ This repository contains the source files for the 10xDevelopers documentation we
 
 ## Project Description
 
-The 10xDevelopers website provides AI-powered development resources and guides to help developers leverage AI tools effectively in their workflow.
+10xDevelopers.dev is a website with resources and guides to help developers leverage AI tools.
 
 ## Getting Started
 
