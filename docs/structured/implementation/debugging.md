@@ -50,7 +50,7 @@ Explain the approach in detail first without writing any code.
 ```
 
 **4. Debugging UI Issues**
-A useful tool for debugging UI issues without needing to manually copy and paste console logs is [browser-tools-mcp](MCPhttps://github.com/AgentDeskAI/browser-tools-mcp).  Windsurf also provides a feature for browser testing.
+You can use a tool like Playwright for testing UI issues.  Windsurf also provides a feature for browser testing.
 
 ## Output
 - Resolved application issues

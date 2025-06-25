@@ -55,5 +55,5 @@ npx -y claude-flow@latest sparc "create a hello,world landing page"
 
 ### [Claude-Flow: Agent Orchestration Platform for Claude-Code](https://www.linkedin.com/pulse/claude-flow-agent-orchestration-platform-claude-code-reuven-cohen-bhimc) Article
 ### [Claude Flow](https://github.com/ruvnet/claude-code-flow) Github repository
-
+### [Chat with claude-flow docs](https://gitmcp.io/ruvnet/claude-code-flow/chat)
 

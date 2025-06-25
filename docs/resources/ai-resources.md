@@ -27,7 +27,7 @@
 ### Productivity & Note-Taking
  * #### [Obsidian](https://obsidian.md/) Markdown Editor
  * #### [SuperWhisper](https://superwhisper.com/) Voice dictation (Mac)
- * #### [Notebook LLM](https://notebooklm.google.com/) Understand complex topics, ask questions, & get instant insight
+ * #### [Notebook LM](https://notebooklm.google.com/) Understand complex topics, ask questions, & get instant insight
 
 ### MCP
 * #### [MCP](https://modelcontextprotocol.io/introduction) Model Context Protocol (MCP) Official Documentation
