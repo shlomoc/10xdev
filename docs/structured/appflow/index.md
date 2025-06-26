@@ -28,5 +28,7 @@ Screenshot them for upload.
 
 Alternatively, use [stitch](https://stitch.withgoogle.com/home) to generate high-quality user interfaces for mobile and web apps and easily export them to Figma, or directly access the frontend code.  
 
+[superdesign.dev](https://www.superdesign.dev/) is an open source project to try designs using parallel agents (created with Taskmaster)
+
 ## Next Steps
 * Proceed to [Design Spec](../design/index.md) using your `prd.md`, `tech-stack.md`, and `app-sitemap.md` as input

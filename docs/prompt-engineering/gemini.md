@@ -20,4 +20,6 @@
 
 ## Coding Tools
 - [Jules](https://jules.google.com) an async development agent
+- [Gemini Code Assist](https://codeassist.google/)
+- [gemini](../prompt-engineering/gemini.md)
 

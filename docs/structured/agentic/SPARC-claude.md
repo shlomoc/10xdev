@@ -13,25 +13,10 @@ Automate code development using agents.
 npm install -g @anthropic-ai/claude-code
 ```
 
-### Install Claude-Flow
-```bash
-npx -y claude-flow@latest --version
-```
-
-### Workaround for [Issue](https://github.com/ruvnet/claude-code-flow/issues/62)
-
-```bash
-claude --dangerously-skip-permissions
-# accept the ui warning message
-# exit claude
-# this command bypasses all permission checks and lets Claude work uninterrupted until completion.
-
-```
-
 ### Initialize SPARC settings
 
 ```bash
-npx claude-flow@latest init --sparc
+npx -y claude-flow@latest init --sparc --force
 ```
 
 ### List command options
@@ -44,16 +29,25 @@ npx claude-flow@latest help
 ```bash
 npx claude-flow@latest sparc modes
 ```
+### Workaround for [Issue](https://github.com/ruvnet/claude-code-flow/issues/62)
+
+```bash
+claude --dangerously-skip-permissions
+# accept the ui warning message
+# exit claude
+# this command bypasses all permission checks and lets Claude work uninterrupted until completion.
+
+```
 
 ### Test it with a sample task
 
 ```bash
-npx -y claude-flow@latest sparc "create a hello,world landing page"
+npx -y claude-flow@latest swarm "create 3 different modern login pages"
 ```
 
 ## References
 
 ### [Claude-Flow: Agent Orchestration Platform for Claude-Code](https://www.linkedin.com/pulse/claude-flow-agent-orchestration-platform-claude-code-reuven-cohen-bhimc) Article
 ### [Claude Flow](https://github.com/ruvnet/claude-code-flow) Github repository
-### [Chat with claude-flow docs](https://gitmcp.io/ruvnet/claude-code-flow/chat)
+### [Demo](https://github.com/ruvnet/yyz-agentics-june)
 
