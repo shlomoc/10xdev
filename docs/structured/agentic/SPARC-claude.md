@@ -7,6 +7,8 @@ Automate code development using agents.
 
 ## Steps
 
+### Connect to github codespace
+
 ### Install Claude Code:
 
 ```bash

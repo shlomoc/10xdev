@@ -76,7 +76,7 @@ extra_css:
 
 nav:
   - Home: index.md
-  - Ultimate Vibe Coding Guide: guides/ultimate-vibe-coding-guide.md
+  - A Vibe Coding Guide: guides/ultimate-vibe-coding-guide.md
   - Structured Development Process:
     - Find Something to Build:
       - Getting Started: structured/find/index.md

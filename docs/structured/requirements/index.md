@@ -30,10 +30,11 @@ Establish clear project requirements and specifications.
 
 ## Steps
 
-### 1. Launch [ChatPRD](https://chatgpt.com/g/g-G5diVh12v-chatprd-ai-for-product-managers)
+* Option 1: Launch [ChatPRD](https://chatgpt.com/g/g-G5diVh12v-chatprd-ai-for-product-managers)
 Continue iterating and refining until all requirements are clearly spelled out.
-### 2. Alternatively, use a custom mode in Cursor like [PRD mode](https://playbooks.com/modes/prd)  
-### 3. You can also use [Codeguide](https://www.codeguide.dev/) for help in creating detailed documentation for your project
+* Option 2: Use a custom mode in Cursor like [PRD mode](https://playbooks.com/modes/prd)  
+* Option 3: Use [Codeguide](https://www.codeguide.dev/) to guide you to create detailed documentation for your project. 
+* Option 4: Use [10xcoder.dev](https://10xcoder.dev) to generate specs, tasks, and rules as well as a starter project to use with Cursor (or your favorite IDE).
 
 ## Output
 - `prd.md` - Comprehensive Product Requirements Document containing:

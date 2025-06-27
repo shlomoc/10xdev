@@ -16,8 +16,7 @@ Break down development into manageable tasks and implement the code following be
 
 ## Steps
 
-* Use an [agentic process](../agentic/index.md)
-* Or, go through the implementation planning, code generation, testing and debugging steps below.
+Go through the implementation planning, code generation, testing and debugging steps below.
 
 ### 1. Implementation Planning
 * Option 1: Use the [Implementation Plan Guide](./implementation-plan.md)

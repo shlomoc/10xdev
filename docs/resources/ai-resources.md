@@ -48,6 +48,8 @@
 
  * #### [AI Engineer](https://www.youtube.com/@aiDotEngineer) Talks, workshops, events, and training for AI Engineers 
 
+* #### [AI Jason](https://www.youtube.com/@AIJasonZ) AI Builder Club 
+
 ## YouTube Videos
 
  * #### [Andrej Karpathy: Software Is Changing (Again)](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
@@ -58,12 +60,11 @@
 
  * #### [Philosphy of Software Design](https://www.youtube.com/watch?v=lz451zUlF-k) with John Ousterhout
 
-  * #### [The new code: specs write once, run everywhere](https://www.youtube.com/live/U-fMsbY-kHY?t=29432s) Specification Driven Development
+ * #### [The new code: specs write once, run everywhere](https://www.youtube.com/live/U-fMsbY-kHY?t=29432s) Specification Driven Development
 
 
 ## Communities
  * #### [Agentics Org](http://agentics.org) Non-profit organization dedicated to democratizing artificial intelligence education and innovation
- * #### [AI Builders Club](https://www.aibuilderclub.com/) Community of Builders (paid)
 
 ## Newsletters
  * #### [The Batch](https://www.deeplearning.ai/the-batch/) Weekly AI news and insights to help readers keep up with this rapidly changing field

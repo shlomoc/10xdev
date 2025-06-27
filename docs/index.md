@@ -23,6 +23,6 @@ See how an AI-powered approach redefines what's possible compared to a tradition
 - **Rapid MVP Development**
     - From concept to market-ready MVP quickly with iterative development.
 - **Rapid Design**
-    - Skip lengthy design phases with Lovable, creating working UI and app logic immediately.
+    - Skip lengthy design phases with lovable.dev, creating working UI and app logic immediately.
 - **Scalable Infrastructure**
     - Modern stack with Supabase and Vercel for automatic scaling without maintenance headaches.
