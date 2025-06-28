@@ -1,7 +1,7 @@
 # Design Spec Prompt – AI as Your Software Architect
 
 ## Purpose
-💡 Generate comprehensive technical specifications that serve as the architectural blueprint for your software project.
+Generate comprehensive technical specifications that serve as the architectural blueprint for your software project.
 
 ## Input
 - `prd.md` - Your Product Requirements Document

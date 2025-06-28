@@ -17,6 +17,8 @@ Break down development into manageable tasks and implement the code following be
 ## Steps
 
 Go through the implementation planning, code generation, testing and debugging steps below.
+Use global rules to define your guidelines, DOD (definition of done). 
+Make a rule to constantly update the plan doc for tracking progress.
 
 ### 1. Implementation Planning
 * Option 1: Use the [Implementation Plan Guide](./implementation-plan.md)

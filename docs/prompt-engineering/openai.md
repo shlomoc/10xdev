@@ -15,7 +15,8 @@
 - [OpenAI gpt4.1 prompting guide](https://cookbook.openai.com/examples/gpt4-1_prompting_guide)
 - [OpenAI Function calling](https://platform.openai.com/docs/guides/function-calling)  
 - [OpenAI GPTs Documentation](https://platform.openai.com/docs/introduction/gpts)  
-- [OpenAI API Reference](https://platform.openai.com/docs/api-reference/introduction)  
+- [OpenAI API Reference](https://platform.openai.com/docs/api-reference/introduction)
+- [OpenAI Guide to building agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)
 
 ## Development & Testing
 - [OpenAI Evals](https://platform.openai.com/docs/guides/evals)
