@@ -144,8 +144,9 @@ A modern, streamlined approach to building MVPs using AI-powered tools and effic
 ## References
 
 ### [The Way of Code](https://www.thewayofcode.com/) Inspiration based on Lao Tzu (by Rick Rubin with Anthropic)
-### [12 Rules to Vibe Code Without Frustration](https://creatoreconomy.so/p/12-rules-to-vibe-code-without-frustration)
+### [12 Rules to Vibe Code Without Frustration](https://creatoreconomy.so/p/12-rules-to-vibe-code-without-frustration) Article
 ### [AI App MVP Prompt Template](../reference/AI_MVP_Template.md)
+### [All in one SaaS startup prompt](https://x.com/godofprompt/status/1939004835065667897) (posted on X)
 
 
 ---

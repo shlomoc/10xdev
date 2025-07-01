@@ -6,6 +6,7 @@
 - [Anthropic Prompt Generator/Improver](https://console.anthropic.com/dashboard)  
 
 ## Documentation & Guides
+- [Anthropic Docs](https://docs.anthropic.com/en/home) 
 - [Anthropic Models](https://docs.anthropic.com/en/docs/about-claude/models)  
 - [Anthropic Prompt Engineering Docs](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)  
 - [Anthropic's System Prompts](https://docs.anthropic.com/en/release-notes/system-prompts)  
@@ -28,5 +29,3 @@ You can now sign up for a monthly plan (instead of paying per token which quickl
 - [How we built our multi-agent research system](https://www.anthropic.com/engineering/built-multi-agent-research-system) from Engineering at Anthropic
 - [r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/) subreddit
 - [Article on using Claude Code](https://spiess.dev/blog/how-i-use-claude-code) by Philipp Spiess, developer
-- [Youtube on using Claude Code](https://www.youtube.com/watch?v=gNR3XI5Eb0k) by 
-Chris Raroque, developer
