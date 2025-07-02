@@ -65,6 +65,7 @@
 
 ## Communities
  * #### [Agentics Org](http://agentics.org) Non-profit organization dedicated to democratizing artificial intelligence education and innovation
+ * #### [Agentics.org Video Portal](https://video.agentics.org/channel/Agentics.org+Video+Portal/370465892)
 
 ## Newsletters
  * #### [The Batch](https://www.deeplearning.ai/the-batch/) Weekly AI news and insights to help readers keep up with this rapidly changing field
