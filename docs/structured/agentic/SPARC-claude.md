@@ -51,5 +51,5 @@ npx -y claude-flow@latest swarm "create 3 different modern login pages"
 
 ### [Claude-Flow: Agent Orchestration Platform for Claude-Code](https://www.linkedin.com/pulse/claude-flow-agent-orchestration-platform-claude-code-reuven-cohen-bhimc) Article
 ### [Claude Flow](https://github.com/ruvnet/claude-code-flow) Github repository
-### [Demo](https://github.com/ruvnet/yyz-agentics-june) Github repository created in a demo
+### [Demo](https://github.com/ruvnet/yyz-agentics-june) Github repository created from a meetup
 
