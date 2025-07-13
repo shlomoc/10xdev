@@ -36,3 +36,5 @@ This configures following for SPARC framework:
 ## Reference
 
 [Bootstrap Roo setup with create-sparc](https://www.linkedin.com/pulse/automated-code-development-new-sparc-npx-create-sparc-reuven-cohen-8ujwe/) Article
+
+[Pheromind](https://pheromind.ai/) Advanced Orchestrator system using SPARC built with Roo boomerang modes

@@ -92,7 +92,7 @@
 
 ## Articles
 
- * #### [Vibe coding Rules example](https://gist.github.com/mberman84/a283d5e59bddfd7133ab74b62da9d7b9) from Matthew Berman
+ * #### [Vibe Coding Playbook](https://www.forwardfuture.ai/p/the-matthew-berman-vibe-coding-playbook) from Matthew Berman
 
  * #### [Vibe coding MenuGen](https://karpathy.bearblog.dev/vibe-coding-menugen/) Andrei Karpathy explores hype vs reality of vibe coding
 

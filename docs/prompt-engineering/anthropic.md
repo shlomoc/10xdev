@@ -29,3 +29,5 @@ You can now sign up for a monthly plan (instead of paying per token which quickl
 - [How we built our multi-agent research system](https://www.anthropic.com/engineering/built-multi-agent-research-system) from Engineering at Anthropic
 - [r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/) subreddit
 - [Article on using Claude Code](https://spiess.dev/blog/how-i-use-claude-code) by Philipp Spiess, developer
+- [SuperClaude](https://github.com/NomenAK/SuperClaude) Framework that enhances Claude Code with development personas, and commands
+- [claude-sessions](https://github.com/iannuttall/claude-sessions) Provides comprehensive development session tracking and documentation

@@ -20,6 +20,7 @@
 * [LangChain Hub](https://smith.langchain.com/hub/) Explore and contribute prompts to the community hub
 * [Prompt Hub](https://www.prompthub.us/) Community-driven prompt platform
 * [Prompt Library templates from Spec to Code](https://www.jointakeoff.com/prompts) o1 pro template system
+* [SDLC Prompts](https://github.com/chrisdunlopnz/cursor-starter) Github repo of prompts for software development
 
 ## Best practices
 
