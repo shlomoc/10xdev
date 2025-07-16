@@ -26,7 +26,7 @@
 
 ### Productivity & Note-Taking
  * #### [Obsidian](https://obsidian.md/) Markdown Editor
- * #### [SuperWhisper](https://superwhisper.com/) Voice dictation (Mac)
+ * #### [Wisprflow](https://wisprflow.ai/) Voice dictation
  * #### [Notebook LM](https://notebooklm.google.com/) Understand complex topics, ask questions, & get instant insight
 
 ### MCP

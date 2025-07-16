@@ -147,6 +147,7 @@ A modern, streamlined approach to building MVPs using AI-powered tools and effic
 ### [12 Rules to Vibe Code Without Frustration](https://creatoreconomy.so/p/12-rules-to-vibe-code-without-frustration) Article
 ### [AI App MVP Prompt Template](./AI_MVP_Template.md)
 ### [All in one SaaS startup prompt](https://x.com/godofprompt/status/1939004835065667897) (posted on X)
+### [app.base44.com](https://app.base44.com/) Platform for creating apps with built-in databases, authentication, analytics, storage, AI integrations, and a wide range of third-party connectors.
 
 
 ---

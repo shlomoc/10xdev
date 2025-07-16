@@ -53,6 +53,10 @@ When we complete our discussion, save the final document as `features.md` to use
 ```
 </pre>
 
+## Deep Research
+
+- Use a deep research tool from your favorite LLM to explore your idea in depth.  Research can include a minimum number of websites, research papers, youtube video transcripts... 
+
 ## Output
 - `features.md` - A comprehensive document outlining your project idea, target audience, market opportunity, and initial feature set
 
@@ -63,6 +67,7 @@ When we complete our discussion, save the final document as `features.md` to use
 - Creates a structured document for sharing with stakeholders.
 - Ensures all critical requirements are captured.
 - Simplifies the development process with clear specifications.
+
 
 ## Next Steps
 After generating `features.md`, proceed to [Feature Prioritization](feature-prioritization.md) using this document as input to prioritize your features.
