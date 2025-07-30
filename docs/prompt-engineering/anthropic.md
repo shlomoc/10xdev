@@ -23,7 +23,9 @@
 ## Coding Tools
 - [Claude Code](https://www.anthropic.com/claude-code)
 You can now sign up for a monthly plan (instead of paying per token which quickly adds up).
+- [Mastering Claude Code in 30 minutes](https://www.youtube.com/watch?v=6eBSHbLKuN0) Youtube from Boris Cherny
 - [Build with Claude](https://www.anthropic.com/learn/build-with-claude) Claude Code Academy
+- [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action) Course
 - [Claude Code Best Practices](https://www.anthropic.com/engineering/claude-code-best-practices) "think" < "think hard" < "think harder" < "ultrathink." Each level allocates progressively more thinking budget for Claude to use.
 - [How we built our multi-agent research system](https://www.anthropic.com/engineering/built-multi-agent-research-system) from Engineering at Anthropic
 

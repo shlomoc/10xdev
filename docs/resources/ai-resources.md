@@ -3,13 +3,12 @@
 ## Tools
 
 ### Search & Documentation
- * #### [Perplexity](https://www.perplexity.ai/) AI search
+ * #### [Perplexity](https://www.perplexity.ai/) AI search  or [Comet](https://www.perplexity.ai/comet) Perplexity browser
 
  * #### [Gitmcp.io](https://gitmcp.io/) Create a Remote MCP server for any GitHub repository
  * #### [Deepwiki](https://deepwiki.com/) Wiki-style documentation for any GitHub repository
  * #### [Gitinjest](https://gitingest.com/) Turn any Git repository into a simple text digest of its codebase
  * #### [Gitdiagram](https://gitdiagram.com/) Turn any GitHub repository into an interactive diagram
-
 
 ### AI Development & Model Deployment
  * #### [Replicate](https://www.replicate.com/) Deploying and running ML models (inference)
@@ -17,7 +16,6 @@
  * #### [21st.dev](https://21st.dev) Discover, share & remix the best UI components
  * #### [Huggingface](https://huggingface.co) The AI community building the future: Models · Spaces · Datasets
  * #### [Braintrust.dev](https://www.braintrust.dev/docs/guides/evals) Evals
-
 
 ### Content Creation
  * #### [Ideagram](https://ideogram.ai/) Generate stunning images
@@ -35,6 +33,8 @@
 * #### [MCP Registry from Mastra](https://mastra.ai/mcp-registry-registry) A registry of MCP registries
 * #### [FastMCP](https://github.com/jlowin/fastmcp) The fast, Pythonic way to build MCP servers and clients
 
+### Educational 
+* #### [Awesome generative ai guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)  Repository for generative AI educational resources and research updates
 
 ## YouTube Channels
 
@@ -74,6 +74,7 @@
 
 ## Blogs
  * #### [Simon Willison's Weblog](https://simonwillison.net/)
+ * #### [Vibe Coding](https://medium.com/vibe-coding) Medium blog
 
 ## Roadmaps
  * #### [AI Engineer Roadmap](https://roadmap.sh/ai-engineer/)

@@ -12,12 +12,31 @@ Use this prompt to break down a complex app project into manageable steps for ex
 ## For Existing codebase (or starting from template)
 Take a screenshot of the folders (from the Explorer view in the Visual Studio editor) and include that in the prompt.
 
+If you use Claude-code, you can create a slash command `onboard.md` with content like the following:
+```md
+You are given the following context:
+$ARGUMENTS
+
+Instructions
+Your job is to "onboard" yourself to the current task.
+Do this by:
+Using ultrathink
+Exploring the codebase
+Asking me questions if needed
+
+The goal is to get you fully prepared to start working on the task.
+Take as long as you need to get yourself ready. 
+
+Record everything in a .claude/tasks/[TASK_ID]/onboarding.md file. This file will be used to onboard you to the task in a new session if needed, so make sure it’s comprehensive.
+```
+
 ### Useful Tools
 
 If you have existing code on Github, these tools can be useful:
 
  * #### [Gitinjest](https://gitingest.com/): Turn any Git repository into a simple text digest of its codebase
  * #### [Gitdiagram](https://gitdiagram.com/): Turn any GitHub repository into an interactive diagram
+
 
 ## Steps
 

@@ -25,8 +25,6 @@
 ## Best practices
 
 * [Tips for prompting AI IDEs](../reference/ideTips.md)
-* [Choose the most appropriate model for the task](https://platform.openai.com/docs/models) OpenAI model comparison
-* [Use the playground to test your prompts](https://platform.openai.com/playground/prompt) OpenAI model playground
 
 ## Customizing ChatGPT
 

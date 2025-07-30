@@ -26,6 +26,7 @@
 ## Community & Updates
 - [OpenAI Blog](https://openai.com/blog)  
 - [OpenAI Developer Forum](https://community.openai.com/)  
+- [OpenAI Academy](https://academy.openai.com/public/content)
 
 ## Coding Tools
 - [Codex](https://openai.com/codex/)

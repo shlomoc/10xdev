@@ -78,6 +78,7 @@ nav:
   - Home: index.md
   - A Vibe Coding Guide: guides/ultimate-vibe-coding-guide.md
   - Structured Development Process:
+    - Claude Code with subagents: structured/claude-code-with-subagents.md
     - Find Something to Build:
       - Getting Started: structured/find/index.md
     - Planning:
