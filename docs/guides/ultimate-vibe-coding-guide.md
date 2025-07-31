@@ -19,7 +19,7 @@ A modern, streamlined approach to building MVPs using AI-powered tools and effic
 
 **Contents:**
 
-- Replace Figma with [lovable.dev](https://lovable.dev) for instant responsive UIs
+- Use [lovable.dev](https://lovable.dev) for instant responsive UIs
 - Get clickable prototypes in Week 1
 - Built-in auth, forms, and routing
 

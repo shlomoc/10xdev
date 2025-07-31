@@ -10,3 +10,4 @@
 - [Lovable A-Z guide](https://promptadvisers.notion.site/Lovable-A-Z-Guide-16678194bfaf80868be6f9f03a1d4ce8)
 - [Lovable playbook](https://mastering-lovable.lovable.app/) by Felix Haas
 - [Prompt Hacks](https://prompt-power-up-ui.lovable.app/) Page built with lovable
+- [Example Prompts](https://x.com/godofprompt/status/1950564573515551009) X post

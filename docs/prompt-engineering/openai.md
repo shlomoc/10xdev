@@ -4,7 +4,7 @@
 - [ChatGPT](https://chatgpt.com/)  
 - [OpenAI Playground](https://platform.openai.com/playground)  
 - [GPT Store](https://chat.openai.com/gpts)  
-- [Create a GPT](https://chat.openai.com/gpts/editor) 
+- [Create a GPT](https://chat.openai.com/gpts/editor) Requires at least Plus account
 
 ## Documentation & Guides
 - [OpenAI Models](https://platform.openai.com/docs/models)  
