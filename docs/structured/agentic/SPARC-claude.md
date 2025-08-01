@@ -70,5 +70,5 @@ npx claude-flow@alpha hive-mind spawn "Implement user authentication" --claude
 ### [Claude-Flow: Agent Orchestration Platform for Claude-Code](https://www.linkedin.com/pulse/claude-flow-agent-orchestration-platform-claude-code-reuven-cohen-bhimc) Article
 ### [Claude Flow](https://github.com/ruvnet/claude-flow) Github repository
 ### [Demo](https://github.com/ruvnet/yyz-agentics-june) Github repository created from a meetup
-
+### [Explain claude-flow](https://chatgpt.com/share/688cfa07-c0ac-8000-b41f-3ed62fd006db) Ask chatgpt to explain claude-flow github repo
 
