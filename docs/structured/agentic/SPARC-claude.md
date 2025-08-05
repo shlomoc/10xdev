@@ -6,7 +6,7 @@ Automate code development using agents.
 ## Description
 Claude-Flow is an orchestration platform combining hive-mind, swarm intelligence and neural pattern recognition. 
 
-The Queen agent (master coordinator) directs specialized workers like Architects, Coders and Testers.  The framework leverages a multitude of MCP tools for everything ranging from swarm orchestration to github integration
+The Queen agent (master coordinator) directs specialized workers like Architects, Coders and Testers.  The framework leverages a multitude of MCP tools for everything ranging from swarm orchestration to github integration.
 
 ## How to choose between swarm and hive-mind
 
@@ -57,12 +57,13 @@ claude --dangerously-skip-permissions
 
 ### Test it with a sample task for swarm command:
 ```bash
-npx -y claude-flow@latest swarm "create 3 different modern login pages"
+npx -y claude-flow@alpha swarm "create 3 different modern login pages"
 ```
 
 ### Test it with a sample task for hive command:
 ```bash
-npx claude-flow@alpha hive-mind spawn "Implement user authentication" --claude
+npx claude-flow@alpha hive-mind wizard
+npx claude-flow@alpha hive-mind spawn "build enterprise system" --claude
 ```
 
 ## References

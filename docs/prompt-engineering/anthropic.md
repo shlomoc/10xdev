@@ -19,6 +19,7 @@
 
 ## Community & Updates
 - [Anthropic Blog](https://www.anthropic.com/blog) 
+- [Anthropic Youtube channel](https://www.youtube.com/@anthropic-ai)
 
 ## Coding Tools
 - [Claude Code](https://www.anthropic.com/claude-code)
@@ -33,8 +34,8 @@ You can now sign up for a monthly plan (instead of paying per token which quickl
 - [Claude Code Common workflows](https://docs.anthropic.com/en/docs/claude-code/common-workflows)
 
 - [r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/) subreddit
-- [Article on using Claude Code](https://spiess.dev/blog/
-how-i-use-claude-code) by Philipp Spiess, developer
+- [Tips on using Claude Code](../reference/claude-code-tips.md) by Ian Nuttel
+- [Article on using Claude Code](https://spiess.dev/blog/how-i-use-claude-code) by Philipp Spiess, developer
 - [SuperClaude](https://github.com/NomenAK/SuperClaude) Framework that enhances Claude Code with development personas, and commands
 - [Claude Code Development Kit](https://github.com/peterkrueck/Claude-Code-Development-Kit) Multi-agent orchestration, automated docs & MCP integration
 - [claude-sessions](https://github.com/iannuttall/claude-sessions) Provides comprehensive development session tracking and documentation

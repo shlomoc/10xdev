@@ -24,7 +24,7 @@
 
 ## Best practices
 
-* [Tips for prompting AI IDEs](../reference/ideTips.md)
+* [Tips for prompting AI IDEs](../reference/ide-tips.md)
 
 ## Customizing ChatGPT
 
