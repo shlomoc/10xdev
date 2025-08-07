@@ -70,6 +70,7 @@ npx claude-flow@alpha hive-mind spawn "build enterprise system" --claude
 
 ### [Claude-Flow: Agent Orchestration Platform for Claude-Code](https://www.linkedin.com/pulse/claude-flow-agent-orchestration-platform-claude-code-reuven-cohen-bhimc) Article
 ### [Claude Flow](https://github.com/ruvnet/claude-flow) Github repository
+### [Claude Flow Wiki](https://github.com/ruvnet/claude-flow/wiki) Claude-Flow v2.0.0 Alpha Wiki
 ### [Demo](https://github.com/ruvnet/yyz-agentics-june) Github repository created from a meetup
 ### [Explain claude-flow](https://chatgpt.com/share/688cfa07-c0ac-8000-b41f-3ed62fd006db) Ask chatgpt to explain claude-flow github repo
 

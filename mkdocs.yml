@@ -127,9 +127,10 @@ nav:
   - AI IDEs:
     - Lovable.dev: ide/lovable.md
     - Cursor AI: ide/cursor.md
-    - Windsurf: ide/windsurf.md
+    - Claude Code: ide/claude-code.md
     - Cline: ide/cline.md
     - Roo Code: ide/roo.md
+    - Windsurf: ide/windsurf.md
     - Google AI Studio: ide/aistudio.md
     - Github Copilot: ide/github.md
   - Agent Frameworks:
