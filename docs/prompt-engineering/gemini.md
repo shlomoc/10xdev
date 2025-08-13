@@ -11,6 +11,7 @@
 - [Introduction to Prompt Design](https://ai.google.dev/gemini-api/docs/prompting-intro)  
 - [Gemini for Google Workspace Prompt Guide](https://workspace.google.com/learning/content/gemini-prompt-guide)  
 - [Writing Effective AI Prompts for Business](https://workspace.google.com/resources/ai/writing-effective-prompts/)  
+- [Jules doc](https://jules.google/docs)
 
 ## Development & Testing
 - [Tune Gemini Models by using SFT](https://cloud.google.com/vertex-ai/generative-ai/docs/models/gemini-use-supervised-tuning)

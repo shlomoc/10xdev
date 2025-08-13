@@ -8,7 +8,7 @@
 
 ## Documentation & Guides
 - [OpenAI Models](https://platform.openai.com/docs/models)  
-- [How to choose models](https://help.openai.com/en/articles/11165333-chatgpt-enterprise-models-limits)
+- [How to choose models](https://help.openai.com/en/articles/11165333-chatgpt-enterprise-models-limits) Prior to GPT-5
 - [OpenAI Prompt Engineering Docs](https://platform.openai.com/docs/guides/prompt-engineering)  
 - [OpenAI Reasoning Models Docs](https://platform.openai.com/docs/guides/reasoning/advice-on-prompting)  
 - [OpenAI Cookbook](https://cookbook.openai.com/) 
