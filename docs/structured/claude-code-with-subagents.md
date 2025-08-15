@@ -19,5 +19,12 @@ The Anthropic help doc has instructions for creating subagents.  You can customi
 
 [Basic Example implementation](https://github.com/iannuttall/claude-agents) from Ian Nuttall
 
+To customize agents for your existing code, you can use a prompt like this
+
+```md
+There is a feature in Claude Code called subagents, the documentation is at https://docs.anthropic.com/en/docs/claude-code/sub-agents. Please go through it and determine what would be the best sub agents you can create for my app that would improve my app and speed up coding time, then implement the subagents. 
+```
+
+
 
 

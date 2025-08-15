@@ -29,6 +29,7 @@ Claude code is a CLI that can also be used with an IDE like VS Code using the /i
 
 ## Tools & Extensions
 
+- [awesome-claude-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) Claude subagents collection 
 - [SuperClaude](https://github.com/NomenAK/SuperClaude) - Framework that enhances Claude Code with development personas and commands
 - [Claude Code Templates](https://www.aitmpl.com/) Ready to use templates
 - [Claude Code Development Kit](https://github.com/peterkrueck/Claude-Code-Development-Kit) - Multi-agent orchestration, automated docs & MCP integration  
