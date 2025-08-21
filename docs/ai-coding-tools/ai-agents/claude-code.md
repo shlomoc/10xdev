@@ -19,7 +19,7 @@ Claude code is a CLI that can also be used with an IDE like VS Code using the /i
 ## Best Practices
 
 - [Claude Code Best Practices](https://www.anthropic.com/engineering/claude-code-best-practices) - "think" < "think hard" < "think harder" < "ultrathink." Each level allocates progressively more thinking budget for Claude to use.
-- [Tips on using Claude Code](../reference/claude-code-tips.md) - Tips by Ian Nuttel
+- [Tips on using Claude Code](../../reference/claude-code-tips.md) - Tips by Ian Nuttel
 - [Article on using Claude Code](https://spiess.dev/blog/how-i-use-claude-code) - Developer insights by Philipp Spiess
 
 ## Use Cases

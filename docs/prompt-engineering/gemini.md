@@ -22,5 +22,5 @@
 ## Coding Tools
 - [Jules](https://jules.google.com) an async development agent
 - [Gemini Code Assist](https://codeassist.google/)
-- [Google AI for Developers](../ide/aistudio.md)
+- [Google AI for Developers](../ai-coding-tools/cloud-ai-ides/aistudio.md)
 

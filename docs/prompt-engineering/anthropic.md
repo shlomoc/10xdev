@@ -22,4 +22,4 @@
 - [Anthropic Youtube channel](https://www.youtube.com/@anthropic-ai)
 
 ## Coding Tools
-see [Claude code](../ide/claude-code.md)
+see [Claude code](../ai-coding-tools/ai-agents/claude-code.md)

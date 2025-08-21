@@ -124,15 +124,23 @@ nav:
     - Gemini: prompt-engineering/gemini.md
     - xAI: prompt-engineering/xAI.md
     - Prompting Resources: prompt-engineering/prompt-resources.md
-  - AI IDEs:
-    - Lovable.dev: ide/lovable.md
-    - Cursor AI: ide/cursor.md
-    - Claude Code: ide/claude-code.md
-    - Cline: ide/cline.md
-    - Roo Code: ide/roo.md
-    - Windsurf: ide/windsurf.md
-    - Google AI Studio: ide/aistudio.md
-    - Github Copilot: ide/github.md
+  - AI Coding Tools:
+    - Overview: ai-coding-tools/index.md
+    - Cloud AI IDEs:
+      - Lovable.dev: ai-coding-tools/cloud-ai-ides/lovable.md
+      - Bolt.new: ai-coding-tools/cloud-ai-ides/bolt.md
+      - Replit: ai-coding-tools/cloud-ai-ides/replit.md
+      - Google AI Studio: ai-coding-tools/cloud-ai-ides/aistudio.md
+    - VS Code Forks:
+      - Cursor AI: ai-coding-tools/vs-code-forks/cursor.md
+      - Windsurf: ai-coding-tools/vs-code-forks/windsurf.md
+      - Kiro: ai-coding-tools/vs-code-forks/kiro.md
+    - IDE Plugins:
+      - Cline: ai-coding-tools/ide-plugins/cline.md
+      - Roo Code: ai-coding-tools/ide-plugins/roo.md      
+      - Github Copilot: ai-coding-tools/ide-plugins/github.md
+    - AI Agents:
+      - Claude Code: ai-coding-tools/ai-agents/claude-code.md
   - Agent Frameworks:
     - A2A: agent-frameworks/a2a.md
     - LangGraph: agent-frameworks/langgraph.md
