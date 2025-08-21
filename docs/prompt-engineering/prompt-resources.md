@@ -2,7 +2,7 @@
 
 ## Tutorials
 
-* [Prompt Engineering Guide](https://www.forwardfuture.ai/p/humanity-s-last-prompt-engineering-guide) by Matthew Berman and Nick Wentz
+* [Prompt Engineering Guide](https://www.forwardfuture.ai/p/humanity-s-last-prompt-engineering-guide-built-for-the-gpt-5-era) by Matthew Berman and Nick Wentz
 * [Google Prompt Engineering White Paper](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 
 ## Prompt Generators
