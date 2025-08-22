@@ -1,5 +1,7 @@
 # Claude Code with subagents
 
+Instead of coding impulsively ("vibe coding"), we shift to a structured approach called "spec-driven design," where we first define what the application needs to do.
+
 In the sections of Structured Development Process below, there are prompts for each stage.  Now, with Claude Code, you can create subagents based on these prompts to help implement the process automatically. 
 
 [What are subagents?](https://docs.anthropic.com/en/docs/claude-code/sub-agents)

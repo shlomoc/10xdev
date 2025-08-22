@@ -1,4 +1,8 @@
-# Resources for Effective Prompting
+# Resources for Context Engineering
+
+Context Engineering is defined as the art and science of filling an LLM's context window with the right information at each step of a task. It's the natural evolution of prompt engineering.
+
+Prompt vs. Context Engineering: While prompt engineering uses static prompts, context engineering deals with dynamic information from multiple sources like user input, tool calls, history, and developer instructions.
 
 ## Tutorials
 
@@ -48,6 +52,9 @@
     * [r/aipromptprogramming](https://www.reddit.com/r/aipromptprogramming/) This group focuses on using AI tools for AI programming & prompt engineering
     * [r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/) Coding side of ChatGPT
 
+## Articles
+
+* [The Rise of Context Engineering](https://blog.langchain.com/the-rise-of-context-engineering/)
 
 
 

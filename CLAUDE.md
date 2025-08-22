@@ -37,7 +37,7 @@ mkdocs build
 - **`docs/`** - All documentation content in Markdown format
   - **`structured/`** - Step-by-step development process guides (planning, requirements, implementation, etc.)
   - **`prompt-engineering/`** - Platform-specific prompting guides (OpenAI, Anthropic, Gemini, xAI)
-  - **`ide/`** - AI IDE and tool documentation (Cursor, Claude Code, Lovable, etc.)
+  - **`ai-coding-tools/`** - AI development tools organized by category (Cloud IDEs, VS Code forks, IDE plugins, AI agents)
   - **`agent-frameworks/`** - Agent development framework guides
   - **`guides/`** - General development guides and tutorials
   - **`reference/`** - Quick reference materials and tips

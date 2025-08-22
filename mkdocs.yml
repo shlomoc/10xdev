@@ -118,18 +118,19 @@ nav:
       - Agentic Process: structured/agentic/index.md
       - SPARC Claude: structured/agentic/SPARC-claude.md
       - SPARC Roo: structured/agentic/SPARC-roo.md
-  - Prompt Engineering: 
+  - Context Engineering: 
     - OpenAI: prompt-engineering/openai.md
     - Anthropic: prompt-engineering/anthropic.md
     - Gemini: prompt-engineering/gemini.md
     - xAI: prompt-engineering/xAI.md
-    - Prompting Resources: prompt-engineering/prompt-resources.md
+    - Context Engineering Resources: prompt-engineering/prompt-resources.md
   - AI Coding Tools:
     - Overview: ai-coding-tools/index.md
     - Cloud AI IDEs:
       - Lovable.dev: ai-coding-tools/cloud-ai-ides/lovable.md
       - Bolt.new: ai-coding-tools/cloud-ai-ides/bolt.md
       - Replit: ai-coding-tools/cloud-ai-ides/replit.md
+      - Base44: ai-coding-tools/cloud-ai-ides/base44.md
       - Google AI Studio: ai-coding-tools/cloud-ai-ides/aistudio.md
     - VS Code Forks:
       - Cursor AI: ai-coding-tools/vs-code-forks/cursor.md
