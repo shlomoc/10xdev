@@ -78,7 +78,7 @@ nav:
   - Home: index.md
   - A Vibe Coding Guide: guides/ultimate-vibe-coding-guide.md
   - Structured Development Process:
-    - Claude Code with subagents: structured/claude-code-with-subagents.md
+    - Spec-Driven Design with Claude Code: structured/claude-code-with-subagents.md
     - Find Something to Build:
       - Getting Started: structured/find/index.md
     - Planning:
@@ -116,7 +116,7 @@ nav:
       - Feedback & Maintenance: structured/maintenance/index.md
     - Agentic Process:
       - Agentic Process: structured/agentic/index.md
-      - SPARC Claude: structured/agentic/SPARC-claude.md
+      - Claude Flow: structured/agentic/claude-flow.md
       - SPARC Roo: structured/agentic/SPARC-roo.md
   - Context Engineering: 
     - OpenAI: prompt-engineering/openai.md

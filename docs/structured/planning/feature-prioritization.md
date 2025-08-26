@@ -7,6 +7,8 @@ description: A systematic approach to prioritizing features for your SaaS applic
 
 This prompt helps you prioritize features effectively for your SaaS application using a systematic approach combining the MoSCoW method with impact-effort analysis.
 
+You can start by building a super simple version, just one core feature
+
 ## Purpose
 Systematically analyze and prioritize your application features to create a focused development roadmap.
 

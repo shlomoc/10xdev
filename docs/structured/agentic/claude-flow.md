@@ -1,4 +1,4 @@
-# SPARC with Claude Code
+# Claude Flow
 
 ## Purpose
 Automate code development using agents.

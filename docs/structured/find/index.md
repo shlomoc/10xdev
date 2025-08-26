@@ -21,6 +21,10 @@ Identify market opportunities for your SaaS.
 
 What is the gap? Why is this need unmet? Who has this need? Are there enough people to make it worthwhile?  What are the weaknesses of the competition? Can you find a whitespace with an underserved market? Can you build a compelling solution to meet this need in delightful way?
 
+One way to begin is to copy what's already been done and then improve it. 
+
+Its helpful to solve your own problems. 
+
 ### 2. Utilize AI tools:
 * [Perplexity Deep Research](https://www.perplexity.ai/) - Advanced AI research assistant
 * [ChatGPT Deep Search](https://chat.openai.com/) - OpenAI's conversational AI

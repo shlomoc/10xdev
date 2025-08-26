@@ -19,7 +19,8 @@ Define the technologies that will be used to build your application.
 ### 4. List preferred libraries and tools
 ### 5. Consider using a [starter kit](https://vercel.com/templates/next.js)
 * Include rules and IDE configuration files (e.g. Cursor rules, settings) in starter project configuration
-* [awesome-opensource-boilerplates](https://github.com/EinGuterWaran/awesome-opensource-boilerplates) Links to more starter kits
+* [awesome-opensource-boilerplates](https://github.com/EinGuterWaran/awesome-opensource-boilerplates) free starter kits
+* [boilerplatehub](https://boilerplatehub.com/Links) paid starter kits
 ### 6. Setup testing frameworks (like Jest, PyTest)
 
 ## Output

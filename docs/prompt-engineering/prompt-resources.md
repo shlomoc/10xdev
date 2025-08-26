@@ -29,6 +29,7 @@ Prompt vs. Context Engineering: While prompt engineering uses static prompts, co
 ## Best practices
 
 * [Tips for prompting AI IDEs](../reference/ide-tips.md)
+* [GPT-5 prompting tips](../reference/gpt-5-tips.md)
 
 ## Customizing ChatGPT
 

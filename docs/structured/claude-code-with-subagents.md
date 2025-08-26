@@ -1,8 +1,25 @@
-# Claude Code with subagents
+# Spec-Driven Design with Claude Code
 
 Instead of coding impulsively ("vibe coding"), we shift to a structured approach called "spec-driven design," where we first define what the application needs to do.
 
-In the sections of Structured Development Process below, there are prompts for each stage.  Now, with Claude Code, you can create subagents based on these prompts to help implement the process automatically. 
+## Simple Approach
+Start with a simple discussion with your LLM (Claude or ChatGPT) and create clear requirements for your MVP, then ask it to output a basic PRD. Similarly, define your tech stack. Ask the LLM to create a basic plan and iterate on your plan until you get a 9 or 10, then ask it to ouput a basic design spec. Then ask it to create CLAUDE.md and Tasks.md based on the PRD and design spec. 
+
+```md
+Create CLAUDE.md outlining everything needed to know for Claude Code agent regarding this project based on the PRD and design spec. Add a rule to keep CLAUDE.md up-to-date based on the project's current state and add any notes or relevant details you'd need to remember between chats. Then, create Tasks.md outlining all phases and steps needed to bring this project to completion.  Add a rule to Claude.md that for every task, implement the code and tests, then run the tests to verify the functionality works. Add a rule in CLAUDE.md to keep Tasks.md up to date based on the project's current state. 
+```
+
+If you are using subagents, also add a rule to CLAUDE.md to use subagents for tasks that match their expertise, and parallelize tasks but do not overwrite each others updates.
+
+Then have Claude Code implement the plan. 
+
+
+## Full Approach
+
+You can go through the full structured approach in the folders below or just skip to areas where you want to drill down into the details.
+
+## Subagents
+In the sections of Structured Development Process below, there are prompts for each stage.  Now, with Claude Code, you can even create subagents based on these prompts to help implement the process automatically. 
 
 [What are subagents?](https://docs.anthropic.com/en/docs/claude-code/sub-agents)
 
