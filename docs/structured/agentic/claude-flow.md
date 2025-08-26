@@ -63,7 +63,7 @@ npx -y claude-flow@alpha swarm "create 3 different modern login pages"
 ### Test it with a sample task for hive command:
 ```bash
 npx claude-flow@alpha hive-mind wizard
-npx claude-flow@alpha hive-mind spawn "build enterprise system" --claude
+npx claude-flow@alpha hive-mind spawn ""Build a simple CRM MVP to let teams add contacts, log interactions, and track deals in a single view."" --claude
 ```
 
 ### You can also prompt claude directly and it can use the claude-flow resources in the configuration as appropriate.
