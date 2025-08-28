@@ -4,6 +4,7 @@
 - [Gemini](https://gemini.google.com/app)  
 - [Google AI Studio](https://aistudio.google.com/)  
 - [Prompt Gallery](https://ai.google.dev/gemini-api/prompts)  
+- [Google Labs](https://labs.google.com/)
 
 ## Documentation & Guides
 - [Google Gemini Models](https://ai.google.dev/gemini-api/docs/models/gemini)  
