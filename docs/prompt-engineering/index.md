@@ -1,4 +1,4 @@
-# Resources for Context Engineering
+# Context Engineering
 
 Context Engineering is defined as the art and science of filling an LLM's context window with the right information at each step of a task. It's the natural evolution of prompt engineering.
 

@@ -12,13 +12,11 @@ Use this prompt for AI to generate fully functional code from specifications and
 ### 1. Provide your `implementation-steps.md` file in the implementation_plan section
 ### 2. Include your IDE-specific rules 
 Pick up a feature from the implementation plan
-### 2a. (optional)
-- Ask for different approaches first, not the code
+### 2a. (optional) Ask for different approaches first, not the code
 - Pick the best approach and ask for a detailed action plan
 - Review the plan carefully
 - Pull up API docs if needed, review them, and attach them inside (Cursor)
-### 2b. (optional)
-- Use TDD
+### 2b. (optional) Use TDD
 ```md
 Write test first, then write the code, and then iterate the code until all tests pass
 ```

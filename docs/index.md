@@ -2,7 +2,7 @@
 
 ***AI-Powered Coding Community***
 
-* **Become Top 1% AI Builder**
+* **Become a Top AI Builder**
 
 ## The Future of Development Is Here
 

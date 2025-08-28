@@ -1,4 +1,4 @@
-# Spec-Driven Design with Claude Code
+# Spec-Driven Design with subagents
 
 ## Full Approach
 

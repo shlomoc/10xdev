@@ -19,7 +19,7 @@
 - [OpenAI API Reference](https://platform.openai.com/docs/api-reference/introduction)
 - [OpenAI Guide to building agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)
 
-### Legacy
+### Legacy Docs
 - [How to choose models](https://help.openai.com/en/articles/11165333-chatgpt-enterprise-models-limits) Prior to GPT-5
 - [OpenAI gpt4.1 prompting guide](https://cookbook.openai.com/examples/gpt4-1_prompting_guide)
 

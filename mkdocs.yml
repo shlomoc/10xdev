@@ -55,6 +55,7 @@ markdown_extensions:
       alternate_style: true
   - toc:
       permalink: true
+      toc_depth: 2
   - attr_list
   - md_in_html
   - footnotes
@@ -75,57 +76,58 @@ extra_css:
   - stylesheets/override.css
 
 nav:
-  - Home: index.md
-  - A Vibe Coding Guide: guides/ultimate-vibe-coding-guide.md
-  - Structured Development Process:
-    - Spec-Driven Design: structured/spec-driven-design.md
+  - 🏠 Home: index.md
+  - ✨ A Vibe Coding Guide: guides/ultimate-vibe-coding-guide.md
+  - 📋 Structured Development Process:
+    - Spec-Driven Design: structured/index.md
     - Spec-Driven Design with subagents: structured/claude-code-with-subagents.md
-    - Find Something to Build:
+    - ⚡ Find Something to Build:
       - Getting Started: structured/find/index.md
-    - Planning:
+    - 🧠 Planning:
       - Planning: structured/planning/index.md
       - Ideas to Development Plans: structured/planning/ideas-to-development-plans.md
       - Feature Prioritization: structured/planning/feature-prioritization.md
       - MVP Validation: structured/planning/mvp-validation.md
-    - Requirements:
+    - 🎯 Requirements:
       - Requirements: structured/requirements/index.md
-    - Tech Stack:
+    - ⚙️ Tech Stack:
       - Tech Stack: structured/tech-stack/index.md
       - Sample Tech Stack: structured/tech-stack/tech-stack.md
-    - App Flow:
+    - 🎨 App Flow:
       - App Flow: structured/appflow/index.md
       - Sitemap: structured/appflow/sitemap-design-doc.md
       - UI Prototype: structured/appflow/ui-prototype.md
-    - Design:
+    - 🔧 Design:
       - Design: structured/design/index.md
       - Design Spec: structured/design/design-spec-prompt.md
-    - Implementation:
+    - 🚀 Implementation:
       - Implementation: structured/implementation/index.md
       - Implementation Plan: structured/implementation/implementation-plan.md
       - Code Generation: structured/implementation/codegen.md
       - Code Review: structured/implementation/code-review.md
       - Testing and Debugging: structured/implementation/debugging.md
-    - Security:
+    - 🔐 Security:
       - Security: structured/security/index.md
       - Security Scan: structured/security/security-scan.md
-    - Deployment:
+    - 🌐 Deployment:
       - Deployment: structured/deployment/index.md
       - Vercel Deployment: structured/deployment/vercel-deployment.md
-    - Documentation:
+    - 📝 Documentation:
       - Documentation: structured/documentation/index.md
-    - Feedback & Maintenance:
+    - 🔄 Feedback & Maintenance:
       - Feedback & Maintenance: structured/maintenance/index.md
-    - Agentic Process:
+    - 🤖 Agentic Process:
       - Agentic Process: structured/agentic/index.md
       - Claude Flow: structured/agentic/claude-flow.md
       - SPARC Roo: structured/agentic/SPARC-roo.md
-  - Context Engineering: 
+  - 💬 Context Engineering: 
+    - Context Engineering Resources: prompt-engineering/index.md
     - OpenAI: prompt-engineering/openai.md
     - Anthropic: prompt-engineering/anthropic.md
     - Gemini: prompt-engineering/gemini.md
     - xAI: prompt-engineering/xAI.md
-    - Context Engineering Resources: prompt-engineering/prompt-resources.md
-  - AI Coding Tools:
+
+  - 🛠️ AI Coding Tools:
     - Overview: ai-coding-tools/index.md
     - Cloud AI IDEs:
       - Lovable.dev: ai-coding-tools/cloud-ai-ides/lovable.md
@@ -143,11 +145,12 @@ nav:
       - Github Copilot: ai-coding-tools/ide-plugins/github.md
     - AI Agents:
       - Claude Code: ai-coding-tools/ai-agents/claude-code.md
-  - Agent Frameworks:
+  - 🤝 Agent Frameworks:
+    - Overview: agent-frameworks/index.md
     - A2A: agent-frameworks/a2a.md
     - LangGraph: agent-frameworks/langgraph.md
     - CrewAI: agent-frameworks/crewai.md
     - Mastra: agent-frameworks/mastra.md
-  - Resources:
-    - AI Resources: resources/ai-resources.md
-  - Contributing: contributing.md
+  - 📚 Resources:
+    - AI Resources: resources/index.md
+  - 🤝 Contributing: contributing.md

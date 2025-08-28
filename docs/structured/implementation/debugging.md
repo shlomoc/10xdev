@@ -52,7 +52,7 @@ Explain the approach in detail first without writing any code.
 **4. Debugging UI Issues**
 You can use a tool like Playwright as an installed tool or MCP tool for testing UI issues.  
 
-Also, the new Comet browser provides a feature for browser testing.  Here's a sample prompt for using the AI assistant:
+Also, the new Comet browser provides a feature for browser testing.  Here's a sample prompt for using the AI assistant in a sandboxed environment:
 
 ```md
 Take control of my browser, and act as a Senior Quality Engineer, and test my whole website. Explore and analyze everything you can find and give me back a complete report, including what looks good and what need to be improved. You are QA testing: `this website`

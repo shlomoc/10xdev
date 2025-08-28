@@ -29,9 +29,16 @@ Its helpful to solve your own problems.
 * [Perplexity Deep Research](https://www.perplexity.ai/) - Advanced AI research assistant
 * [ChatGPT Deep Search](https://chat.openai.com/) - OpenAI's conversational AI
 
-### 3. Ask specific questions like 'Find me 10 biggest gaps in the XYZ industry' or 'Validate this startup idea: [insert idea]. Include market size, top 3 competitors, current demand signals, and possible monetization.'
-### 4. Use [IdeaPicker](https://ideapicker.io/ideas) to find ideas by scanning Reddit for pain points
-### 5. Check [Vercel Domain Search](https://vercel.com/domains) for available domains matching your keywords
+### 3. Ask specific questions 
+
+like 'Find me 10 biggest gaps in the XYZ industry' or 'Validate this startup idea: [insert idea]. Include market size, top 3 competitors, current demand signals, and possible monetization.'
+
+### 4. Use [IdeaPicker](https://ideapicker.io/ideas)
+
+to find ideas by scanning Reddit for pain points
+### 5. Check [Vercel Domain Search](https://vercel.com/domains) 
+
+for available domains matching your keywords
 
 ## Output
 

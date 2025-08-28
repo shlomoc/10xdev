@@ -18,7 +18,7 @@ When you have a detailed PRD, you can automate development using an agentic proc
 * You can use the codespaces Visual Studio browser or connect using your desktop local Visual Studio.
 
 ### 2. Use [SPARC method with Claude code](./claude-flow.md)
-or
-### 3. Use [SPARC method with Roo Code](./SPARC-roo.md)
+
+### 3. Alternativley, use [SPARC method with Roo Code](./SPARC-roo.md)
 
 

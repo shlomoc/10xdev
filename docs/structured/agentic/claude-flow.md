@@ -66,7 +66,8 @@ npx claude-flow@alpha hive-mind wizard
 npx claude-flow@alpha hive-mind spawn ""Build a simple CRM MVP to let teams add contacts, log interactions, and track deals in a single view."" --claude
 ```
 
-### You can also prompt claude directly and it can use the claude-flow resources in the configuration as appropriate.
+### Alternatively, prompt claude directly 
+It can use the claude-flow resources in the configuration as appropriate.
 For example, launch claude, ask it to install mcp for playwright, and enter this prompt.
 ```bash
 Create an offline browser-based anteroid game which relies on arrow keys to pilot a ship destroying asteroids in the playspace. Use test driven development, use playwright to confirm the webpage renders correctly, prepare a docker image and run tests against the docker image. Launch the docker image through a local port for user testing. Spawn up to 5 agents working in parallel to work on this game.

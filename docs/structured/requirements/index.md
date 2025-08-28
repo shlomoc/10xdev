@@ -12,7 +12,7 @@ Establish clear project requirements and specifications.
 - `market-opportunity.md` from previous step
 - `feature-priorities.md` from previous step
 
-## Here is basically what you need to define:
+## What to define
 
 1. Introduction: Explain the problem you’re solving and the vision for the product. This sets the context for everyone involved.
 

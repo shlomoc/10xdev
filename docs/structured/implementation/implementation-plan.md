@@ -12,7 +12,7 @@ Use this prompt to break down a complex app project into manageable steps for ex
 ## For Existing codebase (or starting from template)
 Take a screenshot of the folders (from the Explorer view in the Visual Studio editor) and include that in the prompt.
 
-If you use Claude-code, you can create a slash command `onboard.md` with content like the following:
+If you use Claude-code, run the /init command.  You can also create a slash command `onboard.md` with content like the following:
 ```md
 You are given the following context:
 $ARGUMENTS
@@ -34,13 +34,15 @@ Record everything in a .claude/tasks/[TASK_ID]/onboarding.md file. This file wil
 
 If you have existing code on Github, these tools can be useful:
 
- * #### [Gitinjest](https://gitingest.com/): Turn any Git repository into a simple text digest of its codebase
- * #### [Gitdiagram](https://gitdiagram.com/): Turn any GitHub repository into an interactive diagram
+ * #### [Gitinjest](https://gitingest.com/): 
+ Turn any Git repository into a simple text digest of its codebase
+ * #### [Gitdiagram](https://gitdiagram.com/):
+ Turn any GitHub repository into an interactive diagram
 
 
 ## Steps
 
-### 1. Run the prompt with your preferred AI thinking model (like OpenAI o3) to generate a comprehensive implementation plan
+### 1. Run the prompt with your preferred AI thinking model to generate a comprehensive implementation plan
 ### 2. Review and refine the output as needed
 ### 3. Save the final document as `implementation-steps.md`
 
