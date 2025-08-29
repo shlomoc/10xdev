@@ -7,11 +7,11 @@ You can go through the full structured approach in the folders below or just ski
 ## Subagents
 In the sections of Structured Development Process below, there are prompts for each stage.  Now, with Claude Code, you can even create subagents based on these prompts to help implement the process automatically. 
 
-For example, you can create a research subagent to research the best way to implement a feature, and a code subagent to implement the feature.  
+For example, you can create a backend python coding subagent to implement a feature, and a testing subagent to test the feature.  
 
-It's useful to have a verification system in place because the model often marks tasks as complete prematurely.  You can create a separate "blind validator" test sub-agent that is responsible for checking the work done by the code agent to ensure that the results are reliable.  When the coding subagent says it is done, the test subagent will run the tests and let you know if they passed or failed.  If they failed, the coding subagent will be asked to fix the code and run the tests again.  This can be repeated until the tests pass.
+It's useful to have a verification system in place because the model often marks tasks as complete prematurely.  Create a separate test subagent that is responsible for checking the work done by the code agent to ensure that the results are reliable.  When the coding subagent says it is done, the test subagent will run the tests and let you know if they passed or failed.  If they failed, the coding subagent will be asked to fix the code and run the tests again.  This can be repeated until the tests pass.
 
-You can also use subagents to parallelize tasks.  This can speed up the process.
+You can also use subagents to parallelize tasks that are independent of each other.  This can speed up the process.
 
 [What are subagents?](https://docs.anthropic.com/en/docs/claude-code/sub-agents)
 

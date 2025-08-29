@@ -35,6 +35,7 @@
 
 ### Educational 
 * #### [Awesome generative ai guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)  Repository for generative AI educational resources and research updates
+* #### [LLM visualization](https://bbycroft.net/llm)
 
 ## YouTube Channels
 
@@ -96,6 +97,8 @@
  * #### [Vibe Coding Playbook](https://www.forwardfuture.ai/p/the-matthew-berman-vibe-coding-playbook) from Matthew Berman
 
  * #### [Vibe coding MenuGen](https://karpathy.bearblog.dev/vibe-coding-menugen/) Andrei Karpathy explores hype vs reality of vibe coding
+
+ * #### [My Hackathon Experience](https://medium.com/@stevecohen_29296/i-tried-a-hackathon-with-six-projects-in-one-day-then-built-all-six-apps-in-six-days-e6eecb4e81a5?source=friends_link&sk=ee2ad77170df68b739ed749e0fda2046) I Tried a Hackathon with Six Projects in One Day — Then Built All Six Apps in Six Days
 
 
 

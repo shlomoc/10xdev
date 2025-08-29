@@ -4,7 +4,7 @@
 Instead of coding impulsively ("vibe coding"), we shift to a structured approach called "spec-driven design," where we first define what the application needs to do.
 
 ## Basic Approach
-- Start by having a discussion with your LLM (e.g. Claude or ChatGPT) and create clear requirements for your MVP, then ask it to output a basic PRD (Product Requirements Document). 
+- Once you have a product in mind, start by having a discussion with your LLM (e.g. Claude or ChatGPT) and create clear requirements for your MVP, then ask it to output a basic PRD (Product Requirements Document). 
 - Similarly, define your tech stack. 
 
 For the PRD, below is an example of the expected output format:
@@ -21,9 +21,9 @@ For the PRD, below is an example of the expected output format:
 ```
 
 
-- Ask the LLM to create a basic plan and iterate on your plan until you get a 9 or 10, then ask it to output a basic plan/design spec. 
+- Ask the LLM to create a basic plan and iterate on your plan until you get a 9 or 10, then ask it to output a basic Plan.md.
 - Note: For the implementation, we're using Claude Code below. 
-- Ask it to create CLAUDE.md and Tasks.md based on the PRD and design spec:
+- Ask it to create CLAUDE.md and Tasks.md based on the PRD and Plan.md:
 
 ```
 Create CLAUDE.md outlining everything needed to know regarding this project based on the PRD and design spec. Then, create Tasks.md outlining all phases and steps needed to bring this project to completion.  
@@ -75,5 +75,10 @@ First, spend time thinking of a rubric until you are confident.
 Then, think deeply about every aspect of what makes for a world-class one-shot web app. Use that knowledge to create a rubric that has 5–7 categories.
 Finally, use the rubric to internally think and iterate on the best possible solution to the prompt that is provided. Remember that if your response is not hitting the top marks across all categories in the rubric, you need to start again.
 ```
+
+
+## Next Steps
+
+- Use the PRD.md, Tasks.md, Plan.md and CLAUDE.md as input to the Claude Code to implement the app.
 
 Note: You can use AI tools other than Claude Code with an [AGENTS.md](https://agents.md/) file that is similar to CLAUDE.md
