@@ -1,5 +1,7 @@
 # Tips for prompting GPT-5
 
+## [OpenAI's gpt-5-for-coding-cheatsheet](https://cdn.openai.com/API/docs/gpt-5-for-coding-cheatsheet.pdf)
+
 ## To prevent generic answers
 - Specify the desired reasoning level (e.g., "think hard") 
 - Specify verbosity (low, medium, or high) 
