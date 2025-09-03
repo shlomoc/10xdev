@@ -35,7 +35,7 @@
 
 ### Educational 
 * #### [Awesome generative ai guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)  Repository for generative AI educational resources and research updates
-* #### [LLM visualization](https://bbycroft.net/llm)
+* #### [LLM visualization](https://bbycroft.net/llm) View inside a Transformer
 
 ## YouTube Channels
 
@@ -65,7 +65,7 @@
 
 
 ## Communities
- * #### [Agentics Org](http://agentics.org) Non-profit organization dedicated to democratizing artificial intelligence education and innovation
+ * #### [Agentics.org](http://agentics.org) Non-profit organization dedicated to democratizing artificial intelligence education and innovation
  * #### [Agentics.org Video Portal](https://video.agentics.org/channel/Agentics.org+Video+Portal/370465892)
 
 ## Newsletters

@@ -132,10 +132,11 @@ nav:
     - Cloud AI IDEs:
       - Lovable.dev: ai-coding-tools/cloud-ai-ides/lovable.md
       - Bolt.new: ai-coding-tools/cloud-ai-ides/bolt.md
-      - Rocket.new: ai-coding-tools/cloud-ai-ides/rocket.md
+      - Google AI Studio: ai-coding-tools/cloud-ai-ides/aistudio.md
       - Replit: ai-coding-tools/cloud-ai-ides/replit.md
       - Base44: ai-coding-tools/cloud-ai-ides/base44.md
-      - Google AI Studio: ai-coding-tools/cloud-ai-ides/aistudio.md
+      - Rocket.new: ai-coding-tools/cloud-ai-ides/rocket.md
+      - CreateAnything: ai-coding-tools/cloud-ai-ides/createanything.md
     - VS Code Forks:
       - Cursor AI: ai-coding-tools/vs-code-forks/cursor.md
       - Windsurf: ai-coding-tools/vs-code-forks/windsurf.md
@@ -146,6 +147,7 @@ nav:
       - Github Copilot: ai-coding-tools/ide-plugins/github.md
     - AI Agents:
       - Claude Code: ai-coding-tools/ai-agents/claude-code.md
+      - Warp: ai-coding-tools/ai-agents/warp.md
   - 🤝 Agent Frameworks:
     - Overview: agent-frameworks/index.md
     - A2A: agent-frameworks/a2a.md
