@@ -4,8 +4,8 @@
 ### Official Documentation
 
 - [Building Web Applications with Lovable.dev](https://docs.lovable.dev/introduction)
-- [Prompt Library](https://docs.lovable.dev/tips-tricks/prompting-library)
-- [Video Tutorials](https://docs.lovable.dev/user-guides/video-tutorials)
+- [Prompt Library](https://docs.lovable.dev/prompting/prompting-library)
+- [Youtube channel](https://www.youtube.com/@lovable)
 - [Community](https://discord.com/invite/lovable-dev)
 
 ### Community
