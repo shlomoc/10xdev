@@ -5,3 +5,4 @@
 - [Firebase Studio](https://firebase.google.com/): Google's Mobile and Web App Development Platform
 - [Firebase Studio docs](https://firebase.google.com/docs/studio)
 - [Google for Startups](https://startup.google.com/gemini)
+- [Building AI Agents](https://cloud.google.com/resources/content/building-ai-agents)

@@ -35,4 +35,5 @@
 
 ## Coding Tools
 - [Codex](https://openai.com/codex/)
+- [How OpenAI Uses Codex](https://cdn.openai.com/pdf/6a2631dc-783e-479b-b1a4-af0cfbd38630/how-openai-uses-codex.pdf)
 - [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) lightweight python framework for building multi-agent workflows

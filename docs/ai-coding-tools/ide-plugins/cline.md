@@ -3,6 +3,7 @@
 ## [Cline](https://cline.bot/): AI pair programmer that helps you write code faster (open source)
 
 - [Documentation](https://docs.cline.bot/)
+- [AI Coding University](https://cline.bot/learn)
 - [Memory Bank](https://docs.cline.bot/prompting/cline-memory-bank)
 - [Slash Commands](https://docs.cline.bot/features/slash-commands/new-task)
 - [Cline Community Prompts](https://github.com/cline/prompts/tree/main) 

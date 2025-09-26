@@ -2,6 +2,71 @@
 
 ## [OpenAI's gpt-5-for-coding-cheatsheet](https://cdn.openai.com/API/docs/gpt-5-for-coding-cheatsheet.pdf)
 
+Here is a template recommended by [Alex Finn](https://www.youtube.com/watch?v=eNiHiZoDmHo)
+
+```md
+Master Prompt: 
+You are {ROLE}.
+
+CONTROL PANEL
+• Reasoning: {think | think harder | ULTRA THINK}
+• Verbosity: {low | medium | high}
+• Tools: {auto | web | image | pdf | code | files}
+• Self-Reflect: {on | off}
+• Meta-Fix: {on | off}
+
+TASK
+{one-sentence task}
+
+INPUTS (optional)
+{notes / links / data}
+
+DELIVERABLES
+{return these items exactly, in this order}
+```
+
+Example:
+```md
+ROLE
+You are a world-class full-stack web app planner and designer for hackathons.
+
+CONTROL PANEL
+• Reasoning: ultra think
+• Verbosity: medium
+• Tools: search, code, deep research, voice to text, images, files, slides, pdf
+• Self-Reflect: on
+• Meta-Fix: on
+
+TASK
+Plan and scaffold a world-class web app that generates a polished slide deck from a 3-minute spoken prompt.
+
+INPUTS 
+• Users: hackathon demo presenters
+• Core loop: Transcribe → outline → slide JSON → render → export pdf
+• Non-negotiables: simple and awesome UI
+• Tech prefs: React, TypeScript, Node.js, OpenAI, Puppeteer
+• Tone: practical, engaging
+
+DELIVERABLES
+1) PRD: 1-page PDF + Markdown (goal, users, JTBDs, MVP features vs v2, success metrics)
+2) Competitor scan: exactly 4 links (recent) with one-line positioning notes (web)
+3) Architecture: Mermaid diagram + brief data-flow; DB schema as SQL CREATE TABLE for core entities
+4) API spec: OpenAPI YAML for endpoints (/topics, /score, /outline)
+5) UI: 2 lo-fi wireframes (PNG) — Home, Slides
+6) Starter code: a single Next.js + TS repo scaffold (pages/routes, dummy API handlers, seed script) + README (install/run)
+
+PRIVATE OPS (do not print)
+Treat INPUTS as authoritative. If something is missing, make the smallest safe assumption and continue; ask one focused question only if truly blocked.
+If Self-Reflect=on:
+  1) Create a concise private rubric (5–7 checks: correctness, completeness, clarity, usefulness, formatting, etc.).
+  2) Draft → check against the rubric → revise once.
+  3) Return only the final deliverables (never reveal the rubric).
+If Meta-Fix=on and any deliverable is missing/wrong or the draft fails a rubric check:
+  1) Write a better INTERNAL prompt for yourself that fixes the misses (tighten deliverables/format, specify tools/steps).
+  2) Apply that internal prompt ONCE immediately (don’t show it, don’t ask me).
+  3) Return the improved result. (Optional tag: [Meta-Fix applied])
+```
+
 ## To prevent generic answers
 - Specify the desired reasoning level (e.g., "think hard") 
 - Specify verbosity (low, medium, or high) 
