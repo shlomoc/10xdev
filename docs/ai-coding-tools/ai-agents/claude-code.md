@@ -8,6 +8,7 @@ Claude code is a CLI that can also be used with an IDE like VS Code using the /i
 
 - [Claude Code Docs](https://docs.anthropic.com/en/docs/claude-code/overview) - Official documentation
 - [Claude Code Common workflows](https://docs.anthropic.com/en/docs/claude-code/common-workflows) - Common development patterns
+- [Claude Code Agent Skills](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills) - Organized folders containing instructions, scripts, and resources
 - [Cheat Sheet](https://awesomeclaude.ai/code-cheatsheet.pdf) - PDF cheat sheet
 - [Reference](https://github.com/Njengah/claude-code-cheat-sheet) - Github Repo, includes example subagents
 

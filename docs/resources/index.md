@@ -57,7 +57,7 @@
 
  * #### [Andrej Karpathy: Software Is Changing (Again)](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
 
- * #### [How I use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=1414s) Andrei Karpathy explains
+ * #### [How I use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=1414s) Andrej Karpathy explains
 
  * #### [Understanding the Context Window & Token Costs](https://www.youtube.com/watch?v=Z0GWWTHpcik) Vibe Coding with Cline
 
@@ -98,7 +98,9 @@
 
  * #### [Vibe Coding Playbook](https://www.forwardfuture.ai/p/the-matthew-berman-vibe-coding-playbook) from Matthew Berman
 
- * #### [Vibe coding MenuGen](https://karpathy.bearblog.dev/vibe-coding-menugen/) Andrei Karpathy explores hype vs reality of vibe coding
+ * #### [AGI is still a decade away](https://www.podchemy.com/notes/andrej-karpathy-agi-is-still-a-decade-away-43921620932) Andrej Karpathy on Dwarkesh Podcast (10/17/2025)
+
+ * #### [Vibe coding MenuGen](https://karpathy.bearblog.dev/vibe-coding-menugen/) Andrej Karpathy explores hype vs reality of vibe coding
 
  * #### [My Hackathon Experience](https://medium.com/@stevecohen_29296/i-tried-a-hackathon-with-six-projects-in-one-day-then-built-all-six-apps-in-six-days-e6eecb4e81a5?source=friends_link&sk=ee2ad77170df68b739ed749e0fda2046) I Tried a Hackathon with Six Projects in One Day — Then Built All Six Apps in Six Days
 

@@ -16,6 +16,9 @@ A framework for orchestrating role-playing, autonomous AI agents to work togethe
 ### Mastra
 A modern framework for building AI agents with TypeScript, built-in integrations and workflow management.
 
+### [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) - Lightweight Python framework for building multi-agent workflows
+
+
 ---
 
 Explore each framework to find the right approach for your agent development needs. Consider factors like team coordination, workflow complexity, platform integration, and observability requirements when choosing a framework.

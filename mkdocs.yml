@@ -147,6 +147,7 @@ nav:
       - Github Copilot: ai-coding-tools/ide-plugins/github.md
     - AI Agents:
       - Claude Code: ai-coding-tools/ai-agents/claude-code.md
+      - Codex: ai-coding-tools/ai-agents/codex.md
       - Warp: ai-coding-tools/ai-agents/warp.md
   - 🤝 Agent Frameworks:
     - Overview: agent-frameworks/index.md

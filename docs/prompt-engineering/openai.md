@@ -18,6 +18,7 @@
 - [OpenAI GPTs Documentation](https://platform.openai.com/docs/introduction/gpts)  
 - [OpenAI API Reference](https://platform.openai.com/docs/api-reference/introduction)
 - [OpenAI Guide to building agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)
+- [OpenAI Model Spec](https://model-spec.openai.com/2025-04-11.html) Approach to shaping desired model behavior.
 
 ### Legacy Docs
 - [How to choose models](https://help.openai.com/en/articles/11165333-chatgpt-enterprise-models-limits) Prior to GPT-5
@@ -26,14 +27,13 @@
 ## Development & Testing
 - [OpenAI Evals](https://platform.openai.com/docs/guides/evals)
 - [OpenAI Tokenizer](https://platform.openai.com/tokenizer)  
-- [OpenAI Model Spec](https://model-spec.openai.com/2025-04-11.html)
+
+- [Agent Builder](https://platform.openai.com/agent-builder) Visual canvas for building multi-step agent workflows
+- [OpenAI Apps SDK](https://developers.openai.com/apps-sdk) Framework to build apps for ChatGPT
 
 ## Community & Updates
 - [OpenAI Blog](https://openai.com/blog)  
 - [OpenAI Developer Forum](https://community.openai.com/)  
 - [OpenAI Academy](https://academy.openai.com/public/content)
+- [Prompt Packs](https://academy.openai.com/public/tags/prompt-packs-6849a0f98c613939acef841c)
 
-## Coding Tools
-- [Codex](https://openai.com/codex/)
-- [How OpenAI Uses Codex](https://cdn.openai.com/pdf/6a2631dc-783e-479b-b1a4-af0cfbd38630/how-openai-uses-codex.pdf)
-- [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) lightweight python framework for building multi-agent workflows
