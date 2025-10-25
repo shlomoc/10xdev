@@ -6,6 +6,7 @@
 - [OpenAI Playground](https://platform.openai.com/playground)  
 - [GPT Store](https://chat.openai.com/gpts)  
 - [Create a GPT](https://chat.openai.com/gpts/editor) Requires at least Plus account
+- [Atlas](https://openai.com/index/introducing-chatgpt-atlas/) Browser with ChatGPT built in
 
 ## Documentation & Guides
 - [OpenAI Models](https://platform.openai.com/docs/models)  

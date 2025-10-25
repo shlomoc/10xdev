@@ -2,6 +2,8 @@
 
 ## Tools
 
+ * #### [AI Tools Directory](https://tools.forwardfuture.ai/) from Forward Future
+
 ### Search & Documentation
  * #### [Perplexity](https://www.perplexity.ai/) AI search  or [Comet](https://www.perplexity.ai/comet) Perplexity browser
 

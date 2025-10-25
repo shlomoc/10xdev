@@ -5,7 +5,7 @@ A guide to AI-powered development tools that can accelerate your coding workflow
 ## Categories
 
 ### Cloud AI IDEs
-Full-featured development environments that run in the cloud with AI capabilities built-in.
+Full-featured development environments that run in the cloud with AI capabilities and deployment built-in.
 
 ### VS Code Forks  
 Enhanced versions of Visual Studio Code with advanced AI features and integrations.
