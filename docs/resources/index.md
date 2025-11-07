@@ -3,6 +3,7 @@
 ## Tools
 
  * #### [AI Tools Directory](https://tools.forwardfuture.ai/) from Forward Future
+ * #### [AI Tools for Devs](https://aitoolsfordevs.com/) 
 
 ### Search & Documentation
  * #### [Perplexity](https://www.perplexity.ai/) AI search  or [Comet](https://www.perplexity.ai/comet) Perplexity browser
@@ -53,7 +54,9 @@
 
  * #### [AI Engineer](https://www.youtube.com/@aiDotEngineer) Talks, workshops, events, and training for AI Engineers 
 
-* #### [AI Jason](https://www.youtube.com/@AIJasonZ) AI Builder Club 
+ * #### [Alex Finn](https://www.youtube.com/@AlexFinnOfficial) Latest AI tutorials and guides
+
+ * #### [AI Jason](https://www.youtube.com/@AIJasonZ) AI Builder Club 
 
 ## YouTube Videos
 
