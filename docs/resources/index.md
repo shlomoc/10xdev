@@ -1,7 +1,6 @@
 # AI Resources
 
 ## Tools
-
  * #### [AI Tools Directory](https://tools.forwardfuture.ai/) from Forward Future
  * #### [AI Tools for Devs](https://aitoolsfordevs.com/) 
 
@@ -19,6 +18,7 @@
  * #### [21st.dev](https://21st.dev) Discover, share & remix the best UI components
  * #### [Huggingface](https://huggingface.co) The AI community building the future: Models · Spaces · Datasets
  * #### [Braintrust.dev](https://www.braintrust.dev/docs/guides/evals) Evals
+ * #### [Spec Kit](https://github.com/github/spec-kit) Toolkit to help you get started with Spec-Driven Development
 
 ### Content Creation
  * #### [Ideagram](https://ideogram.ai/) Generate stunning images

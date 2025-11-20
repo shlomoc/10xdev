@@ -11,6 +11,7 @@
 - [Anthropic Prompt Engineering Docs](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)  
 - [Anthropic's System Prompts](https://docs.anthropic.com/en/release-notes/system-prompts)  
 - [Anthropic Prompt Library](https://docs.anthropic.com/claude/prompt-library)
+- [Anthropic Academy](https://www.anthropic.com/learn)
 - [Anthropics Courses](https://github.com/anthropics/courses)
 
 ## Development & Testing
