@@ -1,7 +1,13 @@
+---
+title: Spec-Driven Design - Structured Development Process
+description: Learn spec-driven design methodology for AI-powered development. Create PRDs, tech stack documentation, and implementation plans for efficient coding workflows.
+---
+
 # Spec-Driven Design
 
-## Purpose
-Instead of coding impulsively ("vibe coding"), we shift to a structured approach called "spec-driven design," where we first define what the application needs to do.
+## Purpose: From Vibe Coding to Structured Development
+
+Instead of coding impulsively ("vibe coding"), we shift to a structured approach called "spec-driven design," where we first define what the application needs to do before writing code.
 
 ## Basic Approach
 - Once you have a product in mind, start by having a discussion with your LLM (e.g. Claude or ChatGPT) and create clear requirements for your MVP, then ask it to output a basic PRD (Product Requirements Document). 

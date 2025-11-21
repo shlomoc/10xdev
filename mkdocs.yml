@@ -1,10 +1,13 @@
-site_name: 10xDevelopers
-site_description: AI powered development resources and guides
+site_name: 10xDevelopers - AI-Powered Development Tools & Guides
+site_description: Master AI-powered development with comprehensive guides on Claude Code, Cursor, prompt engineering, and structured workflows. Learn to build MVPs 10x faster with AI coding tools.
+site_url: https://10xdevelopers.dev
+site_author: 10xDevelopers Community
 # Adjust branch name and docs folder path
 # repo_url: https://github.com/shlomoc/10xDevelopers
 # edit_uri: edit/main/docs/  
 theme:
   name: material
+  custom_dir: overrides
 
   font:
     text: Roboto
@@ -69,8 +72,17 @@ markdown_extensions:
 copyright: Copyright &copy; 2025 10xDevelopers.dev
 
 plugins:
-  - search
+  - search:
+      separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - tags
+  - meta
+
+extra:
+  social:
+    - icon: fontawesome/solid/globe
+      link: https://10xdevelopers.dev
+      name: 10xDevelopers Website
+  generator: false
 
 extra_css:
   - stylesheets/override.css
