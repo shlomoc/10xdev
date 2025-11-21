@@ -23,7 +23,7 @@ What is the gap? Why is this need unmet? Who has this need? Are there enough peo
 
 One way to begin is to copy what's already been done and then improve it. 
 
-Its helpful to solve your own problems. 
+It's also helpful to solve your own problems. 
 
 ### 2. Utilize AI tools:
 * [Perplexity Deep Research](https://www.perplexity.ai/) - Advanced AI research assistant

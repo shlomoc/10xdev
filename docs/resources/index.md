@@ -2,7 +2,6 @@
 
 ## Tools
  * #### [AI Tools Directory](https://tools.forwardfuture.ai/) from Forward Future
- * #### [AI Tools for Devs](https://aitoolsfordevs.com/) 
 
 ### Search & Documentation
  * #### [Perplexity](https://www.perplexity.ai/) AI search  or [Comet](https://www.perplexity.ai/comet) Perplexity browser
@@ -82,7 +81,6 @@
 
 ## Blogs
  * #### [Simon Willison's Weblog](https://simonwillison.net/)
- * #### [Vibe Coding](https://medium.com/vibe-coding) Medium blog
 
 ## Roadmaps
  * #### [AI Engineer Roadmap](https://roadmap.sh/ai-engineer/)

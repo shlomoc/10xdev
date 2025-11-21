@@ -1,6 +1,6 @@
 # **Claude Code**
 
-Claude code is a CLI that can also be used with an IDE like VS Code using the /ide command.
+Claude code is a CLI that can also be used with an IDE like VS Code.
 
 - [Claude Code](https://www.anthropic.com/claude-code) - You can now sign up for a monthly plan (instead of paying per token which quickly adds up).
 
