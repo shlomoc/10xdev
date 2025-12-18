@@ -12,10 +12,10 @@
  * #### [Gitdiagram](https://gitdiagram.com/) Turn any GitHub repository into an interactive diagram
 
 ### AI Development & Model Deployment
- * #### [Replicate](https://www.replicate.com/) Deploying and running ML models (inference)
- * #### [Copilotkit.ai](https://www.copilotkit.ai/) Build an AI copilot for your app
- * #### [21st.dev](https://21st.dev) Discover, share & remix the best UI components
  * #### [Huggingface](https://huggingface.co) The AI community building the future: Models · Spaces · Datasets
+ * #### [Replicate](https://www.replicate.com/) Deploying and running ML models (inference)
+  * #### [21st.dev](https://21st.dev) Discover, share & remix the best UI components
+ * #### [Copilotkit.ai](https://www.copilotkit.ai/) Build an AI copilot for your app
  * #### [Braintrust.dev](https://www.braintrust.dev/docs/guides/evals) Evals
  * #### [Spec Kit](https://github.com/github/spec-kit) Toolkit to help you get started with Spec-Driven Development
 
@@ -31,12 +31,13 @@
 
 ### MCP
 * #### [MCP](https://modelcontextprotocol.io/introduction) Model Context Protocol (MCP) Official Documentation
-* #### [MCP Servers](https://github.com/modelcontextprotocol/servers) Referenced implementation of MCP Servers
+* #### [MCP Registry](https://registry.modelcontextprotocol.io/) Official MCP Registry
 * #### [MCP Hub](https://hub.docker.com/mcp) Library of secure, containerized MCP servers
 * #### [MCP Registry from Mastra](https://mastra.ai/mcp-registry-registry) A registry of MCP registries
 * #### [FastMCP](https://github.com/jlowin/fastmcp) The fast, Pythonic way to build MCP servers and clients
 
 ### Educational 
+* #### [The Modern Software Dev](https://themodernsoftware.dev) CS146 The Modern Software Developer
 * #### [Awesome generative ai guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)  Repository for generative AI educational resources and research updates
 * #### [LLM visualization](https://bbycroft.net/llm) View inside a Transformer
 * #### [Agents towards production](https://github.com/NirDiamant/agents-towards-production) Tutorials on GenAI agents
@@ -102,6 +103,8 @@
  * #### [Vibe Coding Playbook](https://www.forwardfuture.ai/p/the-matthew-berman-vibe-coding-playbook) from Matthew Berman
 
  * #### [AGI is still a decade away](https://www.podchemy.com/notes/andrej-karpathy-agi-is-still-a-decade-away-43921620932) Andrej Karpathy on Dwarkesh Podcast (10/17/2025)
+
+ * #### [Getting AI to Work In Complex Codebases](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md) 
 
  * #### [Vibe coding MenuGen](https://karpathy.bearblog.dev/vibe-coding-menugen/) Andrej Karpathy explores hype vs reality of vibe coding
 

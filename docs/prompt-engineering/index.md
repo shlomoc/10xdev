@@ -8,6 +8,7 @@ Prompt vs. Context Engineering: While prompt engineering uses static prompts, co
 
 * [Prompt Engineering Guide](https://www.forwardfuture.ai/p/humanity-s-last-prompt-engineering-guide-built-for-the-gpt-5-era) by Matthew Berman and Nick Wentz
 * [Google Prompt Engineering White Paper](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
+* [Prompting Techniques](https://www.promptingguide.ai/techniques)
 
 ## Prompt Generators
 
