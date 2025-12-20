@@ -41,6 +41,7 @@
 * #### [Awesome generative ai guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)  Repository for generative AI educational resources and research updates
 * #### [LLM visualization](https://bbycroft.net/llm) View inside a Transformer
 * #### [Agents towards production](https://github.com/NirDiamant/agents-towards-production) Tutorials on GenAI agents
+* #### [Agent architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) Implementation of 17+ agentic architectures
 
 ## YouTube Channels
 
