@@ -112,5 +112,9 @@
 
  * #### [My Hackathon Experience](https://medium.com/@stevecohen_29296/i-tried-a-hackathon-with-six-projects-in-one-day-then-built-all-six-apps-in-six-days-e6eecb4e81a5?source=friends_link&sk=ee2ad77170df68b739ed749e0fda2046) I Tried a Hackathon with Six Projects in One Day — Then Built All Six Apps in Six Days
 
+## Posts
+
+ * #### ["I could be 10x more powerful"](https://x.com/karpathy/status/2004607146781278521) Andrej Karpathy's tweet about catching up to the new AI coding tools
+
 
 
