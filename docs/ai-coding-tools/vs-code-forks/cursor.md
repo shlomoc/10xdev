@@ -2,6 +2,12 @@
 
 ## [Cursor IDE](https://www.cursor.com/): AI-first code editor designed to help you code faster
 
+- [Cursor Tutorials](https://cursor.com/learn)
+- [Cursor Workshops](https://cursor.com/workshops])
+- [Cursor Blog](https://cursor.com/blog)
+
+### Documentation
+
 - [Documentation](https://docs.cursor.com/)
 - [Documentation: Custom Modes](https://docs.cursor.com/chat/custom-modes)
 - [Official Community](https://forum.cursor.com/)

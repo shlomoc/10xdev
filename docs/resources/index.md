@@ -83,6 +83,7 @@
 
 ## Blogs
  * #### [Simon Willison's Weblog](https://simonwillison.net/)
+ * #### [Learn AI with me](https://www.learnwithmeai.com/) Gencay blog
 
 ## Roadmaps
  * #### [AI Engineer Roadmap](https://roadmap.sh/ai-engineer/)
