@@ -7,6 +7,7 @@
 - [Builders Community](https://academy.openai.com/public/clubs/builders-etkn1/overview) - Codex Builders Community
 - [Codex Cookbook](https://cookbook.openai.com/topic/codex)
 - [Getting Started with Codex](https://www.youtube.com/watch?v=px7XlbYgk7I) Youtube video
+- [Introducing GPT-5.2-Codex](https://openai.com/index/introducing-gpt-5-2-codex/) The most advanced agentic coding model for professional software engineering and defensive cybersecurity
 
 
 

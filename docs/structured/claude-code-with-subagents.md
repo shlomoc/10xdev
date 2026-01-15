@@ -1,4 +1,4 @@
-# Spec-Driven Design with subagents
+# Spec-Driven Design with Subagents
 
 ## Full Approach
 
@@ -38,6 +38,17 @@ There is a feature in Claude Code called subagents, the documentation is at http
 
 If you are using subagents, also add a rule to CLAUDE.md to use subagents for tasks that match their expertise, and parallelize tasks but do not overwrite each others updates.
 
+Since the subagents feature was shipped, Anthropic has added new features including Skills and Plugins.
 
+## Claude Skills
 
+Claude Skills are domain-specific “packs” of knowledge, instructions, and optionally scripts that Claude can load only when needed, keeping the context window lean.
+
+## Claude Plugins
+
+Plugins are distribution containers that can include skills, slash commands, subagents, tools (via MCP), and hooks, usually installed into Claude Code with a single action.
+
+They are focused on extending the Claude Code environment itself—defining how and when capabilities show up in your IDE/terminal workflow, and are often shared via marketplaces or repos.
+
+You can find more about Claude Skills and Plugins on the [Claude Code](../../ai-coding-tools/ai-agents/claude-code) page of this website.
 

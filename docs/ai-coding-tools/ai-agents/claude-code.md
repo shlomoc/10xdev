@@ -2,13 +2,14 @@
 
 Claude code is a CLI that can also be used with an IDE like VS Code.
 
-- [Claude Code](https://www.anthropic.com/claude-code) - You can now sign up for a monthly plan (instead of paying per token which quickly adds up).
+- [Claude Code](https://www.anthropic.com/claude-code) - You can sign up for a monthly plan (instead of paying per token which quickly adds up).
 
 ## Documentation
 
 - [Claude Code Docs](https://docs.anthropic.com/en/docs/claude-code/overview) - Official documentation
 - [Claude Code Common workflows](https://docs.anthropic.com/en/docs/claude-code/common-workflows) - Common development patterns
-- [Claude Code Agent Skills](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills) - Organized folders containing instructions, scripts, and resources
+- [Claude Code Agent Skills](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills) - Article explaining how skills are organized folders containing instructions, scripts, and resources
+- [Agent Skills](https://code.claude.com/docs/en/skills) Claude Code Skills — Official documentation and examples
 
 - [Cheat Sheet](https://awesomeclaude.ai/code-cheatsheet.pdf) - PDF cheat sheet
 - [Claude Code Tips](https://github.com/Njengah/claude-code-cheat-sheet) - Collection of Claude Code tips from Joe Njenga
@@ -23,9 +24,11 @@ Claude code is a CLI that can also be used with an IDE like VS Code.
 ## Best Practices
 
 - [Claude Code Best Practices](https://www.anthropic.com/engineering/claude-code-best-practices) - "think" < "think hard" < "think harder" < "ultrathink." Each level allocates progressively more thinking budget for Claude to use.
+- [How I use Claude Code](https://www.reddit.com/r/ClaudeAI/comments/1q2c0ne/claude_code_creator_boris_shares_his_setup_with/) Boris Cherny, Claude Code Creator, shares his tips
+- [Skill authoring best practices](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices) Official doc
 - [Tips on using Claude Code](../../reference/claude-code-tips.md) - Tips by Ian Nuttel
 - [Article on using Claude Code](https://spiess.dev/blog/how-i-use-claude-code) - Developer insights by Philipp Spiess
-- [How I use Claude Code](https://www.reddit.com/r/ClaudeAI/comments/1q2c0ne/claude_code_creator_boris_shares_his_setup_with/) Boris Cherny, Claude Code Creator, shares his tips
+
 
 ## Use Cases
 
@@ -34,9 +37,10 @@ Claude code is a CLI that can also be used with an IDE like VS Code.
 
 ## Tools & Extensions
 
+- [Plugins](https://github.com/anthropics/claude-code/tree/main/plugins) Claude Code Plugins Github directory
 - [awesome claude skills](https://github.com/ComposioHQ/awesome-claude-skills) A curated list of Claude Skills, resources, and tools for customizing Claude AI workflows
 - [awesome-claude-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) Claude subagents collection 
-- [SuperClaude](https://github.com/NomenAK/SuperClaude) - Framework that enhances Claude Code with development personas and commands
+
 - [Claude Code Templates](https://www.aitmpl.com/) Ready to use templates
 - [Claude Code Development Kit](https://github.com/peterkrueck/Claude-Code-Development-Kit) - Multi-agent orchestration, automated docs & MCP integration  
 - [claude-sessions](https://github.com/iannuttall/claude-sessions) - Comprehensive development session tracking and documentation
