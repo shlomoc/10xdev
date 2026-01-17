@@ -20,6 +20,7 @@ Claude code is a CLI that can also be used with an IDE like VS Code.
 - [Build with Claude](https://www.anthropic.com/learn/build-with-claude) - Claude Code Academy
 - [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action) - Interactive course
 - [Claude Code: A Highly Agentic Coding Assistant](https://learn.deeplearning.ai/courses/claude-code-a-highly-agentic-coding-assistant) - DeepLearning.AI course
+- [Claude tutorials](https://claude.com/resources/tutorials) Build your skills through hands-on tutorials
 
 ## Best Practices
 
@@ -44,6 +45,7 @@ Claude code is a CLI that can also be used with an IDE like VS Code.
 - [Claude Code Templates](https://www.aitmpl.com/) Ready to use templates
 - [Claude Code Development Kit](https://github.com/peterkrueck/Claude-Code-Development-Kit) - Multi-agent orchestration, automated docs & MCP integration  
 - [claude-sessions](https://github.com/iannuttall/claude-sessions) - Comprehensive development session tracking and documentation
+- [Trace Claude Code](https://docs.langchain.com/langsmith/trace-claude-code) Doc on how to trace Claude code using LangSmith
 
 ## Community
 

@@ -24,7 +24,7 @@ Quick Rule: Start with swarm for most tasks. Use hive-mind when you need persist
 
 ## Steps
 
-#### Note: use @alpha to get alpha version of claude-flow
+#### Note: use @v3alpha to get v3 alpha version of claude-flow
 
 ### Connect to github codespace
 
@@ -37,13 +37,14 @@ npm install -g @anthropic-ai/claude-code
 ### Initialize settings
 
 ```bash
-npx -y claude-flow@alpha init --force
+npm install claude-flow@v3alpha
+npx claude-flow@v3alpha init
 ```
 
 ### List command options
 
 ```bash
-npx claude-flow@alpha --help
+npx claude-flow@v3alpha --help
 ```
 
 ### Workaround for [Issue](https://github.com/ruvnet/claude-code-flow/issues/62)
@@ -57,13 +58,13 @@ claude --dangerously-skip-permissions
 
 ### Test it with a sample task for swarm command:
 ```bash
-npx -y claude-flow@alpha swarm "create 3 different modern login pages"
+npx -y claude-flow@v3alpha swarm "create 3 different modern login pages"
 ```
 
 ### Test it with a sample task for hive command:
 ```bash
-npx claude-flow@alpha hive-mind wizard
-npx claude-flow@alpha hive-mind spawn ""Build a simple CRM MVP to let teams add contacts, log interactions, and track deals in a single view."" --claude
+npx claude-flow@v3alpha hive-mind wizard
+npx claude-flow@v3alpha hive-mind spawn "Build a simple CRM MVP to let teams add contacts, log interactions, and track deals in a single view." --claude
 ```
 
 ### Alternatively, prompt claude directly 
