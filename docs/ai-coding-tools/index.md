@@ -33,3 +33,17 @@ Use the category pages to reflect on your needs:
 - Want developer IDEs with AI capabilities? → VS Code Forks (Cursor AI, Windsurf)
 - Prefer open source where you pay by model token usage? → IDE Plugins (Cline, Roo Code)  
 - Need automation and branching workflows? → AI Agents & CLI Tools (Claude Code, Google Jules, OpenAI Codex)
+
+## Level up by using multiple tools
+
+For example, consider this coding setup:
+VS Code with Codex 5.2 on the left, Claude Code Opus 4.5 on the right
+
+1. Start building with Claude Code in plan mode
+2. Copy and paste every plan into Codex. Validate the plan. If they have any critical feedback, give it back to CC
+3. Every change either agent makes, ask the other agent to review it
+4. When one agent submits a PR, use the other agent to review it
+
+Not only will you produce better apps, you'll have fun just feeling like you're managing a team of engineers.
+
+

@@ -23,6 +23,10 @@ A modern framework for building AI agents with TypeScript, built-in integrations
 
 Explore each framework to find the right approach for your agent development needs. Consider factors like team coordination, workflow complexity, platform integration, and observability requirements when choosing a framework.
 
+Here's an example prompt to use as an agent architect:
+
+#### [Agent Architect Prompt](https://x.com/alex_prompter/status/2012310997160046687?s=20) X post to prompt as an agent architect role
+
 ## How to choose
 
 - Need inter-agent communication protocols? → **A2A**
