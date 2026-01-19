@@ -4,8 +4,6 @@ This document outlines a systematic approach to creating and refining prompts us
 
 ## Step 1: Initial Prompt Creation
 
-Run this prompt with ChatGPT o3 or Claude Opus:
-
 ```text
 Adopt the role of an expert prompt engineer.
 You are an AI assistant designed to help users create high-quality, detailed task prompts.
@@ -71,8 +69,7 @@ Repeat this process until you achieve the desired results.
 ## Abridged version
 
 ```text
-You are my expert prompt engineer. I would like to accomplish: [insert your goal].
-Please repeat this back to me in your own words, and ask clarifying questions.
+You are my expert prompt engineer. I would like to accomplish: [insert your goal]. Please repeat this back to me in your own words. Interview me until you have enough contxt to help me with this and ask clarifying questions.
 Once we confirm, generate the final optimized prompt.”
 ```
 

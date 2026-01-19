@@ -18,6 +18,7 @@ Prompt vs. Context Engineering: While prompt engineering uses static prompts, co
 * [OpenAI Playground](https://platform.openai.com/playground/chat) Create prompt wizard
 * [meta-prompt-workflow](./meta-prompt-workflow.md) Iterative approach
 * Products like [bolt](https://bolt.new) also have prompt wizard
+* [Prompt Optimization Guide](https://www.productmanagement.ai/p/prompt-optimization-guide) Playbook for prompt optimization maintenance
 
 ## Prompt Libraries
 
@@ -31,6 +32,7 @@ Prompt vs. Context Engineering: While prompt engineering uses static prompts, co
 
 * [Tips for prompting AI IDEs](../reference/ide-tips.md)
 * [GPT-5 prompting tips](../reference/gpt-5-tips.md)
+* [Prompt Engineering Best Practises](https://x.com/Meer_AIIT/status/2013227813017411758) Google's 6 Hour Prompt Engineering Course in 8 minutes (X post)
 
 ## Customizing ChatGPT
 
@@ -53,6 +55,7 @@ Prompt vs. Context Engineering: While prompt engineering uses static prompts, co
 * **Reddit**
     * [r/aipromptprogramming](https://www.reddit.com/r/aipromptprogramming/) This group focuses on using AI tools for AI programming & prompt engineering
     * [r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/) Coding side of ChatGPT
+    * [r/PromptEngineeering](https://www.reddit.com/r/PromptEngineering/) Application of engineering practices to the development of prompts
 
 ## Articles
 

@@ -19,6 +19,7 @@ When you have a detailed PRD, you can automate development using an agentic proc
 
 ### 2. Use [SPARC method with Claude code](./claude-flow.md)
 
-### 3. Alternativley, use [SPARC method with Roo Code](./SPARC-roo.md)
+### 3. Alternatively, use [SPARC method with Roo Code](./SPARC-roo.md)
+
 
 
