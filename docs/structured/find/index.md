@@ -33,9 +33,10 @@ It's also helpful to solve your own problems.
 
 like 'Find me 10 biggest gaps in the XYZ industry' or 'Validate this startup idea: [insert idea]. Include market size, top 3 competitors, current demand signals, and possible monetization.'
 
-### 4. Use [IdeaPicker](https://ideapicker.io/ideas)
-
+### 4. Use [IdeaPicker](https://ideapicker.io/ideas) 
 to find ideas by scanning Reddit for pain points
+or [App Ideas](https://readytobuild.app/) for ideas.
+
 ### 5. Check [Vercel Domain Search](https://vercel.com/domains) 
 
 for available domains matching your keywords

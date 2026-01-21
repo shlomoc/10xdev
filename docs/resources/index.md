@@ -40,6 +40,7 @@
 * #### [The Modern Software Dev](https://themodernsoftware.dev) CS146 The Modern Software Developer
 * #### [Awesome generative ai guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)  Repository for generative AI educational resources and research updates
 * #### [LLM visualization](https://bbycroft.net/llm) View inside a Transformer
+* #### [ML Engineer Guide](https://x.com/ArmanHezarkhani/status/2013608521900683765) Article (on X) with index of educational youtube videos
 * #### [Agents towards production](https://github.com/NirDiamant/agents-towards-production) Tutorials on GenAI agents
 * #### [Agent architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) Implementation of 17+ agentic architectures
 

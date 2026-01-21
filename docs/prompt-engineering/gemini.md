@@ -14,7 +14,8 @@
 - [Writing Effective AI Prompts for Business](https://workspace.google.com/resources/ai/writing-effective-prompts/)  
 - [Jules doc](https://jules.google/docs)
 - [Gemini Gems](https://support.google.com/gemini/answer/15235603) Tips for creating custom gems
-- [NotebookLM](https://www.skills.google/course_templates/1422)NotebookLM for Market Research
+- [NotebookLM](https://www.skills.google/course_templates/1422) NotebookLM for Market Research
+- [Google Skills Courses](https://x.com/AndrewBolis/status/2012876394259468307) List of 10 free beginner Courses
 
 ## Development & Testing
 - [Tune Gemini Models by using SFT](https://cloud.google.com/vertex-ai/generative-ai/docs/models/gemini-use-supervised-tuning)
