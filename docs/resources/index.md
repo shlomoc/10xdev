@@ -82,6 +82,8 @@
 
  * #### [AINativeDev](https://ainativedev.io/) Stay up to date with the latest in AI Native Development
 
+ * #### [The Code](https://codenewsletter.ai/subscribe) AI software development news, research papers & trending resources
+
 ## Blogs
  * #### [Simon Willison's Weblog](https://simonwillison.net/)
  * #### [Learn AI with me](https://www.learnwithmeai.com/) Gencay blog

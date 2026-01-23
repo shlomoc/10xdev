@@ -10,7 +10,7 @@ description: Learn spec-driven design methodology for AI-powered development. Cr
 Instead of coding impulsively ("vibe coding"), we shift to a structured approach called "spec-driven design," where we first define what the application needs to do before writing code.
 
 ## Basic Approach
-- Once you have a product in mind, start by having a discussion with your LLM (e.g. Claude or ChatGPT) and create clear requirements for your MVP, then ask it to output a basic PRD (Product Requirements Document). 
+- Once you have a product in mind, start by having a discussion with your LLM. You can ask Claude Code to interview you using its built-in AskUserQuestion tool to create clear requirements for your MVP, then ask it to output a basic PRD (Product Requirements Document). 
 - Similarly, define your tech stack. 
 
 For the PRD, below is an example of the expected output format:
