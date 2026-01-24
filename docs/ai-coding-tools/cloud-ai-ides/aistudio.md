@@ -1,4 +1,4 @@
-# **Google AI Studio**
+# **Google AI for Developers**
 
 - [Google AI for Developers](https://ai.google.dev/) Central developer hub
 - [Google AI Studio](https://aistudio.google.com/apps): Build Apps with Gemini 

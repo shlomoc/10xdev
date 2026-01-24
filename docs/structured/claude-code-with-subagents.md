@@ -38,6 +38,8 @@ There is a feature in Claude Code called subagents, the documentation is at http
 
 If you are using subagents, also add a rule to CLAUDE.md to use subagents for tasks that match their expertise, and parallelize tasks but do not overwrite each others updates.
 
+You can even build a council of subagents to review each other and give perspectives.  This [Youtube video](https://www.youtube.com/watch?v=LpM1dlB12-A) explains the idea.
+
 Since the subagents feature was shipped, Anthropic has added new features including Skills and Plugins.
 
 ## Claude Skills

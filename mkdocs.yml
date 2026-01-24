@@ -144,7 +144,7 @@ nav:
     - Cloud AI IDEs:
       - Lovable.dev: ai-coding-tools/cloud-ai-ides/lovable.md
       - Bolt.new: ai-coding-tools/cloud-ai-ides/bolt.md
-      - Google AI Studio: ai-coding-tools/cloud-ai-ides/aistudio.md
+      - Google AI for Developers: ai-coding-tools/cloud-ai-ides/aistudio.md
       - Replit: ai-coding-tools/cloud-ai-ides/replit.md
       - Base44: ai-coding-tools/cloud-ai-ides/base44.md
       - Rocket.new: ai-coding-tools/cloud-ai-ides/rocket.md
@@ -161,6 +161,7 @@ nav:
       - Claude Code: ai-coding-tools/ai-agents/claude-code.md
       - Codex: ai-coding-tools/ai-agents/codex.md
       - Warp: ai-coding-tools/ai-agents/warp.md
+      - Gemini: ai-coding-tools/ai-agents/gemini-cli.md
   - 🤝 Agent Frameworks:
     - Overview: agent-frameworks/index.md
     - A2A: agent-frameworks/a2a.md

@@ -17,6 +17,8 @@ Identify and mitigate potential security vulnerabilities.
 ### 2. Implement recommended security improvements
 ### 3. Verify fixes with security testing
 
+Tools like Claude Code also have built-in commands like /security-review that automatically scan for vulnerabilities.
+
 ## Output
 
 * `security-audit.md` - Security assessment with identified vulnerabilities and fixes

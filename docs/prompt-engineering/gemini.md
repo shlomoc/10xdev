@@ -24,8 +24,7 @@
 - [Google AI Blog – Gemini](https://blog.google/products/gemini/)
 
 ## Coding Tools
-- [Jules](https://jules.google.com) an async development agent
-- [Gemini Code Assist](https://codeassist.google/)
 - [Google AI for Developers](../ai-coding-tools/cloud-ai-ides/aistudio.md)
-- [Building AI Agents](https://cloud.google.com/resources/content/building-ai-agents)
+- [Gemini Coding Agents](../ai-coding-tools/ai-agents/gemini-cli.md)
+
 

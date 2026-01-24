@@ -17,3 +17,4 @@
 - [Prompt Directory](https://damiens-prompt-directory.lovable.app/) lovable app
 - [Example Prompts](https://x.com/godofprompt/status/1950564573515551009) X post
 - [My Lovable System After 45+ MVPs](https://x.com/PrajwalTomar_/status/2013980871829966940) X article by Prajwal Tomar
+- [Lovable Website Guide](https://x.com/damienghader/status/2014341010600435925) X article by Damien

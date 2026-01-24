@@ -14,7 +14,7 @@
 ### AI Development & Model Deployment
  * #### [Huggingface](https://huggingface.co) The AI community building the future: Models · Spaces · Datasets
  * #### [Replicate](https://www.replicate.com/) Deploying and running ML models (inference)
-  * #### [21st.dev](https://21st.dev) Discover, share & remix the best UI components
+ * #### [21st.dev](https://21st.dev) Discover, share & remix the best UI components
  * #### [Copilotkit.ai](https://www.copilotkit.ai/) Build an AI copilot for your app
  * #### [Braintrust.dev](https://www.braintrust.dev/docs/guides/evals) Evals
  * #### [Spec Kit](https://github.com/github/spec-kit) Toolkit to help you get started with Spec-Driven Development
@@ -28,6 +28,7 @@
  * #### [Obsidian](https://obsidian.md/) Markdown Editor
  * #### [Wisprflow](https://wisprflow.ai/) Voice dictation
  * #### [Notebook LM](https://notebooklm.google.com/) Understand complex topics, ask questions, & get instant insight
+ * #### [Clawdbot](https://clawd.bot/) Personal AI assistant
 
 ### MCP
 * #### [MCP](https://modelcontextprotocol.io/introduction) Model Context Protocol (MCP) Official Documentation
