@@ -155,4 +155,5 @@ A modern, streamlined approach to building MVPs using AI-powered tools and effic
  * #### [AI App MVP Prompt Template](./AI_MVP_Template.md)
  * #### [Interactive Vibe Coder prompt](https://x.com/alex_prompter/status/2010845566763503878?s=20) (posted on X)
  * #### [All in one SaaS startup prompt](https://x.com/godofprompt/status/1939004835065667897) (posted on X)
+ * #### [The Complete Guide: Vibe Coding versus AI Engineering](https://x.com/ArmanHezarkhani/status/2015803108706656530) Article on X
 

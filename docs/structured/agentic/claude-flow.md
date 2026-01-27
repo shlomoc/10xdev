@@ -4,23 +4,9 @@
 Automate code development using agents.
 
 ## Description
-Claude-Flow is an orchestration platform combining hive-mind, swarm intelligence and neural pattern recognition. 
+Claude-Flow is an experimental agent orchestration platform combining advanced techniques like hive-mind, swarm intelligence and neural pattern recognition. 
 
 The Queen agent (master coordinator) directs specialized workers like Architects, Coders and Testers.  The framework leverages a multitude of MCP tools for everything ranging from swarm orchestration to github integration.
-
-## How to choose between swarm and hive-mind
-
-Quick Rule: Start with swarm for most tasks. Use hive-mind when you need persistent sessions or complex multi-agent coordination.
-
-| Feature    | `swarm` Command                                   | `hive-mind` Command                         |
-|------------|---------------------------------------------------|---------------------------------------------|
-| Best For   | Quick tasks, single objectives                    | Complex projects, persistent sessions       |
-| Setup      | Instant - no configuration needed                 | Interactive wizard setup                    |
-| Session    | Temporary coordination                            | Persistent with resume capability           |
-| Memory     | Task-scoped                                       | Project-wide with SQLite storage            |
-| Agents     | Auto-spawned for task                             | Manual control with specializations         |
-| Use When   | "Build X", "Fix Y", "Analyze Z"                   | Multi-feature projects, team coordination   |
-
 
 ## Steps
 
@@ -76,9 +62,9 @@ Create an offline browser-based anteroid game which relies on arrow keys to pilo
 
 ## References
 
-### [Claude-Flow: Agent Orchestration Platform for Claude-Code](https://www.linkedin.com/pulse/claude-flow-agent-orchestration-platform-claude-code-reuven-cohen-bhimc) Article
-### [Claude Flow](https://github.com/ruvnet/claude-flow) Github repository
-### [Claude Flow Wiki](https://github.com/ruvnet/claude-flow/wiki) Claude-Flow v2.0.0 Alpha Wiki
-### [Demo](https://github.com/ruvnet/yyz-agentics-june) Github repository created from a meetup
-### [Explain claude-flow](https://chatgpt.com/share/688cfa07-c0ac-8000-b41f-3ed62fd006db) Ask chatgpt to explain claude-flow github repo
+#### [Claude Flow](https://github.com/ruvnet/claude-flow) Github repository
+#### [Claude-Flow: Agent Orchestration Platform for Claude-Code](https://www.linkedin.com/pulse/claude-flow-agent-orchestration-platform-claude-code-reuven-cohen-bhimc) Article
+#### [Claude Flow Wiki](https://github.com/ruvnet/claude-flow/wiki) Claude-Flow v2.0.0 Alpha Wiki
+#### [Demo](https://github.com/ruvnet/yyz-agentics-june) Github repository created from a meetup
+#### [Explain claude-flow](https://chatgpt.com/share/688cfa07-c0ac-8000-b41f-3ed62fd006db) Ask chatgpt to explain claude-flow github repo
 
