@@ -28,7 +28,7 @@
  * #### [Obsidian](https://obsidian.md/) Markdown Editor
  * #### [Wisprflow](https://wisprflow.ai/) Voice dictation
  * #### [Notebook LM](https://notebooklm.google.com/) Understand complex topics, ask questions, & get instant insight
- * #### [Clawdbot](https://clawd.bot/) Personal AI assistant
+ * #### [OpenClaw](https://clawd.bot/) Clawdbot Personal AI assistant
 
 ### MCP
 * #### [MCP](https://modelcontextprotocol.io/introduction) Model Context Protocol (MCP) Official Documentation

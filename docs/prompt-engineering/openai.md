@@ -30,7 +30,8 @@
 - [OpenAI Tokenizer](https://platform.openai.com/tokenizer)  
 
 - [Agent Builder](https://platform.openai.com/agent-builder) Visual canvas for building multi-step agent workflows
-- [OpenAI Apps SDK](https://developers.openai.com/apps-sdk) Framework to build apps for ChatGPT
+- [Build for ChatGPT](https://developers.openai.com/chatgpt/) Build apps and experiences for ChatGPT users
+- [OpenAI Apps SDK](https://developers.openai.com/apps-sdk) Apps sdk
 
 ## Community & Updates
 - [OpenAI Blog](https://openai.com/blog)  

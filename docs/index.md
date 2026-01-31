@@ -16,6 +16,8 @@ Welcome to 10xDevelopers.dev - your comprehensive guide to AI-powered coding, de
 
 Master **AI-powered coding** techniques, explore cutting-edge **development tools** like Claude Code and Cursor, and learn **vibe coding** methodologies to build production-ready applications faster than ever.
 
+Guides, patterns, tools, and resources — to help you go from experimenting with AI to getting real results. Browse by development phase, platform, frameworks, tools or search for a specific topic.
+
 ## Traditional vs AI-Powered Development
 
 See how an **AI-powered approach** transforms the development workflow compared to traditional methods.

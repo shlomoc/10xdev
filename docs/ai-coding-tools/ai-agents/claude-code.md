@@ -23,7 +23,9 @@ Claude code is a CLI that can also be used with an IDE like VS Code.
 - [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action) - Interactive course
 - [Claude Code: A Highly Agentic Coding Assistant](https://learn.deeplearning.ai/courses/claude-code-a-highly-agentic-coding-assistant) - DeepLearning.AI course
 - [Claude tutorials](https://claude.com/resources/tutorials) Build your skills through hands-on tutorials
+- [Anthropic Courses on GitHub](https://github.com/anthropics/courses) Official course materials and notebooks
 - [Claude SKills](https://x.com/aiedge_/status/2015822565500194961) How to Deploy Claude Skills Effectively (X article)
+- [Separation of Responsibilities: MCP vs Skills](https://x.com/dani_avila7/status/2014409635370041517) (X article)
 
 ## Best Practices
 - [Claude Code Best Practices](https://code.claude.com/docs/en/best-practices) Updated version, includes skills, plugins
@@ -41,10 +43,10 @@ Claude code is a CLI that can also be used with an IDE like VS Code.
 
 ## Tools & Extensions
 
-- [Plugins](https://github.com/anthropics/claude-code/tree/main/plugins) Claude Code Plugins Github directory
+- [Official Plugins](https://github.com/anthropics/claude-plugins-official) Anthropic-maintained Claude Code plugins
+- [Connect apps](https://claude.ai/directory) Unlock more with Claude when you connect with remote and local tools
 - [awesome claude skills](https://github.com/ComposioHQ/awesome-claude-skills) A curated list of Claude Skills, resources, and tools for customizing Claude AI workflows
 - [awesome-claude-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) Claude subagents collection 
-
 - [Claude Code Templates](https://www.aitmpl.com/) Ready to use templates
 - [Oh my Claude](https://yeachan-heo.github.io/oh-my-claudecode-website/) Multi-agent orchestration for Claude Code
 - [Everything Claude Code](https://github.com/affaan-m/everything-claude-code) Complete Claude Code configuration collection from an Anthropic hackathon winner

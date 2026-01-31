@@ -155,12 +155,13 @@ nav:
       - Kiro: ai-coding-tools/vs-code-forks/kiro.md
     - IDE Plugins:
       - Cline: ai-coding-tools/ide-plugins/cline.md
-      - Roo Code: ai-coding-tools/ide-plugins/roo.md      
+      - Roo Code: ai-coding-tools/ide-plugins/roo.md
       - Github Copilot: ai-coding-tools/ide-plugins/github.md
     - AI Agents:
       - Claude Code: ai-coding-tools/ai-agents/claude-code.md
       - Codex: ai-coding-tools/ai-agents/codex.md
       - Warp: ai-coding-tools/ai-agents/warp.md
+      - Kilo Code: ai-coding-tools/ai-agents/kilo.md   
       - Gemini: ai-coding-tools/ai-agents/gemini-cli.md
   - 🤝 Agent Frameworks:
     - Overview: agent-frameworks/index.md
