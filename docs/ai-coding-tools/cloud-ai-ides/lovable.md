@@ -14,8 +14,11 @@
 - [Lovable A-Z guide](https://promptadvisers.notion.site/Lovable-A-Z-Guide-16678194bfaf80868be6f9f03a1d4ce8) Notion doc
 - [Lovable playbook](https://mastering-lovable.lovable.app/) lovable app
 - [Prompt Hacks](https://prompt-power-up-ui.lovable.app/) lovable app
-- [Prompt Directory](https://damiens-prompt-directory.lovable.app/) lovable app
 - [Example Prompts](https://x.com/godofprompt/status/1950564573515551009) X post
+- [More Example Prompts](https://x.com/ArmanHezarkhani/status/2019433119867126017) X article
 - [My Lovable System After 45+ MVPs](https://x.com/PrajwalTomar_/status/2013980871829966940) X article by Prajwal Tomar
+- [Prompt Directory](https://damiens-prompt-directory.lovable.app/) lovable app
+- [Lovable : The Complete Guide](https://x.com/damienghader/status/2019772845661061517) X article by Damien
 - [Lovable Website Guide](https://x.com/damienghader/status/2014341010600435925) X article by Damien
-- [Lovable Connectors](https://x.com/damienghader/status/2015790037120491939) X article: The Complete Guide: Lovable Connectors
+- [Lovable Connectors](https://x.com/damienghader/status/2015790037120491939) X article by Damien
+
