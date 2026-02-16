@@ -27,11 +27,14 @@ Claude code is a CLI that can also be used with an IDE like VS Code.
 - [Anthropic Courses on GitHub](https://github.com/anthropics/courses) - Official course materials and notebooks
 - [Claude SKills](https://x.com/aiedge_/status/2015822565500194961) - How to Deploy Claude Skills Effectively (X article)
 - [Separation of Responsibilities: MCP vs Skills](https://x.com/dani_avila7/status/2014409635370041517) - (X article)
+- [Guide to building skills](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf) - PDF guide on building skills
+
 
 ## Best Practices
 - [Claude Code Best Practices](https://code.claude.com/docs/en/best-practices) - Updated version, includes skills, plugins
 - [Claude Code Best Practices](https://www.anthropic.com/engineering/claude-code-best-practices) - "think" < "think hard" < "think harder".  Each level allocates progressively more thinking budget for Claude to use.
 - [How I use Claude Code](https://x.com/bcherny/status/2017742741636321619) - Boris Cherny, Claude Code Creator, shares his tips
+- [Customizing Claude Code](https://x.com/bcherny/status/2021699851499798911) - Boris Cherny tips on customizing Claude Code
 - [Skill authoring best practices](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices) - Official doc
 - [Tips on using Claude Code](../../reference/claude-code-tips.md) - Tips by Ian Nuttel
 - [Article on using Claude Code](https://spiess.dev/blog/how-i-use-claude-code) - Developer insights by Philipp Spiess
