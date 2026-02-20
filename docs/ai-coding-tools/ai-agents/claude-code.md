@@ -67,4 +67,4 @@ Claude code is a CLI that can also be used with an IDE like VS Code.
 ## Resources
 
 - [Resources on Claude Code](https://claude-code-spotlight.lovable.app/) - Curated collection of resources from the Code newsletter
-- [Awesome Claude Code Resources](https://shahshrey.github.io/awesome-claude-code-resources/) - Collection from shahshrey
+- [Awesome Claude Code Resources](https://awesomeclaude.ai/) - Hub of various Claude code resources

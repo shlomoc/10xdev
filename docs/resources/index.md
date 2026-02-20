@@ -44,6 +44,7 @@
 * #### [ML Engineer Guide](https://x.com/ArmanHezarkhani/status/2013608521900683765) - Article (on X) - with index of educational youtube videos
 * #### [Agents towards production](https://github.com/NirDiamant/agents-towards-production) - Tutorials on GenAI agents
 * #### [Agent architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) - Implementation of 17+ agentic architectures
+ - #### [AI Builder Resources](https://www.theunwindai.com/) - Collection of LLM apps 
 
 ## YouTube Channels
 
@@ -77,6 +78,7 @@
 ## Communities
  * #### [Agentics.org](http://agentics.org) - Non-profit organization dedicated to democratizing artificial intelligence education and innovation
  * #### [Agentics.org Video Portal](https://video.agentics.org/channel/Agentics.org+Video+Portal/370465892)
+ - #### [AI MVP builders](https://www.skool.com/aimvpbuilders/about) - Learn how to build and launch a SaaS using AI 
 
 ## Newsletters
  * #### [The Batch](https://www.deeplearning.ai/the-batch/) - Weekly AI news and insights to help readers keep up with this rapidly changing field
@@ -103,6 +105,10 @@
 
  * #### [GenAI Application Engineers](https://www.deeplearning.ai/the-batch/issue-305/) - From the Batch
 
+* #### ["I could be 10x more powerful"](https://x.com/karpathy/status/2004607146781278521) - Andrej Karpathy's tweet about catching up to the new AI coding tools
+* #### ["How to be 100x engineer"](https://x.com/rohit4verse/status/2020501497377968397) - Rohit on X article
+* #### ["The Only Skills that Matter in 2026"](https://x.com/Saboo_Shubham_/status/2021416352637125110) - Saboo Shubham on X
+
 
 ## Articles
 
@@ -117,9 +123,6 @@
 
  * #### [My Hackathon Experience](https://medium.com/@stevecohen_29296/i-tried-a-hackathon-with-six-projects-in-one-day-then-built-all-six-apps-in-six-days-e6eecb4e81a5?source=friends_link&sk=ee2ad77170df68b739ed749e0fda2046) - I Tried a Hackathon with Six Projects in One Day — Then Built All Six Apps in Six Days
 
-## Posts
-
- * #### ["I could be 10x more powerful"](https://x.com/karpathy/status/2004607146781278521) - Andrej Karpathy's tweet about catching up to the new AI coding tools
 
 
 
