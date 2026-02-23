@@ -33,6 +33,7 @@ Prompt vs. Context Engineering: While prompt engineering uses static prompts, co
 * [Tips for prompting AI IDEs](../reference/ide-tips.md)
 * [GPT-5 prompting tips](../reference/gpt-5-tips.md)
 * [Prompt Engineering Best Practises](https://x.com/Meer_AIIT/status/2013227813017411758) Google's 6 Hour Prompt Engineering Course in 8 minutes (X post)
+* [Alex Prompter on basic AI concepts](https://x.com/alex_prompter/status/2024073869452358017) X post on prompt engineering
 * [Your AI Prompts Are Intellectual Property — Own Them](https://graymatter.jamesgray.ai/p/manage-prompts-like-code) Why smart leaders treat their prompts like code
 
 ## Customizing ChatGPT
@@ -61,7 +62,6 @@ Prompt vs. Context Engineering: While prompt engineering uses static prompts, co
 ## Articles
 
 * [The Rise of Context Engineering](https://blog.langchain.com/the-rise-of-context-engineering/)
-
 
 
 
