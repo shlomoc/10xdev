@@ -3,7 +3,7 @@
 ## [LangGraph](https://www.langchain.com/langgraph) 
 An open source AI agent framework designed to build, deploy and manage complex generative AI agent workflows
 
-- [Langchain Academy](https://academy.langchain.com/courses/intro-to-langgraph) Introduction to LangGraph
+- [Langchain Academy](https://academy.langchain.com/collections) All courses from Langchain Academy
 - [AI Agents in LangGraph](https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/) Intro from deeplearning.ai
 - [Long-Term Agentic Memory With LangGraph](https://learn.deeplearning.ai/courses/long-term-agentic-memory-with-langgraph/) Tutorial from deeplearning.ai
 - [LangChain/LangGraph blog](https://blog.langchain.com/)
