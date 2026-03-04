@@ -2,6 +2,7 @@
 
 ## Tools
  * #### [AI Tools Directory](https://tools.forwardfuture.ai/) - from Forward Future
+ * #### [Good AI Repos](https://goodailist.com/repos) - Curated list of AI repositories
 
 ### Search & Documentation
  * #### [Perplexity](https://www.perplexity.ai/) - AI search  or [Comet](https://www.perplexity.ai/comet) Perplexity browser
@@ -124,5 +125,4 @@
  * #### [Vibe coding MenuGen](https://karpathy.bearblog.dev/vibe-coding-menugen/) - Andrej Karpathy explores hype vs reality of vibe coding
 
  * #### [My Hackathon Experience](https://medium.com/@stevecohen_29296/i-tried-a-hackathon-with-six-projects-in-one-day-then-built-all-six-apps-in-six-days-e6eecb4e81a5?source=friends_link&sk=ee2ad77170df68b739ed749e0fda2046) - I Tried a Hackathon with Six Projects in One Day — Then Built All Six Apps in Six Days
-
 

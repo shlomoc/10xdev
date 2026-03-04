@@ -130,7 +130,7 @@ nav:
       - Feedback & Maintenance: structured/maintenance/index.md
     - 🤖 Agentic Process:
       - Agentic Process: structured/agentic/index.md
-      - Claude Flow: structured/agentic/claude-flow.md
+      - RuFlow: structured/agentic/claude-flow.md
       - SPARC Roo: structured/agentic/SPARC-roo.md
   - 💬 Context Engineering: 
     - Context Engineering Resources: prompt-engineering/index.md
