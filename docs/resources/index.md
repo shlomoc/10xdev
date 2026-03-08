@@ -16,6 +16,7 @@
  * #### [Huggingface](https://huggingface.co) - The AI community building the future: Models · Spaces · Datasets
  * #### [Replicate](https://www.replicate.com/) - Deploying and running ML models (inference)
  * #### [21st.dev](https://21st.dev) - Discover, share & remix the best UI components
+ * #### [Shadcn](https://ui.shadcn.com/create) - Generate and configure shadcn/ui components
  * #### [Copilotkit.ai](https://www.copilotkit.ai/) - Build an AI copilot for your app
  * #### [Braintrust.dev](https://www.braintrust.dev/docs/guides/evals) - Evals
  * #### [Spec Kit](https://github.com/github/spec-kit) - Toolkit to help you get started with Spec-Driven Development
@@ -47,6 +48,7 @@
 * #### [10 FREE Resources to Understand How LLMs Work Under the Hood](https://x.com/ihtesham2005/status/2026631750538113517?s=20) - Ihtesham on X
 * #### [Agents towards production](https://github.com/NirDiamant/agents-towards-production) - Tutorials on GenAI agents
 * #### [Agent architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) - Implementation of 17+ agentic architectures
+* #### [Learning project for building a nano Claude Code-like agent](https://github.com/shareAI-lab/learn-claude-code) - A nano Claude Code–like agent, built from 0 to 1
 * #### [AI Builder Resources](https://www.theunwindai.com/) - Collection of LLM apps 
 
 ## YouTube Channels
@@ -125,4 +127,3 @@
  * #### [Vibe coding MenuGen](https://karpathy.bearblog.dev/vibe-coding-menugen/) - Andrej Karpathy explores hype vs reality of vibe coding
 
  * #### [My Hackathon Experience](https://medium.com/@stevecohen_29296/i-tried-a-hackathon-with-six-projects-in-one-day-then-built-all-six-apps-in-six-days-e6eecb4e81a5?source=friends_link&sk=ee2ad77170df68b739ed749e0fda2046) - I Tried a Hackathon with Six Projects in One Day — Then Built All Six Apps in Six Days
-

@@ -10,6 +10,7 @@ Claude code is a CLI that can also be used with an IDE like VS Code.
 - [Claude Code Common workflows](https://docs.anthropic.com/en/docs/claude-code/common-workflows) - Common development patterns
 - [Cheat Sheet](https://awesomeclaude.ai/code-cheatsheet.pdf) - PDF cheat sheet
 - [Claude Code Tips](https://github.com/Njengah/claude-code-cheat-sheet) - Collection of Claude Code tips from Joe Njenga
+- [Claude Code: Everything You Need to Know](https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know) - Comprehensive community guide and reference
 
 ## Tutorials
 
@@ -18,6 +19,7 @@ Claude code is a CLI that can also be used with an IDE like VS Code.
 - [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action) - Interactive course
 - [Claude Code: A Highly Agentic Coding Assistant](https://learn.deeplearning.ai/courses/claude-code-a-highly-agentic-coding-assistant) - DeepLearning.AI course
 - [Claude tutorials](https://claude.com/resources/tutorials) - Build your skills through hands-on tutorials
+- [Explore Claude Code](https://exploreclaudecode.com) - Learn Claude Code by exploring it in self-documenting project.
 - [Anthropic Courses on GitHub](https://github.com/anthropics/courses) - Official course materials and notebooks
 
 
