@@ -98,6 +98,7 @@
 
 ## Roadmaps
  * #### [AI Engineer Roadmap](https://roadmap.sh/ai-engineer/)
+ * #### [AI Engineering Field Guide](https://github.com/alexeygrigorev/ai-engineering-field-guide) Data-driven field guide to AI engineering roles, skills, and interviews
 
 ## 10x Articles
  * #### [Andrew Ng on why coding is still valuable in the age of AI](https://www.deeplearning.ai/the-batch/issue-292/)

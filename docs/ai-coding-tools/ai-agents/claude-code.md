@@ -3,6 +3,7 @@
 Claude code is a CLI that can also be used with an IDE like VS Code.
 
 - [Claude Code](https://www.anthropic.com/claude-code) - You can sign up for a monthly plan (instead of paying per token which quickly adds up).
+- [Claude Code GitHub](https://github.com/anthropics/claude-code) - Official repository
 
 ## Documentation
 

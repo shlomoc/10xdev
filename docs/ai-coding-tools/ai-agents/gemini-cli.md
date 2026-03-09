@@ -2,6 +2,7 @@
 
 - [Gemini Code Assist](https://codeassist.google/) Gemini Code Assist website
 - [Gemini CLI](https://geminicli.com/) Build, debug and deploy with AI (gemini-cli has free tier)
+- [Gemini CLI GitHub](https://github.com/google-gemini/gemini-cli) Official repository
 - [Jules](https://jules.google.com) an async development agent
 
 ## Tutorials
