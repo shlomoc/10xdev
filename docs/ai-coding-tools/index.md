@@ -30,7 +30,7 @@ Explore each category to find the right AI coding tools for your development wor
 Use the category pages to reflect on your needs:
 
 - Want fast MVP deployment? → Cloud-Based Platforms (Lovable, Google AI Studio, Bolt.new, Replit)
-- Want developer IDEs with AI capabilities? → VS Code Forks (Cursor AI, Windsurf)
+- Want developer IDEs with AI capabilities? → VS Code Forks (Cursor AI, Windsurf, Kiro, Anti-Gravity)
 - Prefer open source where you pay by model token usage? → IDE Plugins (Cline, Roo Code)  
 - Need automation and branching workflows? → AI Agents & CLI Tools (Claude Code, Google Jules, OpenAI Codex)
 
@@ -45,5 +45,4 @@ VS Code with Codex 5.2 on the left, Claude Code Opus 4.5 on the right
 4. When one agent submits a PR, use the other agent to review it
 
 Not only will you produce better apps, you'll have fun just feeling like you're managing a team of engineers.
-
 
