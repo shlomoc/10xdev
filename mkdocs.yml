@@ -171,5 +171,8 @@ nav:
     - CrewAI: agent-frameworks/crewai.md
     - Mastra: agent-frameworks/mastra.md
   - 📚 Resources:
-    - AI Resources: resources/index.md
+    - Overview: resources/index.md
+    - Tools & MCP: resources/tools/index.md
+    - Learning & Articles: resources/learning/index.md
+    - Media & Community: resources/community/index.md
   - 🤝 Contributing: contributing.md
