@@ -1,12 +1,45 @@
 # Contributing
 
-> How to participate in 10xDevelopers community
+Thanks for helping improve 10xDevelopers.
 
-We welcome contributions from the community! Please review our [README.txt](https://github.com/shlomoc/10xdev/blob/main/README.md) for details on how to submit changes.
+## Local setup
 
-[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+1. Clone the repository and enter it:
+   ```bash
+   git clone https://github.com/schlomoc23/10xdev.git
+   cd 10xdev
+   ```
+2. Create a local environment and install dependencies:
+   ```bash
+   make setup
+   ```
+   _Manual alternative:_
+   ```bash
+   python -m venv venv
+   source venv/bin/activate
+   pip install -r requirements.txt
+   ```
+3. Run docs locally:
+   ```bash
+   make serve
+   ```
 
-<!-- All contributors must adhere to our [Code of Conduct](https://github.com/modelcontextprotocol/.github/blob/main/CODE_OF_CONDUCT.md).
+## Contribution flow
 
-For questions and discussions, please use [GitHub Discussions](https://github.com/orgs/modelcontextprotocol/discussions). -->
+1. Create a branch:
+   ```bash
+   git checkout -b feat/<scope>-<short-slug>
+   ```
+   or
+   ```bash
+   git checkout -b fix/<scope>-<short-slug>
+   ```
+2. Make changes following the existing docs structure/style.
+3. Test locally with `make serve` (and `mkdocs build` before opening PR if possible).
+4. Commit with a clear message.
+5. Push your branch and open a PR to `main`.
 
+## Helpful reference
+
+- [README](https://github.com/schlomoc23/10xdev/blob/main/README.md)
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
