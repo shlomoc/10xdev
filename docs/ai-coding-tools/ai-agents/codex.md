@@ -11,7 +11,10 @@
 - [Leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/) - Humans steer. Agents execute.
 - [Tips for long-running agents that do real work](https://developers.openai.com/blog/skills-shell-tips) - Shell + Skills + Compaction
 
+## Subagents
 
+- [Codex Subagents](https://developers.openai.com/codex/subagents) - Official OpenAI documentation for creating and using Codex subagents
+- [Awesome Codex Subagents](https://github.com/VoltAgent/awesome-codex-subagents) - Curated GitHub collection of Codex subagents
 
 
 

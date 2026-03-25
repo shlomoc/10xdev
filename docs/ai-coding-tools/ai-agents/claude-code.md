@@ -20,6 +20,7 @@ Claude code is a CLI that can also be used with an IDE like VS Code.
 - [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action) - Interactive course
 - [Claude Code: A Highly Agentic Coding Assistant](https://learn.deeplearning.ai/courses/claude-code-a-highly-agentic-coding-assistant) - DeepLearning.AI course
 - [Claude tutorials](https://claude.com/resources/tutorials) - Build your skills through hands-on tutorials
+- [Claude Code overview](https://x.com/akshay_pachaar/status/2035341800739877091) - X post with a Claude Code tutorial
 - [Explore Claude Code](https://exploreclaudecode.com) - Learn Claude Code by exploring it in self-documenting project.
 - [Anthropic Courses on GitHub](https://github.com/anthropics/courses) - Official course materials and notebooks
 
@@ -44,6 +45,7 @@ Claude code is a CLI that can also be used with an IDE like VS Code.
 - [Guide to building skills](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf) - PDF guide on building skills
 - [Skill authoring best practices](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices) - Official doc
 - [awesome claude skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of Claude Skills, resources, and tools for customizing Claude AI workflows
+* [Prompt Master](https://github.com/nidhinjs/prompt-master) GitHub repository for a Claude skill that writes the accurate prompts for any AI tool.
 
 ## Subagents
 
