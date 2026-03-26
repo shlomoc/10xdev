@@ -7,7 +7,9 @@ An open source AI agent framework designed to build, deploy and manage complex g
 - [AI Agents in LangGraph](https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/) Intro from deeplearning.ai
 - [Long-Term Agentic Memory With LangGraph](https://learn.deeplearning.ai/courses/long-term-agentic-memory-with-langgraph/) Tutorial from deeplearning.ai
 - [LangChain/LangGraph blog](https://blog.langchain.com/)
+- [Chat LangChain](https://chat.langchain.com/) Official LangChain chatbot for docs and product questions
 - [The Complete Beginner's Guide to LangChain](https://x.com/Meer_AIIT/status/2020900863699509353) X article
+- [How we build evals for Deep Agents](https://x.com/Vtrivedy10/status/2037203679997018362) X article
 
 ## [Langflow](https://www.langflow.org/)
 An open-source, Python-based visual framework for building AI agents and workflows, with support for APIs and MCP

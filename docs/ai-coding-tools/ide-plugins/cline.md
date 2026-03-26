@@ -5,6 +5,7 @@
 - [Documentation](https://docs.cline.bot/)
 - [AI Coding University](https://cline.bot/learn)
 - [Memory Bank](https://docs.cline.bot/prompting/cline-memory-bank)
+- [Cline Kanban](https://x.com/cline/status/2037182739695493399) A standalone app for multi-agent orchestration
 - [Slash Commands](https://docs.cline.bot/features/slash-commands/new-task)
 - [Cline Community Prompts](https://github.com/cline/prompts/tree/main) 
 - [Cline Rules for SPARC](https://gist.github.com/ruvnet/7d4e1d5c9233ab0a1d2a66bf5ec3e58f)
@@ -13,4 +14,3 @@
 - [X.com](https://x.com/cline) Latest tips
 - [MCP](https://docs.cline.bot/mcp/mcp-overview)
 - [MCP Marketplace](https://docs.cline.bot/mcp/adding-mcp-servers-from-github)
-
