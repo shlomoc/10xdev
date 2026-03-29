@@ -6,7 +6,7 @@ Thanks for helping improve 10xDevelopers.
 
 1. Clone the repository and enter it:
    ```bash
-   git clone https://github.com/schlomoc23/10xdev.git
+   git clone https://github.com/shlomoc/10xdev.git
    cd 10xdev
    ```
 2. Create a local environment and install dependencies:

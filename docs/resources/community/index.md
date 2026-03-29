@@ -30,6 +30,7 @@ Channels, videos, communities, newsletters, and blogs to stay current with AI de
 
 * #### [The Batch](https://www.deeplearning.ai/the-batch/) - Weekly AI news and insights to help readers keep up with this rapidly changing field
 * #### [AINativeDev](https://ainativedev.io/) - Stay up to date with the latest in AI Native Development
+* #### [AI by Hand](https://www.byhand.ai/) - Newsletter on math, algorithms, and AI architectures by hand
 * #### [The Code](https://codenewsletter.ai/subscribe) - AI software development news, research papers & trending resources
 
 ## Blogs
