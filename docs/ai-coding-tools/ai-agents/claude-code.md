@@ -27,8 +27,8 @@ Claude code is a CLI that can also be used with an IDE like VS Code.
 
 
 ## Best Practices
-- [Claude Code Best Practices Updated](https://code.claude.com/docs/en/best-practices) - Updated version, includes skills, plugins
-- [Claude Code Best Practices](https://www.anthropic.com/engineering/claude-code-best-practices) - "think" < "think hard" < "think harder".  Each level allocates progressively more thinking budget for Claude to use.
+- [Anthropic's Claude Code Best Practices](https://code.claude.com/docs/en/best-practices) - Updated version, includes skills, plugins
+- [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - Community repository of Claude Code best practices, workflows, and setup examples
 - [How Boris Uses Claude Code](https://howborisusesclaudecode.com/) - Boris Cherny's collection of Claude Code practices and workflows as skill
 - [How I use Claude Code - updated](https://x.com/bcherny/status/2017742741636321619) - Boris Cherny, Claude Code Creator, shares his tips
 - [Claude Code workflow tips](https://x.com/bcherny/status/2038454336355999749) - Boris Cherny shares additional Claude Code best practices

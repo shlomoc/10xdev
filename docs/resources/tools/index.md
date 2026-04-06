@@ -13,7 +13,9 @@ Directories, discovery tools, model deployment platforms, and MCP resources for 
 * #### [Gitmcp.io](https://gitmcp.io/) - Create a Remote MCP server for any GitHub repository
 * #### [Deepwiki](https://deepwiki.com/) - Wiki-style documentation for any GitHub repository
 * #### [Gitinjest](https://gitingest.com/) - Turn any Git repository into a simple text digest of its codebase
+* #### [Repomix](https://repomix.com/) - Pack your codebase into AI-friendly formats
 * #### [Gitdiagram](https://gitdiagram.com/) - Turn any GitHub repository into an interactive diagram
+* #### [Context Hub](https://github.com/andrewyng/context-hub) - Curated, versioned docs for coding agents with annotations and feedback
 
 ### AI Development & Model Deployment
 

@@ -11,11 +11,11 @@
 - [Introducing GPT-5.3-Codex](https://openai.com/index/introducing-gpt-5-3-codex/) - The most advanced agentic coding model for professional software engineering and defensive cybersecurity
 - [Leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/) - Humans steer. Agents execute.
 - [Tips for long-running agents that do real work](https://developers.openai.com/blog/skills-shell-tips) - Shell + Skills + Compaction
+- [codex-cli-best-practice](https://github.com/shanraisshan/codex-cli-best-practice) - Community repository of Codex CLI best practices, workflows, and setup examples
 
 ## Subagents
 
 - [Codex Subagents](https://developers.openai.com/codex/subagents) - Official OpenAI documentation for creating and using Codex subagents
 - [Awesome Codex Subagents](https://github.com/VoltAgent/awesome-codex-subagents) - Curated GitHub collection of Codex subagents
-
 
 
