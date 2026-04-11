@@ -40,5 +40,6 @@ A standalone library in the LangChain ecosystem for building agents with plannin
 
 ## [LangSmith](https://www.langchain.com/langsmith): 
 A unified observability & evals platform where teams can debug, test, and monitor AI app performance
+
 - [Improving Deep Agents with Harness Engineering](https://x.com/Vtrivedy10/status/2023805578561060992) X thread on how Langchain uses traces to improve agent harnesses
 
