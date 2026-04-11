@@ -42,7 +42,7 @@ Claude code is a CLI that can also be used with an IDE like VS Code.
 - [Claude Code Agent Skills](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills) - Article explaining how skills are organized folders containing instructions, scripts, and resources
 - [Agent Skills](https://code.claude.com/docs/en/skills) - Official documentation and examples
 - [Agent Skills Tutorial](https://learn.deeplearning.ai/courses/agent-skills-with-anthropic) - DeepLearning.AI course on Agent Skills
-- [Claude SKills](https://x.com/aiedge_/status/2015822565500194961) - How to Deploy Claude Skills Effectively (X article)
+- [Claude Skills](https://x.com/aiedge_/status/2015822565500194961) - How to Deploy Claude Skills Effectively (X article)
 - [Separation of Responsibilities: MCP vs Skills](https://x.com/dani_avila7/status/2014409635370041517) - (X article)
 - [Thariq on Claude Code Skills](https://x.com/trq212/status/2033949937936085378) - X article on Claude Code skills
 - [Guide to building skills](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf) - PDF guide on building skills
@@ -92,5 +92,5 @@ Claude code is a CLI that can also be used with an IDE like VS Code.
 - [Claude Code Templates](https://www.aitmpl.com/) - Ready to use templates
 - [Awesome Claude Code Resources](https://awesomeclaude.ai/) - Hub of various Claude code resources
 - [Awesome Claude](https://github.com/webfuse-com/awesome-claude) - Curated Claude resources on GitHub
-- [Mal Shaik on Claude Code](https://x.com/mal_shaik/status/2038918662489510273) - The code behind Claude Code
+- [Mal Shaik on Claude Code](https://x.com/mal_shaik/status/2038918662489510273) - The code behind claude code
 - [Mal Shaik on Claude Code 2](https://x.com/mal_shaik/status/2039198750275461198) - The architecture of claude code

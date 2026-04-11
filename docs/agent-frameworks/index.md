@@ -7,8 +7,8 @@ A guide to frameworks and platforms for building AI agents that can perform comp
 ### A2A (Agent to Agent)
 An open protocol from Google that enables AI agents to communicate and collaborate regardless of their platform or creator.
 
-### LangGraph
-LangChain's framework for building, deploying and managing complex generative AI agent workflows with observability tools.
+### LangChain
+The LangChain ecosystem for building LLM applications, agent workflows, orchestration, and related tooling such as LangGraph, Deep Agents, and LangSmith.
 
 ### CrewAI
 A framework for orchestrating role-playing, autonomous AI agents to work together as a crew on complex tasks.
@@ -34,6 +34,6 @@ Explore each framework to find the right approach for your agent development nee
 ## How to choose
 
 - Need inter-agent communication protocols? → **A2A**
-- Building complex multi-step workflows? → **LangGraph**  
+- Building with the LangChain ecosystem? → **LangChain**  
 - Want role-based agent teams? → **CrewAI**
 - Need modern framework using TypeScript? → **Mastra**

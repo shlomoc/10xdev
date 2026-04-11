@@ -6,6 +6,7 @@ Educational resources, roadmaps, and longer-form reading for improving your AI e
 
 * #### [The Modern Software Dev](https://themodernsoftware.dev) - CS146 The Modern Software Developer
 * #### [Awesome generative ai guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - Repository for generative AI educational resources and research updates
+* #### [OpenClaw Resources by Category](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/openclaw_mastery_for_everyone/best-openclaw-resources.md) - Curated OpenClaw guides, tools, videos, security resources, and community content
 * #### [LLM visualization](https://bbycroft.net/llm) - View inside a Transformer
 * #### [ML Engineer Guide](https://x.com/ArmanHezarkhani/status/2013608521900683765) - Article (on X) - with index of educational youtube videos
 * #### [10 basic concepts for AI engineer](https://x.com/ihtesham2005/status/2024392667992641940) - Ihtesham on X

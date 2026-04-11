@@ -165,7 +165,7 @@ nav:
   - 🤝 Agent Frameworks:
     - Overview: agent-frameworks/index.md
     - A2A: agent-frameworks/a2a.md
-    - LangGraph: agent-frameworks/langgraph.md
+    - LangChain: agent-frameworks/langchain.md
     - CrewAI: agent-frameworks/crewai.md
     - Mastra: agent-frameworks/mastra.md
   - 📚 Resources:
