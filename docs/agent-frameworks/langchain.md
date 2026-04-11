@@ -28,7 +28,6 @@ An open source AI agent framework designed to build, deploy and manage complex g
 
 - [AI Agents in LangGraph](https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/) Intro from deeplearning.ai
 - [Long-Term Agentic Memory With LangGraph](https://learn.deeplearning.ai/courses/long-term-agentic-memory-with-langgraph/) Tutorial from deeplearning.ai
-- [How we build evals for Deep Agents](https://x.com/Vtrivedy10/status/2037203679997018362) X article
 
 ## [Deep Agents](https://docs.langchain.com/oss/python/deepagents/overview)
 A standalone library in the LangChain ecosystem for building agents with planning, subagents, file-system tools, and other capabilities for complex multi-step tasks
@@ -37,6 +36,7 @@ A standalone library in the LangChain ecosystem for building agents with plannin
 - [Deep Agents](https://blog.langchain.com/deep-agents/) LangChain blog post introducing Deep Agents
 - [Deep Agents CLI](https://docs.langchain.com/oss/python/deepagents/cli) Official CLI docs
 - [Deep Agents GitHub](https://github.com/langchain-ai/deepagents) Official repository
+- [How we build evals for Deep Agents](https://x.com/Vtrivedy10/status/2037203679997018362) X article
 
 ## [LangSmith](https://www.langchain.com/langsmith): 
 A unified observability & evals platform where teams can debug, test, and monitor AI app performance
