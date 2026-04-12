@@ -12,6 +12,7 @@ Educational resources, roadmaps, and longer-form reading for improving your AI e
 * #### [10 basic concepts for AI engineer](https://x.com/ihtesham2005/status/2024392667992641940) - Ihtesham on X
 * #### [10 FREE Resources to Understand How LLMs Work Under the Hood](https://x.com/ihtesham2005/status/2026631750538113517?s=20) - Ihtesham on X
 * #### [Agents towards production](https://github.com/NirDiamant/agents-towards-production) - Tutorials on GenAI agents
+* #### [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques) - Repository of retrieval-augmented generation techniques and examples
 * #### [Agent architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) - Implementation of 17+ agentic architectures
 * #### [Learning project for building a nano Claude Code-like agent](https://github.com/shareAI-lab/learn-claude-code) - A nano Claude Code-like agent, built from 0 to 1
 * #### [AI Builder Resources](https://www.theunwindai.com/) - Collection of LLM apps

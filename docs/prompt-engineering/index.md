@@ -55,8 +55,6 @@ Prompt vs. Context Engineering: While prompt engineering uses static prompts, co
     * [God of Prompt](https://x.com/godofprompt) Sharing AI Prompts, Tips & Tricks
 
 * **Reddit**
-    * [r/aipromptprogramming](https://www.reddit.com/r/aipromptprogramming/) This group focuses on using AI tools for AI programming & prompt engineering
-    * [r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/) Coding side of ChatGPT
     * [r/PromptEngineeering](https://www.reddit.com/r/PromptEngineering/) Application of engineering practices to the development of prompts
 
 ## Articles
