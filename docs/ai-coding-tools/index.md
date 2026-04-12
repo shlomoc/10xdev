@@ -37,7 +37,7 @@ Use the category pages to reflect on your needs:
 ## Level up by using multiple tools
 
 For example, consider this coding setup:
-VS Code with Codex 5.2 on the left, Claude Code Opus 4.5 on the right
+VS Code with OpenAI Codex on the left, Claude Opus/Sonnet on the right
 
 1. Start building with Claude Code in plan mode
 2. Copy and paste every plan into Codex. Validate the plan. If they have any critical feedback, give it back to CC

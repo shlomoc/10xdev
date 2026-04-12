@@ -36,10 +36,10 @@ A standalone library in the LangChain ecosystem for building agents with plannin
 - [Deep Agents](https://blog.langchain.com/deep-agents/) LangChain blog post introducing Deep Agents
 - [Deep Agents CLI](https://docs.langchain.com/oss/python/deepagents/cli) Official CLI docs
 - [Deep Agents GitHub](https://github.com/langchain-ai/deepagents) Official repository
-- [How we build evals for Deep Agents](https://x.com/Vtrivedy10/status/2037203679997018362) X article
+- [How we build evals for Deep Agents](https://blog.langchain.com/how-we-build-evals-for-deep-agents/) LangChain blog post
+- [Your harness, your memory](https://blog.langchain.com/your-harness-your-memory/) LangChain blog post on agent harnesses, memory, and lock-in
 
 ## [LangSmith](https://www.langchain.com/langsmith): 
 A unified observability & evals platform where teams can debug, test, and monitor AI app performance
 
-- [Improving Deep Agents with Harness Engineering](https://x.com/Vtrivedy10/status/2023805578561060992) X thread on how Langchain uses traces to improve agent harnesses
-
+- [Improving Deep Agents with Harness Engineering](https://blog.langchain.com/improving-deep-agents-with-harness-engineering/) Blog post on how Langchain uses traces to improve agent harnesses
