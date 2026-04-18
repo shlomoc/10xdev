@@ -1,0 +1,45 @@
+.md-typeset pre {
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
+
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #123d45;
+  --md-primary-fg-color--light: #1f5a64;
+  --md-primary-fg-color--dark: #081d22;
+  --md-accent-fg-color: #0f9d92;
+  --md-accent-fg-color--transparent: rgba(15, 157, 146, 0.14);
+  --md-typeset-a-color: #0c7b72;
+  --md-default-bg-color: #f5fbfb;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-hue: 192;
+  --md-primary-fg-color: #0b2329;
+  --md-primary-fg-color--light: #154751;
+  --md-primary-fg-color--dark: #06161a;
+  --md-accent-fg-color: #52e3cf;
+  --md-accent-fg-color--transparent: rgba(82, 227, 207, 0.14);
+  --md-typeset-a-color: #7deedd;
+}
+
+.md-header {
+  box-shadow: 0 12px 28px rgba(7, 28, 33, 0.1);
+  backdrop-filter: blur(12px);
+}
+
+[data-md-color-scheme="slate"] .md-header {
+  box-shadow: 0 16px 30px rgba(0, 0, 0, 0.24);
+}
+
+.md-header__button.md-logo img,
+.md-nav__button.md-logo img {
+  height: 2rem;
+  width: auto;
+}
+
+.md-header__title {
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
