@@ -8,23 +8,22 @@ site_author: 10xDevelopers Community
 theme:
   name: material
   custom_dir: overrides
+  logo: img/logo.svg
 
   font:
-    text: Roboto
-    code: Roboto Mono
-  icon:
-    logo: fontawesome/solid/code
+    text: IBM Plex Sans
+    code: IBM Plex Mono
   favicon: img/favicon.ico
   palette:
     - scheme: default
-      primary: indigo
-      accent: deep purple
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
     - scheme: slate
-      primary: indigo
-      accent: deep purple
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
