@@ -69,7 +69,7 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
-copyright: Copyright &copy; 2025 10xDevelopers.dev
+copyright: Copyright © 2026 10xDevelopers.dev
 
 plugins:
   - search:
@@ -82,7 +82,14 @@ extra:
     - icon: fontawesome/solid/globe
       link: https://10xdevelopers.dev
       name: 10xDevelopers Website
+    - icon: fontawesome/brands/github
+      link: https://github.com/shlomoc
+      name: GitHub
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/cohen-steve/
+      name: LinkedIn
   generator: false
+  og_image: https://10xdevelopers.dev/img/og-card.png
 
 extra_css:
   - stylesheets/override.css

@@ -1,6 +1,12 @@
 {% extends "base.html" %}
 
 {% block extrahead %}
+  {% set meta_description = page.meta.description if page and page.meta and page.meta.description else config.site_description %}
   <!-- Sitemap link for SEO -->
   <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ config.site_url }}sitemap.xml">
+  <meta property="og:title" content="{{ page.title }} - 10xDevelopers" />
+  <meta property="og:description" content="{{ meta_description }}" />
+  <meta property="og:image" content="{{ config.extra.og_image }}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="{{ page.canonical_url }}" />
 {% endblock %}

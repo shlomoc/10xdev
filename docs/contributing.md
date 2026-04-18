@@ -41,5 +41,5 @@ Thanks for helping improve 10xDevelopers.
 
 ## Helpful reference
 
-- [README](../README.md)
+- [README](https://github.com/shlomoc/10xdev)
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)

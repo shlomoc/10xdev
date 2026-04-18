@@ -5,9 +5,9 @@ author: "@PrajwalTomar_"
 source: "https://x.com/PrajwalTomar_/status/1904540868935131622"
 ---
 
-# A Vibe Coding Guide (2025)
+# A Vibe Coding Guide (2026)
 
-![A Vibe Coding Guide (2025)](../img/rickrubin.jpg)
+![A Vibe Coding Guide (2026)](../img/rickrubin.jpg)
 
 **FROM IDEA TO MVP**
 
@@ -156,4 +156,3 @@ A modern, streamlined approach to building MVPs using AI-powered tools and effic
  * #### [Interactive Vibe Coder prompt](https://x.com/alex_prompter/status/2010845566763503878?s=20) (posted on X)
  * #### [All in one SaaS startup prompt](https://x.com/godofprompt/status/1939004835065667897) (posted on X)
  * #### [The Complete Guide: Vibe Coding versus AI Engineering](https://x.com/ArmanHezarkhani/status/2015803108706656530) Article on X
-

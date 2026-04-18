@@ -1,3 +1,8 @@
+---
+title: AI Development Resources — Tools, Articles & Community
+description: Explore curated AI development resources including tools, MCP references, articles, learning materials, communities, and media for AI-powered software development.
+---
+
 # AI Resources
 
 A curated collection of tools, learning materials, articles, and community resources for AI-powered development.
