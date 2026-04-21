@@ -24,7 +24,7 @@ Please provide:
 ```
 
 ### 2. Wireframe Generation
-Use a tool like [UX Pilot](https://uxpilot.ai/) to generate wireframes based on your layout descriptions. This allows for the quick creation of various screens.
+Use a tool like [UX Pilot](https://uxpilot.ai/) or [Claude Design](https://claude.ai/design) to generate wireframes based on your layout descriptions. This allows for the quick creation of various screens.
 
 ```md
 Generate wireframes for the homepage based on this description:

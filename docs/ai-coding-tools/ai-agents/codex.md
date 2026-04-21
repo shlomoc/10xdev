@@ -9,6 +9,7 @@
 - [Codex Cookbook](https://cookbook.openai.com/topic/codex)
 - [Getting Started with Codex](https://www.youtube.com/watch?v=px7XlbYgk7I) - Youtube video
 - [Leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/) - Humans steer. Agents execute.
+- [Codex for almost everything](https://openai.com/index/codex-for-almost-everything/) - OpenAI article on using Codex across different workflows
 - [Tips for long-running agents that do real work](https://developers.openai.com/blog/skills-shell-tips) - Shell + Skills + Compaction
 - [codex-cli-best-practice](https://github.com/shanraisshan/codex-cli-best-practice) - Community repository of Codex CLI best practices, workflows, and setup examples
 
@@ -16,5 +17,4 @@
 
 - [Codex Subagents](https://developers.openai.com/codex/subagents) - Official OpenAI documentation for creating and using Codex subagents
 - [Awesome Codex Subagents](https://github.com/VoltAgent/awesome-codex-subagents) - Curated GitHub collection of Codex subagents
-
 

@@ -1,4 +1,4 @@
-# Tools & MCP
+# Tools, Skills & MCP
 
 Directories, discovery tools, model deployment platforms, and MCP resources for building with AI.
 
@@ -26,6 +26,11 @@ Directories, discovery tools, model deployment platforms, and MCP resources for 
 * #### [Copilotkit.ai](https://www.copilotkit.ai/) - Build an AI copilot for your app
 * #### [Braintrust.dev](https://www.braintrust.dev/docs/guides/evals) - Evals
 * #### [Spec Kit](https://github.com/github/spec-kit) - Toolkit to help you get started with Spec-Driven Development
+
+### Skills
+
+* #### [Skills.sh](https://skills.sh/) - Directory for discovering and sharing AI agent skills
+* #### [Claude Code Skills](../../ai-coding-tools/ai-agents/claude-code/#skills) - Claude Code skills resources and examples
 
 ### Content Creation
 

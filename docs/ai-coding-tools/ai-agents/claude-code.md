@@ -28,14 +28,11 @@ Claude code is a CLI that can also be used with an IDE like VS Code.
 
 ## Best Practices
 - [Anthropic's Claude Code Best Practices](https://code.claude.com/docs/en/best-practices) - Updated version, includes skills, plugins
+- [Claude prompting best practices](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices) - Official prompt engineering best practices for Claude
 - [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - Community repository of Claude Code best practices, workflows, and setup examples
 - [How Boris Uses Claude Code](https://howborisusesclaudecode.com/) - Boris Cherny's collection of Claude Code practices and workflows as skill
-- [How I use Claude Code - updated](https://x.com/bcherny/status/2017742741636321619) - Boris Cherny, Claude Code Creator, shares his tips
-- [Claude Code workflow tips](https://x.com/bcherny/status/2038454336355999749) - Boris Cherny shares additional Claude Code best practices
-- [Customizing Claude Code](https://x.com/bcherny/status/2021699851499798911) - Boris Cherny tips on customizing Claude Code
 - [Lessons from Building Claude Code: Prompt Caching Is Everything](https://x.com/trq212/status/2024574133011673516) - X thread on prompt caching design
 - [Tips on using Claude Code](../../reference/claude-code-tips.md) - Tips by Ian Nuttel
-- [Article on using Claude Code](https://spiess.dev/blog/how-i-use-claude-code) - Developer insights by Philipp Spiess
 
 ## Skills
 
@@ -49,14 +46,14 @@ Claude code is a CLI that can also be used with an IDE like VS Code.
 - [Skill authoring best practices](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices) - Official doc
 - [awesome claude skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of Claude Skills, resources, and tools for customizing Claude AI workflows
 - [Grill me Skill](https://github.com/mattpocock/skills) - Personal directory of Claude skills for planning, development, and tooling
-* [Prompt Master](https://github.com/nidhinjs/prompt-master) GitHub repository for a Claude skill that writes the accurate prompts for any AI tool.
+- [Andrej Karpathy Skills](https://github.com/forrestchang/andrej-karpathy-skills) - Community Claude skills based on Andrej Karpathy's guidance
+- [Prompt Master](https://github.com/nidhinjs/prompt-master) GitHub repository for a Claude skill that writes the accurate prompts for any AI tool.
 
 ## Subagents
 
 - [awesome-claude-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - Claude subagents collection 
 - [Oh my Claude](https://yeachan-heo.github.io/oh-my-claudecode-website/) - Multi-agent orchestration for Claude Code
 - [Everything Claude Code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection from an Anthropic hackathon winner
-- [Claude Code Development Kit](https://github.com/peterkrueck/Claude-Code-Development-Kit) - Multi-agent orchestration, automated docs & MCP integration  
 
 ## Tasks
 

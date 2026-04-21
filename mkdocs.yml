@@ -145,6 +145,12 @@ nav:
 
   - 🛠️ AI Coding Tools:
     - Overview: ai-coding-tools/index.md
+    - AI Agents:
+      - Claude Code: ai-coding-tools/ai-agents/claude-code.md
+      - Codex: ai-coding-tools/ai-agents/codex.md
+      - Warp: ai-coding-tools/ai-agents/warp.md
+      - Kilo Code: ai-coding-tools/ai-agents/kilo.md
+      - Gemini: ai-coding-tools/ai-agents/gemini-cli.md
     - Cloud AI IDEs:
       - Lovable.dev: ai-coding-tools/cloud-ai-ides/lovable.md
       - Bolt.new: ai-coding-tools/cloud-ai-ides/bolt.md
@@ -162,12 +168,6 @@ nav:
       - Cline: ai-coding-tools/ide-plugins/cline.md
       - Roo Code: ai-coding-tools/ide-plugins/roo.md
       - Github Copilot: ai-coding-tools/ide-plugins/github.md
-    - AI Agents:
-      - Claude Code: ai-coding-tools/ai-agents/claude-code.md
-      - Codex: ai-coding-tools/ai-agents/codex.md
-      - Warp: ai-coding-tools/ai-agents/warp.md
-      - Kilo Code: ai-coding-tools/ai-agents/kilo.md   
-      - Gemini: ai-coding-tools/ai-agents/gemini-cli.md
   - 🤝 Agent Frameworks:
     - Overview: agent-frameworks/index.md
     - A2A: agent-frameworks/a2a.md
@@ -176,7 +176,7 @@ nav:
     - Mastra: agent-frameworks/mastra.md
   - 📚 Resources:
     - Overview: resources/index.md
-    - Tools & MCP: resources/tools/index.md
+    - Tools, Skills & MCP: resources/tools/index.md
     - Learning & Articles: resources/learning/index.md
     - Media & Community: resources/community/index.md
   - 🤝 Contributing: contributing.md
