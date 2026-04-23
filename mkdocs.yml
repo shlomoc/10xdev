@@ -56,7 +56,8 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
   - toc:
-      permalink: true
+      permalink: ""
+      permalink_title: Anchor link to this section
       toc_depth: 2
   - attr_list
   - md_in_html
