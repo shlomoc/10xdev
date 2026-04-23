@@ -166,7 +166,6 @@ nav:
       - Anti-Gravity: ai-coding-tools/vs-code-forks/anti-gravity.md
     - IDE Plugins:
       - Cline: ai-coding-tools/ide-plugins/cline.md
-      - Roo Code: ai-coding-tools/ide-plugins/roo.md
       - Github Copilot: ai-coding-tools/ide-plugins/github.md
   - 🤝 Agent Frameworks:
     - Overview: agent-frameworks/index.md

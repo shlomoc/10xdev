@@ -89,6 +89,7 @@ Claude code is a CLI that can also be used with an IDE like VS Code.
 - [Claude Blog](https://claude.com/blog) - Official Claude blog with product updates and engineering posts
 - [Resources on Claude Code](https://claude-code-spotlight.lovable.app/) - Curated collection of resources from the Code newsletter
 - [Claude Code Templates](https://www.aitmpl.com/) - Ready to use templates
+- [Claude Code Guide](https://cc.bruniaux.com/) - Guide with templates, security notes, workflows, quizzes, and cheat sheets
 - [Awesome Claude Code Resources](https://awesomeclaude.ai/) - Hub of various Claude code resources
 - [Awesome Claude](https://github.com/webfuse-com/awesome-claude) - Curated Claude resources on GitHub
 - [Mal Shaik on Claude Code](https://x.com/mal_shaik/status/2038918662489510273) - The code behind claude code
