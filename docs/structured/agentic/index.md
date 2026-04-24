@@ -30,6 +30,7 @@ One way is to setup a new [GitHub Codespace](https://github.com/codespaces/) for
 
 ```bash
 npm install -g @anthropic-ai/claude-code
+#(Optional) Skip permissions check for faster setup
 claude --dangerously-skip-permissions
 ```
 

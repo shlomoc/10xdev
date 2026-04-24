@@ -16,6 +16,7 @@ Directories, discovery tools, model deployment platforms, and MCP resources for 
 * #### [Repomix](https://repomix.com/) - Pack your codebase into AI-friendly formats
 * #### [Gitdiagram](https://gitdiagram.com/) - Turn any GitHub repository into an interactive diagram
 * #### [Context Hub](https://github.com/andrewyng/context-hub) - Curated, versioned docs for coding agents with annotations and feedback
+* #### [Context Mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents with sandboxed tool output and session continuity
 
 ### AI Development & Model Deployment
 

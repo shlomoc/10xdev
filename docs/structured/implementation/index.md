@@ -23,7 +23,6 @@ Make a rule to constantly update the plan doc for tracking progress.
 ### 1. Implementation Planning
 * Option 1: Use the [Implementation Plan Guide](./implementation-plan.md)
 * Option 2: Use [Taskmaster](https://github.com/eyaltoledano/claude-task-master) based on your `prd.md` file
-* Option 3: Use [Memory Bank](https://docs.cline.bot/prompting/cline-memory-bank) based on your input documents
 
 ### 2. Code Generation
 * Follow the [Code Generation Guide](./codegen.md)

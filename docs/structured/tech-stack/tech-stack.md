@@ -104,8 +104,6 @@ project/
 │   └── unit/             # Unit tests
 ```
 
-(If you are using next.js template, another approach is to take a screenshot of the folders it generates in Visual Studio to give to Cursor IDE.)
-
 ## Getting Started
 
 Create free accounts to begin development:

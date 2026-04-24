@@ -118,4 +118,4 @@ Begin your response with your brainstorming, then proceed to create your detaile
 - Integrates with code generation tools
 
 ## Next Steps
-After generating `implementation-steps.md`, review the plan.  You can ask your LLM to write a prompt for an adversarial reviewer. After revieinw, proceed to [Code Generation](codegen.md) using this document as input for AI-assisted development.
+After generating `implementation-steps.md`, review the plan.  You can ask your LLM to write a prompt for an adversarial reviewer. After reviewing, proceed to [Code Generation](codegen.md) using this document as input for AI-assisted development.

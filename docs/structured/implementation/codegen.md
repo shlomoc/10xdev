@@ -5,12 +5,12 @@ Use this prompt for AI to generate fully functional code from specifications and
 
 ## Input
 - `implementation-steps.md` - Your step-by-step implementation plan
-- IDE-specific rules (e.g., Cursor Rules) for guidance
+- skills, subagents, rules for guidance
 
 ## Steps
 
 ### 1. Provide your `implementation-steps.md` file in the implementation_plan section
-### 2. Include your IDE-specific rules 
+### 2. Include your coding rules 
 Pick up a feature from the implementation plan
 ### 2a. (optional) Ask for different approaches first, not the code
 - Pick the best approach and ask for a detailed action plan
@@ -41,7 +41,7 @@ Ask questions if anything is unclear.
 
 The implementation plan is just a suggestion meant to provide a high-level overview of the objective. Use it to guide you, but you do not have to adhere to it strictly. If you update the implementation plan, include each modified step in full.  
 
-Make sure to follow the given IDE rules as you work along the lines of the plan.
+Make sure to follow the given rules as you work along the lines of the plan.
 
 Begin by identifying the next incomplete step from the plan, then generate the required code. 
 ```

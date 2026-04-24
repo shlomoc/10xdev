@@ -17,7 +17,7 @@ Identify and mitigate potential security vulnerabilities.
 ### 2. Implement recommended security improvements
 ### 3. Verify fixes with security testing
 
-Tools like Claude Code also have built-in commands like /security-review that automatically scan for vulnerabilities.
+Tools like Claude Code also have built-in commands like /security-review that automatically scan for vulnerabilities. You can also install specialized subagents or plugins for security.
 
 ## Output
 

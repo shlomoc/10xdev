@@ -7,14 +7,10 @@ Analyze implemented code to improve code quality.
 - Implemented codebase
 - `implementation-steps.md`
 
-If you are using a LLM with a large context window (like 1 Million tokens in Gemini 2.5 Pro), you can paste the code.
-
-For code review, you can now use tools like [CodeRabbit](https://www.coderabbit.ai/) (free) inside your IDE.
-Just install the extension in Cursor, Windsurf, or VS Code, stage a commit, and get instant feedback.  Then you can paste the feedback into (Cursor) and ask it to resolve the issues.
+For code review, you can now use tools like [CodeRabbit](https://www.coderabbit.ai/) (free) inside your coding tool.
+Just install the extension in VS Code, stage a commit, and get instant feedback.  Then you can paste the feedback into (Claude Code) and ask it to resolve the issues.
 
 Coding agents like Claude, Codex and Jules can be configured to do code reviews (e.g. on Pull Requests).
-
-You can also use a Cursor custom mode like [Refactor mode](https://playbooks.com/modes/refactor) to improve code.
 
 Alternatively, you can use a prompt like below:
 ## Prompt

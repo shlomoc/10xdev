@@ -9,6 +9,7 @@ Prompt vs. Context Engineering: While prompt engineering uses static prompts, co
 * [Prompt Engineering Guide](https://www.forwardfuture.ai/p/humanity-s-last-prompt-engineering-guide-built-for-the-gpt-5-era) by Matthew Berman and Nick Wentz
 * [Google Prompt Engineering White Paper](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 * [Prompting Techniques](https://www.promptingguide.ai/techniques)
+* [Alex Prompter on basic AI concepts](https://x.com/alex_prompter/status/2024073869452358017) X post on prompt engineering
 
 ## Prompt Generators
 
@@ -17,7 +18,6 @@ Prompt vs. Context Engineering: While prompt engineering uses static prompts, co
 * [Anthropic Prompt Generator/Improver](https://console.anthropic.com/dashboard) Generate a prompt
 * [OpenAI Playground](https://platform.openai.com/playground/chat) Create prompt wizard
 * [meta-prompt-workflow](./meta-prompt-workflow.md) Iterative approach
-* Products like [bolt](https://bolt.new) also have prompt wizard
 * [Prompt Optimization Guide](https://www.productmanagement.ai/p/prompt-optimization-guide) Playbook for prompt optimization maintenance
 
 ## Prompt Libraries
@@ -25,20 +25,13 @@ Prompt vs. Context Engineering: While prompt engineering uses static prompts, co
 * [God of Prompt](https://www.godofprompt.ai/) Your AI Superpowers In One Click
 * [LangChain Hub](https://smith.langchain.com/hub/) Explore and contribute prompts to the community hub
 * [Prompt Hub](https://www.prompthub.us/) Community-driven prompt platform
-* [Prompt Library templates from Spec to Code](https://www.jointakeoff.com/prompts) o1 pro template system
 * [SDLC Prompts](https://github.com/chrisdunlopnz/cursor-starter) Github repo of prompts for software development
 
 ## Best practices
 
 * [Tips for prompting AI IDEs](../reference/ide-tips.md)
-* [GPT-5 prompting tips](../reference/gpt-5-tips.md)
 * [Prompt Engineering Best Practises](https://x.com/Meer_AIIT/status/2013227813017411758) Google's 6 Hour Prompt Engineering Course in 8 minutes (X post)
-* [Alex Prompter on basic AI concepts](https://x.com/alex_prompter/status/2024073869452358017) X post on prompt engineering
 * [Your AI Prompts Are Intellectual Property — Own Them](https://graymatter.jamesgray.ai/p/manage-prompts-like-code) Why smart leaders treat their prompts like code
-
-## Customizing ChatGPT
-
-* [ChatGPT Custom Instructions](https://www.godofprompt.ai/blog/how-to-use-custom-instructions-for-chatgpt) Collection of custom instructions
 
 ## Hosted Models
 

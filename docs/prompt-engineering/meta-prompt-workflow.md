@@ -70,7 +70,7 @@ Repeat this process until you achieve the desired results.
 
 ```text
 You are my expert prompt engineer. I would like to accomplish: [insert your goal]. Please repeat this back to me in your own words. Interview me until you have enough contxt to help me with this and ask clarifying questions.
-Once we confirm, generate the final optimized prompt.”
+Once we confirm, generate the final optimized prompt.
 ```
 
 

@@ -14,11 +14,11 @@ Collect user feedback and implement iterative improvements.
 
 ## Steps
 
-### 1. Paste all feedback into (Cursor)
+### 1. Paste all feedback into (Claude)
 ### 2. Ask it to create `maintenance-log.md` with root causes + fixes
 ### 3. Break it down, one item at a time
-### 4. Ask (Cursor) to fix each one and check it off
-### 5. Review your final commits (with CodeRabbit)
+### 4. Ask (Claude) to fix each one and check it off
+### 5. Review your final commits (with CodeRabbit/Codex...)
 
 ## Output
 * `maintenance-log.md` - Ongoing maintenance documentation

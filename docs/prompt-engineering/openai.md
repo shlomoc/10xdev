@@ -10,20 +10,18 @@
 
 ## Documentation & Guides
 - [OpenAI Models](https://platform.openai.com/docs/models)  
-
 - [OpenAI Prompt Engineering Docs](https://platform.openai.com/docs/guides/prompt-engineering)  
 - [OpenAI Reasoning Models Docs](https://platform.openai.com/docs/guides/reasoning/advice-on-prompting)  
 - [OpenAI Cookbook](https://cookbook.openai.com/) 
 - [OpenAI gpt-5 prompting guide](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide?)
 - [OpenAI Function calling](https://platform.openai.com/docs/guides/function-calling)  
-- [OpenAI GPTs Documentation](https://platform.openai.com/docs/introduction/gpts)  
 - [OpenAI API Reference](https://platform.openai.com/docs/api-reference/introduction)
 - [OpenAI Guide to building agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)
-- [OpenAI Model Spec](https://model-spec.openai.com/2025-04-11.html) Approach to shaping desired model behavior.
+- [OpenAI Model Spec](https://model-spec.openai.com/2025-12-18.html) Approach to shaping desired model behavior.
+* [GPT-5 prompting tips](../reference/gpt-5-tips.md)
 
 ### Legacy Docs
 - [How to choose models](https://help.openai.com/en/articles/11165333-chatgpt-enterprise-models-limits) Prior to GPT-5
-- [OpenAI gpt4.1 prompting guide](https://cookbook.openai.com/examples/gpt4-1_prompting_guide)
 
 ## Development & Testing
 - [OpenAI Evals](https://platform.openai.com/docs/guides/evals)
