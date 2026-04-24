@@ -4,6 +4,7 @@ Claude code is a CLI that can also be used with an IDE like VS Code.
 
 - [Claude Code](https://www.anthropic.com/claude-code) - You can sign up for a monthly plan (instead of paying per token which quickly adds up).
 - [Claude Code GitHub](https://github.com/anthropics/claude-code) - Official repository
+- [Connect apps](https://claude.ai/directory) - Unlock more with Claude when you connect with remote and local tools
 
 ## Documentation
 
@@ -70,10 +71,10 @@ Claude code is a CLI that can also be used with an IDE like VS Code.
 
 - [How Anthropic teams use Claude Code](https://www.anthropic.com/news/how-anthropic-teams-use-claude-code) - Real-world usage examples from Anthropic teams
 - [How we built our multi-agent research system](https://www.anthropic.com/engineering/built-multi-agent-research-system) - Engineering case study from Anthropic
+- [How Anthropic's product team moves faster than anyone else | Cat Wu](https://www.youtube.com/watch?v=PplmzlgE0kg) - Lenny's Podcast interview with Claude Code's Head of Product
 
 ## Tools & Extensions
 
-- [Connect apps](https://claude.ai/directory) - Unlock more with Claude when you connect with remote and local tools
 - [claude-sessions](https://github.com/iannuttall/claude-sessions) - Comprehensive development session tracking and documentation
 - [Trace Claude Code](https://docs.langchain.com/langsmith/trace-claude-code) - Doc on how to trace Claude code using LangSmith
 - [Claw Code](https://github.com/instructkr/claw-code) - Rust rewrite that captures the architectural patterns of Claude Code's agent harness

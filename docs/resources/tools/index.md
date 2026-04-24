@@ -15,8 +15,7 @@ Directories, discovery tools, model deployment platforms, and MCP resources for 
 * #### [Gitinjest](https://gitingest.com/) - Turn any Git repository into a simple text digest of its codebase
 * #### [Repomix](https://repomix.com/) - Pack your codebase into AI-friendly formats
 * #### [Gitdiagram](https://gitdiagram.com/) - Turn any GitHub repository into an interactive diagram
-* #### [Context Hub](https://github.com/andrewyng/context-hub) - Curated, versioned docs for coding agents with annotations and feedback
-* #### [Context Mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents with sandboxed tool output and session continuity
+* #### [Context Hub](https://github.com/andrewyng/context-hub) - Curated, versioned docs for coding agents with feedback
 
 ### AI Development & Model Deployment
 
@@ -53,3 +52,4 @@ Directories, discovery tools, model deployment platforms, and MCP resources for 
 * #### [MCP Hub](https://hub.docker.com/mcp) - Library of secure, containerized MCP servers
 * #### [MCP Registry from Mastra](https://mastra.ai/mcp-registry-registry) - A registry of MCP registries
 * #### [FastMCP](https://github.com/jlowin/fastmcp) - The fast, Pythonic way to build MCP servers and clients
+* #### [Context Mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents with sandboxed tool output and session continuity

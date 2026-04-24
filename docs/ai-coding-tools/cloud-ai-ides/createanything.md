@@ -9,7 +9,7 @@
 - **Cross-Platform Support**: Single codebase for web, Android, and iOS
 - **Native Device Features**: GPS, camera, accelerometers, push notifications
 
-###Supported Platforms:
+### Supported Platforms:
 - Android (Google Play Store)
 - iOS (Apple App Store) 
 - Progressive Web Apps (PWA)

@@ -2,10 +2,8 @@
 
 ## a2a: An open protocol between AI agents.
 
-[a2a on GitHub](https://github.com/google/A2A) Provides a common language and framework for agents, regardless of who built them or the platform they operate on, to interact and work together.
+[Agent2Agent (A2A) Protocol](https://a2a-protocol.org/latest/) Provides a common language and framework for agents, regardless of who built them or the platform they operate on, to interact and work together.
 
-- [A2A Python Quickstart Tutorial](https://google.github.io/A2A/tutorials/python/1-introduction/)
-- [A2A: The Agent2Agent Protocol](https://learn.deeplearning.ai/courses/a2a-the-agent2agent-protocol/lesson/vtf72ap4/introduction) DeepLearning.AI short course
 - [Startup Technical Guide: AI Agents](https://services.google.com/fh/files/misc/startup_technical_guide_ai_agents_final.pdf) Google Cloud guide covering production-ready AI agent concepts, architecture, and operations
 - [Google's Agent Stack in Action:ADK, A2A, MCP on Google Cloud](https://codelabs.developers.google.com/instavibe-adk-multi-agents/instructions#0) A2A Workshop
 - [Build a Multimodal AI Agent with Graph RAG, ADK & Memory Bank](https://codelabs.developers.google.com/codelabs/survivor-network/instructions#1) Google Codelab for building a multi-agent workflow with ADK and related Google Cloud tools

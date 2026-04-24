@@ -40,5 +40,5 @@ Educational resources, roadmaps, and longer-form reading for improving your AI e
 * #### [Claude Code is the inflection point](https://newsletter.semianalysis.com/p/claude-code-is-the-inflection-point) - from Dylan Patel
 * #### [AGI is still a decade away](https://www.podchemy.com/notes/andrej-karpathy-agi-is-still-a-decade-away-43921620932) - Andrej Karpathy on Dwarkesh Podcast (10/17/2025)
 * #### [Getting AI to Work In Complex Codebases](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md)
-* #### [Vibe coding MenuGen](https://karpathy.bearblog.dev/vibe-coding-menugen/) - Andrej Karpathy explores hype vs reality of vibe coding
-* #### [My Hackathon Experience](https://medium.com/@stevecohen_29296/i-tried-a-hackathon-with-six-projects-in-one-day-then-built-all-six-apps-in-six-days-e6eecb4e81a5?source=friends_link&sk=ee2ad77170df68b739ed749e0fda2046) - I Tried a Hackathon with Six Projects in One Day-Then Built All Six Apps in Six Days
+* #### [Vibe coding MenuGen](https://karpathy.bearblog.dev/vibe-coding-menugen/) - Andrej Karpathy explores hype vs reality of vibe coding (04/27/2025)
+* #### [My Hackathon Experience](https://medium.com/@stevecohen_29296/i-tried-a-hackathon-with-six-projects-in-one-day-then-built-all-six-apps-in-six-days-e6eecb4e81a5?source=friends_link&sk=ee2ad77170df68b739ed749e0fda2046) - I Tried a Hackathon with Six Projects in One Day-Then Built All Six Apps in Six Days (08/25/2025)

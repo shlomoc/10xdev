@@ -150,7 +150,7 @@ nav:
       - Claude Code: ai-coding-tools/ai-agents/claude-code.md
       - Codex: ai-coding-tools/ai-agents/codex.md
       - Warp: ai-coding-tools/ai-agents/warp.md
-      - Kilo Code: ai-coding-tools/ai-agents/kilo.md
+      - Kilo: ai-coding-tools/ai-agents/kilo.md
       - Gemini: ai-coding-tools/ai-agents/gemini-cli.md
     - Cloud AI IDEs:
       - Lovable.dev: ai-coding-tools/cloud-ai-ides/lovable.md
