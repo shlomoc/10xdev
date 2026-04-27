@@ -2,7 +2,7 @@
 
 ## Full Approach
 
-You can go through the full structured approach in the folders below or just skip to areas where you want to drill down into the details.
+You can go through the full structured approach in the folders below or just skip to areas where you want to drill down into the details. You can also automate some of the steps using [agentic frameworks](agentic/index.md).
 
 ## Subagents
 In the sections of Structured Development Process below, there are prompts for each stage.  Now, with Claude Code, you can even create subagents based on these prompts to help implement the process automatically. 
@@ -53,3 +53,59 @@ Plugins are distribution containers that can include skills, slash commands, sub
 They are focused on extending the Claude Code environment itself—defining how and when capabilities show up in your IDE/terminal workflow, and are often shared via marketplaces or repos.
 
 You can find more about Claude Skills and Plugins on the [Claude Code](../ai-coding-tools/ai-agents/claude-code.md) page of this website.
+
+## The Spec-Driven Plugin
+
+The full methodology on this site is available as a ready-to-use Claude Code plugin. Instead of manually prompting through each phase, the plugin gives you a set of slash commands that orchestrate 15 specialized subagents — one per task — covering every phase from market research to maintenance.
+
+**Install it** by adding the GitHub repo to your Claude Code plugin sources:
+
+```
+https://github.com/shlomoc/spec-driven
+```
+
+### Commands
+
+The plugin entry point is `/spec-driven`, which tracks sprint state and guides you to the right next step. Each phase also has its own command:
+
+| Command | Phase | What it produces |
+|---------|-------|-----------------|
+| `/spec-driven` | Orchestrator | Sprint dashboard, state tracking, loop-back detection |
+| `/spec-driven:find` | 1. Market research | `specs/market-opportunity.md` |
+| `/spec-driven:plan` | 2. Planning | `specs/features.md`, `specs/feature-priorities.md` |
+| `/spec-driven:prd` | 3. Requirements | `specs/prd.md` |
+| `/spec-driven:techstack` | 4. Tech stack | `specs/tech-stack.md` |
+| `/spec-driven:appflow` | 5. App structure | `specs/app-sitemap.md`, `specs/ui-concept.md` |
+| `/spec-driven:design` | 6. Architecture | `specs/design-spec.md` |
+| `/spec-driven:implement` | 7. Implementation | `specs/implementation-steps.md` + code |
+| `/spec-driven:security` | 8. Security audit | `specs/security-audit.md` |
+| `/spec-driven:deploy` | 9. Deployment | Deployed application |
+| `/spec-driven:document` | 10. Documentation | `docs/` |
+| `/spec-driven:maintain` | 11. Maintenance | `specs/maintenance-log.md` |
+
+All spec artifacts are written to a `specs/` folder in your project root, created automatically on first run.
+
+### How to use it
+
+Start with the orchestrator at the beginning of any project or sprint:
+
+```
+/spec-driven
+```
+
+It reads (or creates) `specs/state.md`, shows you a dashboard of which phases are done, and recommends the next step. You can jump to any phase directly, or let it guide you forward in sequence.
+
+The minimum viable sprint is just four commands:
+
+```
+/spec-driven:prd
+/spec-driven:design
+/spec-driven:implement
+/spec-driven:deploy
+```
+
+The orchestrator also handles **loop-backs** — when a later phase reveals something wrong in an earlier one (e.g. implementation uncovers a missing feature in the PRD), it records the loop-back in the state file, marks the artifact for revision, and routes you back to the right command.
+
+### Agile, not waterfall
+
+You don't need to complete all 11 phases before shipping. Start with what you need, ship something, then use `/spec-driven:maintain` to collect feedback and feed it into the next sprint. The orchestrator tracks sprint history and increments automatically.

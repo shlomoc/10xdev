@@ -24,7 +24,7 @@ You can do this with a structured specification-first workflow or with lighter a
 ## Steps
 
 ### 1. Run your agentic flow in a separate environment 
-One way is to setup a new [GitHub Codespace](https://github.com/codespaces/) for your repository.  You can use the Codespaces Visual Studio browser or connect using your local Visual Studio desktop setup.
+One way is to setup a new [GitHub Codespace](https://github.com/codespaces/) for your repository.  You can use the Codespaces Visual Studio browser or connect using your local Visual Studio desktop. For each codespace, you need to copy your Claude user settings or save them as project settings.  Alternatively, you can use a VPS or separate computer.
 
 ### 2. Install Claude Code
 

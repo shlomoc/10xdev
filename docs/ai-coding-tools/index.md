@@ -5,6 +5,8 @@ description: Comprehensive guide to AI coding tools including Claude Code, Curso
 
 # AI Coding Tools
 
+## Overview
+
 A comprehensive guide to AI-powered development tools that can accelerate your coding workflow and boost productivity.
 
 ## AI Development Tools Categories

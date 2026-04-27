@@ -1,6 +1,8 @@
 # **Cline**
 
-## [Cline](https://cline.bot/): AI pair programmer that helps you write code faster (open source)
+## Overview
+
+[Cline](https://cline.bot/): AI pair programmer that helps you write code faster (open source)
 
 - [Documentation](https://docs.cline.bot/)
 - [AI Coding University](https://cline.bot/learn)

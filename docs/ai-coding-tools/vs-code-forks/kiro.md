@@ -1,6 +1,8 @@
 # **Kiro**
 
-## [Kiro](https://kiro.dev/): The AI IDE for prototype to production
+## Overview
+
+[Kiro](https://kiro.dev/): The AI IDE for prototype to production
 
 AWS-built agentic AI IDE based on VS Code that uses spec-driven development. Features autonomous coding agents, event-driven hooks, and Model Context Protocol support.
 

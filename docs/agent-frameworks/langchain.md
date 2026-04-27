@@ -39,7 +39,7 @@ A standalone library in the LangChain ecosystem for building agents with plannin
 - [How we build evals for Deep Agents](https://blog.langchain.com/how-we-build-evals-for-deep-agents/) LangChain blog post
 - [Your harness, your memory](https://blog.langchain.com/your-harness-your-memory/) LangChain blog post on agent harnesses, memory, and lock-in
 
-## [LangSmith](https://www.langchain.com/langsmith): 
+## [LangSmith](https://www.langchain.com/langsmith) 
 A unified observability & evals platform where teams can debug, test, and monitor AI app performance
 
 - [Improving Deep Agents with Harness Engineering](https://blog.langchain.com/improving-deep-agents-with-harness-engineering/) Blog post on how Langchain uses traces to improve agent harnesses

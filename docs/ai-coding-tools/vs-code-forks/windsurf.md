@@ -1,6 +1,8 @@
 # **Windsurf**
 
-## [Windsurf](https://codeium.com/windsurf): The first agentic IDE
+## Overview
+
+[Windsurf](https://codeium.com/windsurf): The first agentic IDE
 
 - [Documentation](https://docs.windsurf.com/windsurf/getting-started)
 - [Community](https://discord.com/invite/GjCYNGChrw)

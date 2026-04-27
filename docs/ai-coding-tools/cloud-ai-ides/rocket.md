@@ -1,5 +1,7 @@
 # Rocket.new
 
+## Overview
+
 **[Rocket.new](https://rocket.new)** includes **cross-platform mobile app development** with automated **Supabase backend integration**.
 
 ## Key Features
@@ -22,6 +24,5 @@
 - Desktop (via Flutter)
 
 ### [Official Documentation](https://docs.rocket.new)
-
 
 
