@@ -1,8 +1,0 @@
-{
-  "name": "spec-driven",
-  "description": "Agile spec-driven development pipeline: 15 specialized agents cover every phase from market discovery to maintenance, with a master /spec-driven orchestrator that loops back when evidence reshapes earlier artifacts. Replace vibe coding with structured, iterative development.",
-  "author": {
-    "name": "10xDevelopers",
-    "url": "https://10xdevelopers.dev"
-  }
-}
