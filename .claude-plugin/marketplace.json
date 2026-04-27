@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "spec-driven-marketplace",
+  "description": "10xDevelopers plugin marketplace — spec-driven agile development pipeline for Claude Code",
+  "owner": {
+    "name": "10xDevelopers",
+    "url": "https://10xdevelopers.dev"
+  },
+  "plugins": [
+    {
+      "name": "spec-driven",
+      "description": "Agile spec-driven development pipeline with 15 specialized agents, 3 skill packs, and 12 slash commands. Covers every phase from market discovery to maintenance with iterative loop-back support.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/shlomoc/spec-driven.git"
+      },
+      "homepage": "https://github.com/shlomoc/spec-driven"
+    }
+  ]
+}
