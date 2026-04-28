@@ -19,3 +19,9 @@
 
 - [Codex Subagents](https://developers.openai.com/codex/subagents) - Official OpenAI documentation for creating and using Codex subagents
 - [Awesome Codex Subagents](https://github.com/VoltAgent/awesome-codex-subagents) - Curated GitHub collection of Codex subagents
+
+## Skills
+
+Codex can use skills ported from Claude Code, but review them for Claude-specific tool dependencies and replace those with Codex-compatible commands, scripts, or workflows.
+
+- [Awesome Codex Skills](https://github.com/ComposioHQ/awesome-codex-skills) - Curated GitHub collection of Codex skills, resources, and tools

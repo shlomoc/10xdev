@@ -9,13 +9,13 @@ A curated collection of tools, learning materials, articles, and community resou
 
 ## Explore by Category
 
-### [Tools & MCP](./tools/)
+### [Tools & MCP](tools/index.md)
 Directories, search tools, model deployment platforms, productivity apps, and Model Context Protocol resources.
 
-### [Learning & Articles](./learning/)
+### [Learning & Articles](learning/index.md)
 Educational references, roadmaps, 10x development articles, and longer-form writing on AI engineering.
 
-### [Media & Community](./community/)
+### [Media & Community](community/index.md)
 YouTube channels and videos, communities, newsletters, and blogs worth following.
 
 ## Featured Resources

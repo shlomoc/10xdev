@@ -36,7 +36,7 @@ Claude code is a CLI that can also be used with an IDE like VS Code.
 - [How Boris Uses Claude Code](https://howborisusesclaudecode.com/) - Boris Cherny's collection of Claude Code practices and workflows as skill
 - [Lessons from Building Claude Code: Prompt Caching Is Everything](https://x.com/trq212/status/2024574133011673516) - X thread on prompt caching design
 - [Tips on using Claude Code](../../reference/claude-code-tips.md) - Tips by Ian Nuttel
-
+- [Tips on how to talk to Claude](https://x.com/itsolelehmann/status/2045578185950040390) - *how* you talk to claude affects its work (X post)
 ## Skills
 
 - [Claude Code Agent Skills](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills) - Article explaining how skills are organized folders containing instructions, scripts, and resources

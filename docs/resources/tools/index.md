@@ -30,7 +30,7 @@ Directories, discovery tools, model deployment platforms, and MCP resources for 
 ## Skills
 
 * #### [Skills.sh](https://skills.sh/) - Directory for discovering and sharing AI agent skills
-* #### [Claude Code Skills](../../ai-coding-tools/ai-agents/claude-code/#skills) - Claude Code skills resources and examples
+* #### [Claude Code Skills](../../ai-coding-tools/ai-agents/claude-code.md#skills) - Claude Code skills resources and examples
 
 ## Content Creation
 
@@ -52,4 +52,4 @@ Directories, discovery tools, model deployment platforms, and MCP resources for 
 * #### [MCP Hub](https://hub.docker.com/mcp) - Library of secure, containerized MCP servers
 * #### [MCP Registry from Mastra](https://mastra.ai/mcp-registry-registry) - A registry of MCP registries
 * #### [FastMCP](https://github.com/jlowin/fastmcp) - The fast, Pythonic way to build MCP servers and clients
-* #### [Context Mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents with sandboxed tool output and session continuity
+

@@ -4,8 +4,15 @@ Context Engineering is defined as the art and science of filling an LLM's contex
 
 Prompt vs. Context Engineering: While prompt engineering uses static prompts, context engineering deals with dynamic information from multiple sources like user input, tool calls, history, and developer instructions.
 
+See also [Tools, Skills & MCP](../resources/tools/index.md) for related AI development tools and context resources.
+
+## Articles
+
+* [The Rise of Context Engineering](https://blog.langchain.com/the-rise-of-context-engineering/)
+
 ## Tutorials
 
+* [10 basic concepts for AI engineer](https://x.com/ihtesham2005/status/2024392667992641940) Ihtesham on X
 * [Prompt Engineering Guide](https://www.forwardfuture.ai/p/humanity-s-last-prompt-engineering-guide-built-for-the-gpt-5-era) by Matthew Berman and Nick Wentz
 * [Google Prompt Engineering White Paper](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 * [Prompting Techniques](https://www.promptingguide.ai/techniques)
@@ -33,6 +40,15 @@ Prompt vs. Context Engineering: While prompt engineering uses static prompts, co
 * [Prompt Engineering Best Practises](https://x.com/Meer_AIIT/status/2013227813017411758) Google's 6 Hour Prompt Engineering Course in 8 minutes (X post)
 * [Your AI Prompts Are Intellectual Property — Own Them](https://graymatter.jamesgray.ai/p/manage-prompts-like-code) Why smart leaders treat their prompts like code
 
+## RAG 
+
+* [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques) Repository of retrieval-augmented generation techniques and examples
+
+## Context Window
+
+* [Context Mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents with sandboxed tool output 
+and session continuity
+
 ## Hosted Models
 
 * [Openrouter](https://openrouter.ai/) Unified interface for LLMs
@@ -49,15 +65,5 @@ Prompt vs. Context Engineering: While prompt engineering uses static prompts, co
 
 * **Reddit**
     * [r/PromptEngineeering](https://www.reddit.com/r/PromptEngineering/) Application of engineering practices to the development of prompts
-
-## Articles
-
-* [The Rise of Context Engineering](https://blog.langchain.com/the-rise-of-context-engineering/)
-
-
-
-
-
-
 
 
