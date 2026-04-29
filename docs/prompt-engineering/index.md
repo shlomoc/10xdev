@@ -44,11 +44,6 @@ See also [Tools, Skills & MCP](../resources/tools/index.md) for related AI devel
 
 * [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques) Repository of retrieval-augmented generation techniques and examples
 
-## Context Window
-
-* [Context Mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents with sandboxed tool output 
-and session continuity
-
 ## Hosted Models
 
 * [Openrouter](https://openrouter.ai/) Unified interface for LLMs

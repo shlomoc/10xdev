@@ -52,4 +52,5 @@ Directories, discovery tools, model deployment platforms, and MCP resources for 
 * #### [MCP Hub](https://hub.docker.com/mcp) - Library of secure, containerized MCP servers
 * #### [MCP Registry from Mastra](https://mastra.ai/mcp-registry-registry) - A registry of MCP registries
 * #### [FastMCP](https://github.com/jlowin/fastmcp) - The fast, Pythonic way to build MCP servers and clients
+* #### [Context Mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents with sandboxed tool output 
 
