@@ -44,6 +44,7 @@ Directories, discovery tools, model deployment platforms, and MCP resources for 
 * #### [Wisprflow](https://wisprflow.ai/) - Voice dictation
 * #### [Notebook LM](https://notebooklm.google.com/) - Understand complex topics, ask questions, & get instant insight
 * #### [OpenClaw](https://openclaw.ai/) - Clawdbot Personal AI assistant
+* #### [OpenClaw Use Case Examples](https://www.kdnuggets.com/7-practical-openclaw-use-cases-you-should-know) - KDnuggets article on OpenClaw use cases
 
 ## MCP
 
@@ -53,4 +54,3 @@ Directories, discovery tools, model deployment platforms, and MCP resources for 
 * #### [MCP Registry from Mastra](https://mastra.ai/mcp-registry-registry) - A registry of MCP registries
 * #### [FastMCP](https://github.com/jlowin/fastmcp) - The fast, Pythonic way to build MCP servers and clients
 * #### [Context Mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents with sandboxed tool output 
-
