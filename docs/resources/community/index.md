@@ -14,6 +14,7 @@ Channels, videos, communities, newsletters, and blogs to stay current with AI de
 
 ## YouTube Videos
 
+* #### [Andrej Karpathy: From Vibe Coding to Agentic Engineering](https://www.youtube.com/watch?v=96jN2OCOfLs) - Sequoia AI Ascent conversation on agentic engineering and Software 3.0
 * #### [Andrej Karpathy: Software Is Changing (Again)](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
 * #### [How I use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=1414s) - Andrej Karpathy explains
 * #### [Understanding the Context Window & Token Costs](https://www.youtube.com/watch?v=Z0GWWTHpcik) - Vibe Coding with Cline

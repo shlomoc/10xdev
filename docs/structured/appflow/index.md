@@ -26,7 +26,7 @@ Screenshot them for upload.
 * `app-sitemap.md` - Document outlining your application's structure and navigation
 * Wireframes or page images from UI prototyping
 
-Alternatively, use [stitch](https://stitch.withgoogle.com/home) to generate high-quality user interfaces for mobile and web apps and easily export them to Figma, or directly access the frontend code.  
+Alternatively, use [claude design](https://claude.ai/design), [imagen 2](https://chat.openai.com/) or [stitch](https://stitch.withgoogle.com/home) to generate high-quality user interfaces for mobile and web apps and easily export them to Figma, or directly access the frontend code.  
 
 [superdesign.dev](https://www.superdesign.dev/) is an open source project to try designs using parallel agents (created with Taskmaster)
 

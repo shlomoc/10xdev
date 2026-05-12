@@ -16,6 +16,7 @@ See also [Tools, Skills & MCP](../resources/tools/index.md) for related AI devel
 * [Prompt Engineering Guide](https://www.forwardfuture.ai/p/humanity-s-last-prompt-engineering-guide-built-for-the-gpt-5-era) by Matthew Berman and Nick Wentz
 * [Google Prompt Engineering White Paper](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 * [Prompting Techniques](https://www.promptingguide.ai/techniques)
+* [How to Master Context Engineering](https://x.com/eng_khairallah1/status/2053405155630936297) Khairallah AL-Awady X article/course on context architecture, memory, and MCP
 * [Alex Prompter on basic AI concepts](https://x.com/alex_prompter/status/2024073869452358017) X post on prompt engineering
 
 ## Prompt Generators
@@ -60,5 +61,4 @@ See also [Tools, Skills & MCP](../resources/tools/index.md) for related AI devel
 
 * **Reddit**
     * [r/PromptEngineeering](https://www.reddit.com/r/PromptEngineering/) Application of engineering practices to the development of prompts
-
 

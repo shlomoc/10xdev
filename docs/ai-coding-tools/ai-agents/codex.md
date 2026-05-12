@@ -5,6 +5,7 @@
 [Codex](https://openai.com/codex/) is like Claude Code but its from OpenAI.
 
 - [OpenAI Developers](https://developers.openai.com/codex/) - Codex Developers Hub
+- [Codex Use Cases](https://developers.openai.com/codex/use-cases) - Official OpenAI examples for using Codex across common workflows
 - [Codex GitHub](https://github.com/openai/codex) - Official open source repository for the Codex CLI
 - [How OpenAI Uses Codex](https://cdn.openai.com/pdf/6a2631dc-783e-479b-b1a4-af0cfbd38630/how-openai-uses-codex.pdf) - PDF guide on OpenAI's internal usage
 - [Builders Community](https://academy.openai.com/public/clubs/builders-etkn1/overview) - Codex Builders Community
@@ -25,3 +26,10 @@
 Codex can use skills ported from Claude Code, but review them for Claude-specific tool dependencies and replace those with Codex-compatible commands, scripts, or workflows.
 
 - [Awesome Codex Skills](https://github.com/ComposioHQ/awesome-codex-skills) - Curated GitHub collection of Codex skills, resources, and tools
+
+## Codex App
+
+Desktop app you can use to build apps.
+
+- [Codex App doc](https://developers.openai.com/codex/app)
+- [Learn 95% of OpenAI Codex in 30 minutes](https://www.youtube.com/watch?v=474wZZHoWN4&t=1s) - YouTube video
