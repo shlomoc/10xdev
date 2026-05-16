@@ -26,6 +26,7 @@ Claude code is a CLI that can also be used with an IDE like VS Code.
 - [Claude Code overview](https://x.com/akshay_pachaar/status/2035341800739877091) - X post with a Claude Code tutorial
 - [Explore Claude Code](https://exploreclaudecode.com) - Learn Claude Code by exploring it in self-documenting project.
 - [Anthropic Courses on GitHub](https://github.com/anthropics/courses) - Official course materials and notebooks
+- [Code with Claude Workshops](https://github.com/anthropics/cwc-workshops) - Official Anthropic-run workshop materials for Claude and agent development
 - [Claude HowTo](https://github.com/luongnv89/claude-howto) - Community tutorial and how-to repository for Claude Code
 
 

@@ -9,6 +9,7 @@
 - [Codex GitHub](https://github.com/openai/codex) - Official open source repository for the Codex CLI
 - [How OpenAI Uses Codex](https://cdn.openai.com/pdf/6a2631dc-783e-479b-b1a4-af0cfbd38630/how-openai-uses-codex.pdf) - PDF guide on OpenAI's internal usage
 - [Builders Community](https://academy.openai.com/public/clubs/builders-etkn1/overview) - Codex Builders Community
+- [Codex Fundamentals](https://academy.openai.com/events/codex-fundamentals-an2pl5654l) - OpenAI Academy event covering practical Codex development workflows
 - [Codex Cookbook](https://cookbook.openai.com/topic/codex)
 - [Getting Started with Codex](https://www.youtube.com/watch?v=px7XlbYgk7I) - OpenAI Youtube video
 - [Leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/) - Humans steer. Agents execute.
