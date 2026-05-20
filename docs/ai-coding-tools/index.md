@@ -1,6 +1,6 @@
 ---
 title: AI Coding Tools - Development Tools Guide
-description: Comprehensive guide to AI coding tools including Claude Code, Cursor, Cline, and more. Compare cloud IDEs, VS Code forks, IDE plugins, and AI agents for development.
+description: Comprehensive guide to AI coding tools including Claude Code, Cursor, Cline, and more. Compare cloud AI IDEs, AI agents, model-flexible AI tools, and open source coding agents for development.
 ---
 
 # AI Coding Tools
@@ -11,17 +11,17 @@ A comprehensive guide to AI-powered development tools that can accelerate your c
 
 ## AI Development Tools Categories
 
+### AI Agents
+Autonomous coding assistants and command-line tools that can perform complex development tasks.
+
 ### Cloud AI IDEs
 Full-featured development environments that run in the cloud with AI capabilities and deployment built-in.
 
-### VS Code Forks  
-Enhanced versions of Visual Studio Code with advanced AI features and integrations.
+### Model-Flexible AI Tools
+AI-native coding tools that let you choose between different models for different development tasks.
 
-### IDE Plugins
-Extensions and plugins that add AI capabilities to existing development environments.
-
-### AI Agents
-Autonomous coding assistants and command-line tools that can perform complex development tasks.
+### Open Source Coding Agents
+Open source coding agents and bring-your-own-model workflows for developers who want more control over providers, costs, and local setup.
 
 ---
 
@@ -31,11 +31,10 @@ Explore each category to find the right AI coding tools for your development wor
 
 Use the category pages to reflect on your needs:
 
-- Want fast MVP deployment? → Cloud-Based Platforms (Lovable, Google AI Studio, Bolt.new, Replit)
-- Need latest developer capabilities? → AI Agents & CLI Tools (Claude Code, OpenAI Codex, Google Gemini)
-- Want developer IDEs with AI capabilities? → VS Code Forks (Cursor AI, Kiro, Anti-Gravity)
-- Prefer open source where you pay by model token usage? → IDE Plugins (Cline)
-
+- Want fast MVP prototyping and hosted app workflows? → Cloud AI IDEs (Lovable, Bolt.new, Replit, Google AI Studio)
+- Want agentic coding from the terminal or delegated task workflows? → AI Agents & CLI Tools (Claude Code, OpenAI Codex, Google Antigravity)
+- Want an AI-native editor with model choice? → Model-Flexible AI Tools (Cursor, Windsurf, Kiro)
+- Want open source or bring-your-own-model workflows? → Open Source Coding Agents (Cline, Kilo)
 
 ## Level up by using multiple tools
 

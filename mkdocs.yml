@@ -149,25 +149,22 @@ nav:
     - AI Agents:
       - Claude Code: ai-coding-tools/ai-agents/claude-code.md
       - Codex: ai-coding-tools/ai-agents/codex.md
-      - Warp: ai-coding-tools/ai-agents/warp.md
-      - Kilo: ai-coding-tools/ai-agents/kilo.md
-      - Gemini: ai-coding-tools/ai-agents/gemini-cli.md
+      - Antigravity: ai-coding-tools/ai-agents/antigravity.md
     - Cloud AI IDEs:
       - Lovable.dev: ai-coding-tools/cloud-ai-ides/lovable.md
       - Bolt.new: ai-coding-tools/cloud-ai-ides/bolt.md
-      - Google AI for Developers: ai-coding-tools/cloud-ai-ides/aistudio.md
+      - Google AI Studio: ai-coding-tools/cloud-ai-ides/aistudio.md
       - Replit: ai-coding-tools/cloud-ai-ides/replit.md
       - Base44: ai-coding-tools/cloud-ai-ides/base44.md
       - Rocket.new: ai-coding-tools/cloud-ai-ides/rocket.md
       - CreateAnything: ai-coding-tools/cloud-ai-ides/createanything.md
-    - VS Code Forks:
+    - Model-Flexible AI Tools:
       - Cursor AI: ai-coding-tools/vs-code-forks/cursor.md
       - Windsurf: ai-coding-tools/vs-code-forks/windsurf.md
       - Kiro: ai-coding-tools/vs-code-forks/kiro.md
-      - Anti-Gravity: ai-coding-tools/vs-code-forks/anti-gravity.md
-    - IDE Plugins:
-      - Cline: ai-coding-tools/ide-plugins/cline.md
-      - Github Copilot: ai-coding-tools/ide-plugins/github.md
+    - Open Source Coding Agents:
+      - Cline: ai-coding-tools/ai-agents/cline.md
+      - Kilo: ai-coding-tools/ai-agents/kilo.md
   - 🤝 Agent Frameworks:
     - Overview: agent-frameworks/index.md
     - A2A: agent-frameworks/a2a.md

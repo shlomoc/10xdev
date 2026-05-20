@@ -24,7 +24,7 @@ Channels, videos, communities, newsletters, and blogs to stay current with AI de
 ## Communities
 
 * #### [Agentics.org](http://agentics.org) - Non-profit organization dedicated to democratizing artificial intelligence education and innovation
-* #### [Agentics.org Video Portal](https://video.agentics.org/channel/Agentics.org+Video+Portal/370465892)
+* #### [Agentics.org Video Portal](https://video.agentics.org/)
 * #### [AI MVP builders](https://www.skool.com/aimvpbuilders/about) - Learn how to build and launch a SaaS using AI
 
 ## Newsletters

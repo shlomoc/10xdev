@@ -1,10 +1,10 @@
-# **Google AI for Developers**
+# **AI Studio**
 
 ## Overview
 
-- [Google AI for Developers](https://ai.google.dev/) Central developer hub
-- [Google AI Studio](https://aistudio.google.com/apps): Build Apps with Gemini 
-- [Anti-Gravity](../vs-code-forks/anti-gravity.md) Google's VS Code-based agent-first IDE
-- [Gemini CLI](../ai-agents/gemini-cli.md) Gemini command-line coding agent
-- [Google for Startups](https://startup.google.com/gemini)
-- [Building AI Agents](https://cloud.google.com/resources/content/building-ai-agents)
+- [AI Studio](https://aistudio.google.com/apps) Build Apps with Gemini 
+
+## Related Products
+
+- [Antigravity](../ai-agents/antigravity.md) Google's coding agent replacing Gemini CLI on June 18, 2026
+- [Jules doc](https://jules.google/docs) Google’s autonomous coding agent that works with GitHub
