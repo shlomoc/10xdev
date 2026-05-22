@@ -32,6 +32,7 @@ Claude code is a CLI that can also be used with an IDE like VS Code.
 
 ## Best Practices
 - [Anthropic's Claude Code Best Practices](https://code.claude.com/docs/en/best-practices) - Updated version, includes skills, plugins
+- [How Claude Code works in large codebases](https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start) - Official Claude blog post on large-codebase best practices and adoption patterns
 - [Claude prompting best practices](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices) - Official prompt engineering best practices for Claude
 - [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - Community repository of Claude Code best practices, workflows, and setup examples
 - [How Boris Uses Claude Code](https://howborisusesclaudecode.com/) - Boris Cherny's collection of Claude Code practices and workflows as skill
