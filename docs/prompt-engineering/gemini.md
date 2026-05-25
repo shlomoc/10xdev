@@ -19,6 +19,7 @@
 
 ## Community & Updates
 - [Google AI Blog – Gemini](https://blog.google/products/gemini/)
+- [Explore Google I/O 2026](https://io.google/2026/explore/) Keynotes, sessions, and on-demand content from Google I/O 2026
 
 ## Coding Tools
 - [AI Studio](../ai-coding-tools/cloud-ai-ides/aistudio.md)
