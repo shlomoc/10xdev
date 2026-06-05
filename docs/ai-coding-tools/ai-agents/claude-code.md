@@ -28,6 +28,7 @@ Claude code is a CLI that can also be used with an IDE like VS Code.
 - [Anthropic Courses on GitHub](https://github.com/anthropics/courses) - Official course materials and notebooks
 - [Code with Claude Workshops](https://github.com/anthropics/cwc-workshops) - Official Anthropic-run workshop materials for Claude and agent development
 - [Claude HowTo](https://github.com/luongnv89/claude-howto) - Community tutorial and how-to repository for Claude Code
+- [Claude Code in Practice](https://github.com/hamzafarooq/claude-code-starter) - Hands-on course and starter kit with templates, skills, commands, and demo apps for building with Claude Co
 
 
 ## Best Practices
@@ -37,6 +38,7 @@ Claude code is a CLI that can also be used with an IDE like VS Code.
 - [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - Community repository of Claude Code best practices, workflows, and setup examples
 - [How Boris Uses Claude Code](https://howborisusesclaudecode.com/) - Boris Cherny's collection of Claude Code practices and workflows as skill
 - [Lessons from Building Claude Code: Prompt Caching Is Everything](https://x.com/trq212/status/2024574133011673516) - X thread on prompt caching design
+- [A harness for every task: dynamic workflows in Claude Code](https://x.com/trq212/status/2061907337154367865) - X post on Claude Code dynamic workflows and task-specific agent harnesses
 - [Tips on using Claude Code](../../reference/claude-code-tips.md) - Tips by Ian Nuttel
 - [Tips on how to talk to Claude](https://x.com/itsolelehmann/status/2045578185950040390) - *how* you talk to claude affects its work (X post)
 ## Skills
@@ -95,6 +97,7 @@ Claude code is a CLI that can also be used with an IDE like VS Code.
 - [Resources on Claude Code](https://claude-code-spotlight.lovable.app/) - Curated collection of resources from the Code newsletter
 - [Claude Code Templates](https://www.aitmpl.com/) - Ready to use templates
 - [Claude Code Guide](https://cc.bruniaux.com/) - Guide with templates, security notes, workflows, quizzes, and cheat sheets
+- [Claude Certified Architect Study Resources](https://github.com/hamzafarooq/claude-certified-architect) - Community study materials for the Claude Certified Architect: Foundations certification, including a practice exam, cheat sheets, and sample questions
 - [Awesome Claude Code Resources](https://awesomeclaude.ai/) - Hub of various Claude code resources
 - [Awesome Claude](https://github.com/webfuse-com/awesome-claude) - Curated Claude resources on GitHub
 - [10 GitHub Repositories to Master Claude Code](https://www.kdnuggets.com/10-github-repositories-to-master-claude-code) - KDnuggets article on Claude Code repositories
