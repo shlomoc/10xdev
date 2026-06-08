@@ -165,6 +165,7 @@ nav:
     - Open Source Coding Agents:
       - Cline: ai-coding-tools/ai-agents/cline.md
       - Kilo: ai-coding-tools/ai-agents/kilo.md
+      - OpenCode: ai-coding-tools/ai-agents/opencode.md
   - 🤝 Agent Frameworks:
     - Overview: agent-frameworks/index.md
     - A2A: agent-frameworks/a2a.md

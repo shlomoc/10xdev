@@ -11,6 +11,7 @@ Claude code is a CLI that can also be used with an IDE like VS Code.
 ## Documentation
 
 - [Claude Code Docs](https://docs.anthropic.com/en/docs/claude-code/overview) - Official documentation
+- [Claude Code What's New](https://code.claude.com/docs/en/whats-new) - Official updates and release notes
 - [Claude Code Common workflows](https://docs.anthropic.com/en/docs/claude-code/common-workflows) - Common development patterns
 - [Cheat Sheet](https://awesomeclaude.ai/code-cheatsheet.pdf) - PDF cheat sheet
 - [Claude Code Tips](https://github.com/Njengah/claude-code-cheat-sheet) - Collection of Claude Code tips from Joe Njenga

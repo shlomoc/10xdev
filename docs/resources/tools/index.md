@@ -7,6 +7,7 @@ Directories, discovery tools, model deployment platforms, and MCP resources for 
 * #### [AI Tools Directory](https://tools.forwardfuture.ai/) - from Forward Future
 * #### [Starred AI Repos](https://goodailist.com/repos) - Sortable list of AI github repositories
 * #### [Chrome DevTools for agents](https://developer.chrome.com/docs/devtools/agents) - Official Chrome docs for browser automation, debugging, and verification with AI agents
+* #### [git push no-mistakes](https://kunchenguid.github.io/no-mistakes/) - Local git gate for agent-written branches that runs review, tests, docs, linting, PR creation, and CI follow-up before pushing upstream
 
 ## Search & Documentation
 

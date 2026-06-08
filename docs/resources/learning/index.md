@@ -15,6 +15,7 @@ Educational resources, roadmaps, and longer-form reading for improving your AI e
 * #### [Learning project for building a nano Claude Code-like agent](https://github.com/shareAI-lab/learn-claude-code) - A nano Claude Code-like agent, built from 0 to 1
 * #### [AI Builder Resources](https://www.theunwindai.com/) - Collection of LLM apps
 * #### [AI Engineering educational Resources](https://docs.google.com/document/d/1irYLQNfATQ6sldOBczkdrYD3wJjvRm02UesD_5qZp4Y) - Google Doc from PyCoach
+* #### [How developers build defensible startups that scale](https://drive.google.com/file/d/1cRFQ5gKPVzmGmFSh3avNN_diMlRoN9U9/view) - Google Drive PDF from Jeremiah Owyang's lecture
 
 ## Roadmaps
 

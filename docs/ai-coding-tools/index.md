@@ -34,7 +34,7 @@ Use the category pages to reflect on your needs:
 - Want fast MVP prototyping and hosted app workflows? → Cloud AI IDEs (Lovable, Bolt.new, Replit, Google AI Studio)
 - Want agentic coding from the terminal or delegated task workflows? → AI Agents & CLI Tools (Claude Code, OpenAI Codex, Google Antigravity)
 - Want an AI-native editor with model choice? → Model-Flexible AI Tools (Cursor, Windsurf, Kiro)
-- Want open source or bring-your-own-model workflows? → Open Source Coding Agents (Cline, Kilo)
+- Want open source or bring-your-own-model workflows? → Open Source Coding Agents (Cline, Kilo, OpenCode)
 
 ## Level up by using multiple tools
 
