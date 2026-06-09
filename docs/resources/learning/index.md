@@ -15,6 +15,7 @@ Educational resources, roadmaps, and longer-form reading for improving your AI e
 * #### [Learning project for building a nano Claude Code-like agent](https://github.com/shareAI-lab/learn-claude-code) - A nano Claude Code-like agent, built from 0 to 1
 * #### [AI Builder Resources](https://www.theunwindai.com/) - Collection of LLM apps
 * #### [AI Engineering educational Resources](https://docs.google.com/document/d/1irYLQNfATQ6sldOBczkdrYD3wJjvRm02UesD_5qZp4Y) - Google Doc from PyCoach
+* #### [AI Builders Handbook](https://drive.google.com/file/d/179XUGVR2lXEBo7hSwpHddMq-22q5Ylnq/view) - Google Drive handbook for AI builders
 * #### [How developers build defensible startups that scale](https://drive.google.com/file/d/1cRFQ5gKPVzmGmFSh3avNN_diMlRoN9U9/view) - Google Drive PDF from Jeremiah Owyang's lecture
 
 ## Roadmaps
@@ -35,6 +36,8 @@ Educational resources, roadmaps, and longer-form reading for improving your AI e
 
 ## Articles
 
+* #### [Loop Engineering](https://addyosmani.com/blog/loop-engineering/) - Addy Osmani on designing recurring agent loops instead of manually prompting coding agents
+* #### [Long-running Agents](https://addyosmani.com/blog/long-running-agents/) - Addy Osmani on persistence, recovery, and verification for multi-session AI agents
 * #### [Vibe Coding Playbook](https://www.forwardfuture.ai/p/the-matthew-berman-vibe-coding-playbook) - from Matthew Berman
 * #### [Claude Code is the inflection point](https://newsletter.semianalysis.com/p/claude-code-is-the-inflection-point) - from Dylan Patel
 * #### [AGI is still a decade away](https://www.podchemy.com/notes/andrej-karpathy-agi-is-still-a-decade-away-43921620932) - Andrej Karpathy on Dwarkesh Podcast (10/17/2025)
