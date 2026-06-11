@@ -20,6 +20,7 @@ Claude code is a CLI that can also be used with an IDE like VS Code.
 ## Tutorials
 
 - [Mastering Claude Code in 30 minutes](https://www.youtube.com/watch?v=6eBSHbLKuN0) - YouTube tutorial by Boris Cherny
+- [Reflecting on a year of Claude Code](https://www.youtube.com/watch?v=Hth_tLaC2j8) - YouTube video in official Claude channel
 - [Build with Claude](https://www.anthropic.com/learn/build-with-claude) - Claude Code Academy
 - [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action) - Interactive course
 - [Claude Code: A Highly Agentic Coding Assistant](https://learn.deeplearning.ai/courses/claude-code-a-highly-agentic-coding-assistant) - DeepLearning.AI course

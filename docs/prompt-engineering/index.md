@@ -37,7 +37,7 @@ See also [Tools, Skills & MCP](../resources/tools/index.md) for related AI devel
 
 ## Best practices
 
-* [Tips for prompting AI IDEs](../reference/ide-tips.md)
+* [Tips for prompting AI](../reference/prompting-tips.md)
 * [Prompt Engineering Best Practises](https://x.com/Meer_AIIT/status/2013227813017411758) Google's 6 Hour Prompt Engineering Course in 8 minutes (X post)
 * [Your AI Prompts Are Intellectual Property — Own Them](https://graymatter.jamesgray.ai/p/manage-prompts-like-code) Why smart leaders treat their prompts like code
 
@@ -61,4 +61,3 @@ See also [Tools, Skills & MCP](../resources/tools/index.md) for related AI devel
 
 * **Reddit**
     * [r/PromptEngineeering](https://www.reddit.com/r/PromptEngineering/) Application of engineering practices to the development of prompts
-
