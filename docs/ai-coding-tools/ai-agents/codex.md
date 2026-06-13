@@ -6,7 +6,7 @@
 
 - [OpenAI Developers](https://developers.openai.com/codex/) - Codex Developers Hub
 - [Codex Use Cases](https://developers.openai.com/codex/use-cases) - Official OpenAI examples for using Codex across common workflows
-- [Codex GitHub](https://github.com/openai/codex) - Official open source repository for the Codex CLI
+- [Codex CLI GitHub](https://github.com/openai/codex) - Official open source repository for the Codex CLI
 - [How OpenAI Uses Codex](https://cdn.openai.com/pdf/6a2631dc-783e-479b-b1a4-af0cfbd38630/how-openai-uses-codex.pdf) - PDF guide on OpenAI's internal usage
 - [Builders Community](https://academy.openai.com/public/clubs/builders-etkn1/overview) - Codex Builders Community
 - [Codex Fundamentals](https://academy.openai.com/events/codex-fundamentals-an2pl5654l) - OpenAI Academy event covering practical Codex development workflows
@@ -15,6 +15,7 @@
 - [Leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/) - Humans steer. Agents execute.
 - [Codex for almost everything](https://openai.com/index/codex-for-almost-everything/) - OpenAI article on using Codex across different workflows
 - [Tips for long-running agents that do real work](https://developers.openai.com/blog/skills-shell-tips) - Shell + Skills + Compaction
+- [Codex CLI Cheat Sheet](https://shipyard.build/blog/codex-cli-cheat-sheet) - Shipyard quick reference for Codex CLI commands and workflows
 - [codex-cli-best-practice](https://github.com/shanraisshan/codex-cli-best-practice) - Community repository of Codex CLI best practices, workflows, and setup examples
 
 ## Subagents

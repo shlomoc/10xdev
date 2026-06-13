@@ -24,7 +24,7 @@ A modern framework for building AI agents with TypeScript, built-in integrations
 
 * #### [Agentic Architect Fundamentals Course](https://synaptic-ai-consulting.github.io/learn-aamad/) A guided, hands-on introduction to an Agentic Architect mindset (using Cursor AI)
 
-* #### [AI Agent Protocols 101](https://x.com/Saboo_Shubham_/status/2012728540857512016) AI Agent protocols as layers in a stack (X post)
+* #### [Agentic Design Patterns](https://github.com/evoiz/Agentic-Design-Patterns) A hands-on guide and collection of code notebooks for building intelligent agent systems
 
 * #### [A Practical Guide to Building Agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) OpenAI PDF guide to designing and building AI agents in practice
 
