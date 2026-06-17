@@ -7,6 +7,7 @@
 - [OpenAI Developers](https://developers.openai.com/codex/) - Codex Developers Hub
 - [Codex Use Cases](https://developers.openai.com/codex/use-cases) - Official OpenAI examples for using Codex across common workflows
 - [Codex CLI GitHub](https://github.com/openai/codex) - Official open source repository for the Codex CLI
+- [Codex OSS mode](https://developers.openai.com/codex/config-advanced#oss-mode-local-providers) - Use the Codex App, CLI, and SDK with open source models through local providers like Ollama or LM Studio
 - [How OpenAI Uses Codex](https://cdn.openai.com/pdf/6a2631dc-783e-479b-b1a4-af0cfbd38630/how-openai-uses-codex.pdf) - PDF guide on OpenAI's internal usage
 - [Builders Community](https://academy.openai.com/public/clubs/builders-etkn1/overview) - Codex Builders Community
 - [Codex Fundamentals](https://academy.openai.com/events/codex-fundamentals-an2pl5654l) - OpenAI Academy event covering practical Codex development workflows
