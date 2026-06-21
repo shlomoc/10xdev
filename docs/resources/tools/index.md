@@ -9,7 +9,7 @@ Directories, discovery tools, model deployment platforms, and MCP resources for 
 * #### [Chrome DevTools for agents](https://developer.chrome.com/docs/devtools/agents) - Official Chrome docs for browser automation, debugging, and verification with AI agents
 * #### [Headroom](https://github.com/chopratejas/headroom) - Context compression tool for reducing the tokens used by AI agents across tool outputs, logs, files, and RAG results
 * #### [git push no-mistakes](https://kunchenguid.github.io/no-mistakes/) - Local git gate for agent-written branches that runs review, tests, docs, linting, PR creation, and CI follow-up before pushing upstream
-* #### [loops!](https://loops.elorm.xyz/) - Pre-built agent loops with triggers, feedback gates, and exit conditions for coding agents
+* #### [loops](https://signals.forwardfuture.ai/loop-library/) - Copy practical AI agent prompts with clear checks and stopping conditions
 
 ## Search & Documentation
 
