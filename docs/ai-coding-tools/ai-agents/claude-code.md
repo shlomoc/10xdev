@@ -54,7 +54,7 @@ Claude Code is a CLI that can also be used with an IDE like VS Code.
 - [Claude Skills](https://x.com/aiedge_/status/2015822565500194961) - X article on deploying Claude Skills effectively
 - [Separation of Responsibilities: MCP vs Skills](https://x.com/dani_avila7/status/2014409635370041517) - X article on MCP and Skills boundaries
 - [awesome claude skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of Claude Skills, resources, and tools for customizing Claude AI workflows
-- [Grill me Skill](https://github.com/mattpocock/skills) - Personal directory of Claude skills for planning, development, and tooling
+- [Skills For Real Engineers](https://github.com/mattpocock/skills) - Matt Pocock's Claude skills for planning, development, debugging, and tooling
 - [Andrej Karpathy Skills](https://github.com/forrestchang/andrej-karpathy-skills) - Community Claude skills based on Andrej Karpathy's guidance
 - [Prompt Master](https://github.com/nidhinjs/prompt-master) - GitHub repository for a Claude skill that writes accurate prompts for AI tools
 

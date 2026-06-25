@@ -15,6 +15,7 @@
 - [Getting Started with Codex](https://www.youtube.com/watch?v=px7XlbYgk7I) - OpenAI Youtube video
 - [Leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/) - Humans steer. Agents execute.
 - [Codex for almost everything](https://openai.com/index/codex-for-almost-everything/) - OpenAI article on using Codex across different workflows
+- [Codex Security Plugin](https://openai.com/daybreak/codex-security-plugin/) - OpenAI guide for running Codex Security scans from Desktop Codex or Codex CLI
 - [Tips for long-running agents that do real work](https://developers.openai.com/blog/skills-shell-tips) - Shell + Skills + Compaction
 - [Codex CLI Cheat Sheet](https://shipyard.build/blog/codex-cli-cheat-sheet) - Shipyard quick reference for Codex CLI commands and workflows
 - [codex-cli-best-practice](https://github.com/shanraisshan/codex-cli-best-practice) - Community repository of Codex CLI best practices, workflows, and setup examples
