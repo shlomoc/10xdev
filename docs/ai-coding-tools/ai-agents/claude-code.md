@@ -87,6 +87,7 @@ Claude Code is a CLI that can also be used with an IDE like VS Code.
 
 - [Basic Cheat Sheet](https://awesomeclaude.ai/code-cheatsheet.pdf) - PDF cheat sheet
 - [Advanced cheat sheet](https://github.com/Njengah/claude-code-cheat-sheet) - Collection of Claude Code tips from Joe Njenga
+- [27 Hidden Claude Features, Settings & Shortcuts](https://x.com/sairahul1/status/2070428662080618607) - X article on Claude Code features, settings, and shortcuts from beginner to pro
 - [Tips on using Claude Code](../../reference/claude-code-tips.md) - Tips by Ian Nuttel
 - [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - Community repository of Claude Code best practices, workflows, and setup examples
 - [Claude HowTo](https://luongnv.com/claude-howto/) - Community tutorial and how-to repository for Claude Code

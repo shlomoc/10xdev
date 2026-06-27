@@ -20,6 +20,7 @@
 - [Example Prompts](https://x.com/godofprompt/status/1950564573515551009) X post
 - [More Example Prompts](https://x.com/ArmanHezarkhani/status/2019433119867126017) X article
 - [My Lovable System After 45+ MVPs](https://x.com/PrajwalTomar_/status/2013980871829966940) X article by Prajwal Tomar
+- [The Lovable System Behind My $20K MRR Agency](https://x.com/PrajwalTomar_/status/2070824938643263766) X article by Prajwal Tomar
 - [Prompt Directory](https://damiens-prompt-directory.lovable.app/) lovable app
 - [SEO with Lovable](https://x.com/damienghader/status/2013979172100551127) X article by Damien
 - [Lovable : The Complete Guide](https://x.com/damienghader/status/2019772845661061517) X article by Damien
