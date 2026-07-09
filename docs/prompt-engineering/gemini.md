@@ -11,6 +11,7 @@
 - [Introduction to Prompt Design](https://ai.google.dev/gemini-api/docs/prompting-intro)  
 - [Gemini for Google Workspace Prompt Guide](https://workspace.google.com/learning/content/gemini-prompt-guide)  
 - [Writing Effective AI Prompts for Business](https://workspace.google.com/resources/ai/writing-effective-prompts/)  
+- [10 Indispensable Prompts Our Team Refuses to Build Without](https://cloud.google.com/blog/topics/developers-practitioners/10-indispensable-prompts-our-team-refuses-to-build-without) Google Cloud article with practical prompts for specs, tests, code review, and implementation trade-offs
 - [Gemini Gems](https://support.google.com/gemini/answer/15235603) Tips for creating custom gems
 - [Google Skills Courses](https://x.com/AndrewBolis/status/2012876394259468307) List of 10 free beginner Courses
 

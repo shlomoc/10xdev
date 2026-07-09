@@ -29,6 +29,7 @@
 
 Codex can use skills ported from Claude Code, but review them for Claude-specific tool dependencies and replace those with Codex-compatible commands, scripts, or workflows.
 
+- [OpenAI Skills](https://github.com/openai/skills/) - OpenAI repository of example skills for AI agents
 - [Awesome Codex Skills](https://github.com/ComposioHQ/awesome-codex-skills) - Curated GitHub collection of Codex skills, resources, and tools
 
 ## Codex App

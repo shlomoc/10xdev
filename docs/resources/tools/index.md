@@ -7,6 +7,7 @@ Directories, discovery tools, model deployment platforms, and MCP resources for 
 * #### [AI Tools Directory](https://tools.forwardfuture.ai/) - from Forward Future
 * #### [Starred AI Repos](https://goodailist.com/repos) - Sortable list of AI github repositories
 * #### [Chrome DevTools for agents](https://developer.chrome.com/docs/devtools/agents) - Official Chrome docs for browser automation, debugging, and verification with AI agents
+* #### [ChatPRD](https://www.chatprd.ai/) - AI product manager for creating PRDs, user stories, technical specs, and go-to-market briefs
 * #### [Headroom](https://github.com/chopratejas/headroom) - Context compression tool for reducing the tokens used by AI agents across tool outputs, logs, files, and RAG results
 * #### [git push no-mistakes](https://kunchenguid.github.io/no-mistakes/) - Local git gate for agent-written branches that runs review, tests, docs, linting, PR creation, and CI follow-up before pushing upstream
 * #### [loops](https://signals.forwardfuture.ai/loop-library/) - Copy practical AI agent prompts with clear checks and stopping conditions
@@ -35,6 +36,7 @@ Directories, discovery tools, model deployment platforms, and MCP resources for 
 
 * #### [Skills.sh](https://skills.sh/) - Directory for discovering and sharing AI agent skills
 * #### [Claude Code Skills](../../ai-coding-tools/ai-agents/claude-code.md#skills) - Claude Code skills resources and examples
+* #### [OpenAI Skills](../../ai-coding-tools/ai-agents/codex.md#skills) - OpenAI skills resources for Codex
 * #### [Last 30 Days](https://github.com/mvanhorn/last30days-skill) - AI agent skill for researching recent topics across social platforms, developer communities, prediction markets, and the web
 
 ## Content Creation

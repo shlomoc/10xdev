@@ -97,6 +97,7 @@ Claude Code is a CLI that can also be used with an IDE like VS Code.
 - [Claude Certified Architect Study Resources](https://github.com/hamzafarooq/claude-certified-architect) - Community study materials for the Claude Certified Architect: Foundations certification, including a practice exam, cheat sheets, and sample questions
 - [10 GitHub Repositories to Master Claude Code](https://www.kdnuggets.com/10-github-repositories-to-master-claude-code) - KDnuggets article on Claude Code repositories
 - [Thariq's Claude Code tips](https://x.com/trq212/status/2035372716820218141) - Pinned X thread collecting Claude Code tips
+- [Getting started with loops](https://x.com/ClaudeDevs/status/2074208949205881033) - ClaudeDevs post linking to an X article
 
 ## Research And Architecture
 
