@@ -21,6 +21,7 @@ You can do this with a structured specification-first workflow or with lighter a
 * [Agent Skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills, workflows, and quality gates for AI coding agents
 * [Superpowers](https://github.com/obra/superpowers) - Agentic skills framework and software development workflow
 * [Ruflo](https://github.com/ruvnet/claude-flow) - An agent orchestration platform for Claude
+* [ruvnet-brain](https://isovision.ai/ruvnet-brain/) - An adaptive AI memory system for Ruflo agents
 
 ## Steps
 

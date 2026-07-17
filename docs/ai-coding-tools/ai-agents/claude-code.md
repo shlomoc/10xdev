@@ -94,6 +94,7 @@ Claude Code is a CLI that can also be used with an IDE like VS Code.
 - [Claude Code in Practice](https://github.com/hamzafarooq/claude-code-starter) - Hands-on course and starter kit with templates, skills, commands, and demo apps for building with Claude Code
 - [Claude Code Templates](https://www.aitmpl.com/) - Ready-to-use templates
 - [Claude Code Guide](https://cc.bruniaux.com/) - Guide with templates, security notes, workflows, quizzes, and cheat sheets
+- [Steps of AI Adoption](https://claude.ai/code/artifact/bfdfaef9-bc62-4dfe-ba9e-c58a26c9accf) - Interactive Claude artifact about AI Adoption from Boris Cherny
 - [Claude Certified Architect Study Resources](https://github.com/hamzafarooq/claude-certified-architect) - Community study materials for the Claude Certified Architect: Foundations certification, including a practice exam, cheat sheets, and sample questions
 - [10 GitHub Repositories to Master Claude Code](https://www.kdnuggets.com/10-github-repositories-to-master-claude-code) - KDnuggets article on Claude Code repositories
 - [Thariq's Claude Code tips](https://x.com/trq212/status/2035372716820218141) - Pinned X thread collecting Claude Code tips
