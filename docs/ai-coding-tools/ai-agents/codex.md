@@ -20,6 +20,7 @@
 - [Codex Fundamentals](https://academy.openai.com/events/codex-fundamentals-an2pl5654l) - OpenAI Academy event covering practical Codex development workflows
 - [Learn 95% of OpenAI Codex in 30 minutes](https://www.youtube.com/watch?v=474wZZHoWN4&t=1s) - YouTube video
 - [Codex Cookbook](https://cookbook.openai.com/topic/codex) - Practical Codex examples and recipes
+- [GPT-5.6 Prompting 101](https://x.com/free_ai_guides/status/2076266621341958623) - AI Guides article on outcome-first prompting, model and reasoning controls, reusable prompt templates, and common mistakes
 - [How OpenAI Uses Codex](https://cdn.openai.com/pdf/6a2631dc-783e-479b-b1a4-af0cfbd38630/how-openai-uses-codex.pdf) - PDF guide on OpenAI's internal usage
 
 

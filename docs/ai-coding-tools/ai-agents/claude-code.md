@@ -52,6 +52,7 @@ Claude Code is a CLI that can also be used with an IDE like VS Code.
 - [Guide to building skills](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf) - PDF guide on building skills
 - [Skill authoring best practices](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices) - Official doc
 - [Claude Skills](https://x.com/aiedge_/status/2015822565500194961) - X article on deploying Claude Skills effectively
+- [10 Skills for Claude Code](https://x.com/PrajwalTomar_/status/2076238393881796742) - Prajwal Tomar's X post on a curated skill stack for persistent memory, context management, planning, design, and code review
 - [Separation of Responsibilities: MCP vs Skills](https://x.com/dani_avila7/status/2014409635370041517) - X article on MCP and Skills boundaries
 - [awesome claude skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of Claude Skills, resources, and tools for customizing Claude AI workflows
 - [Skills For Real Engineers](https://github.com/mattpocock/skills) - Matt Pocock's Claude skills for planning, development, debugging, and tooling
@@ -85,6 +86,7 @@ Claude Code is a CLI that can also be used with an IDE like VS Code.
 
 ## Community Guides And Tips
 
+- [9 Claude Workflow Formulas](https://x.com/rubenhassid/status/2078797005069979661/photo/1) - Ruben Hassid's X post on skills, projects, context management, question gathering, model selection, and efficient prompting
 - [Basic Cheat Sheet](https://awesomeclaude.ai/code-cheatsheet.pdf) - PDF cheat sheet
 - [Advanced cheat sheet](https://github.com/Njengah/claude-code-cheat-sheet) - Collection of Claude Code tips from Joe Njenga
 - [27 Hidden Claude Features, Settings & Shortcuts](https://x.com/sairahul1/status/2070428662080618607) - X article on Claude Code features, settings, and shortcuts from beginner to pro
