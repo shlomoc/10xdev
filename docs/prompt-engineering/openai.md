@@ -6,7 +6,6 @@
 - [OpenAI Playground](https://platform.openai.com/playground)  
 - [GPT Store](https://chat.openai.com/gpts)  
 - [Create a GPT](https://chat.openai.com/gpts/editor) Requires at least Plus account
-- [Atlas](https://openai.com/index/introducing-chatgpt-atlas/) Browser with ChatGPT built in
 
 ## Documentation & Guides
 - [OpenAI Models](https://platform.openai.com/docs/models)  
@@ -33,3 +32,6 @@
 - [OpenAI Developer Forum](https://community.openai.com/)  
 - [OpenAI Academy](https://academy.openai.com/public/content)
 - [Prompt Packs](https://academy.openai.com/public/tags/prompt-packs-6849a0f98c613939acef841c)
+
+## Coding Tools
+see [Codex](../ai-coding-tools/ai-agents/codex.md)
