@@ -11,6 +11,9 @@ Channels, videos, communities, newsletters, and blogs to stay current with AI de
 * #### [AI Engineer](https://www.youtube.com/@aiDotEngineer) - Talks, workshops, events, and training for AI Engineers
 * #### [Alex Finn](https://www.youtube.com/@AlexFinnOfficial) - Latest AI tutorials and guides
 * #### [AI Jason](https://www.youtube.com/@AIJasonZ) - AI Builder Club
+* #### [Peter Yang](https://www.youtube.com/@PeterYangYT) - AI product management, LLM applications, and career advice
+* #### [AI Advantage](https://www.youtube.com/@aiadvantage) - AI tools, workflows, and productivity tutorials
+* #### [Nate Herk](https://www.youtube.com/@nateherk) - AI automation tutorials and implementation guides
 
 ## YouTube Videos
 

@@ -4,6 +4,8 @@
 
 You can go through the full structured approach in the folders below or just skip to areas where you want to drill down into the details. You can also automate some of the steps using [agentic frameworks](agentic/index.md).
 
+See the [ADLC diagram](../img/adlc.jpeg).
+
 ## Subagents
 In the sections of Structured Development Process below, there are prompts for each stage.  Now, with Claude Code, you can even create subagents based on these prompts to help implement the process automatically. 
 

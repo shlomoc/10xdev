@@ -11,6 +11,7 @@ Directories, discovery tools, model deployment platforms, and MCP resources for 
 * #### [Headroom](https://github.com/chopratejas/headroom) - Context compression tool for reducing the tokens used by AI agents across tool outputs, logs, files, and RAG results
 * #### [git push no-mistakes](https://kunchenguid.github.io/no-mistakes/) - Local git gate for agent-written branches that runs review, tests, docs, linting, PR creation, and CI follow-up before pushing upstream
 * #### [loops](https://signals.forwardfuture.ai/loop-library/) - Copy practical AI agent prompts with clear checks and stopping conditions
+* #### [Finn Loop Guide](https://finn-loop-guide.alexfinn1.chatgpt.site/) - Guide to the Finn loop for iterative AI-assisted development
 
 ## Search & Documentation
 
@@ -49,7 +50,7 @@ Directories, discovery tools, model deployment platforms, and MCP resources for 
 
 * #### [Obsidian](https://obsidian.md/) - Markdown Editor
 * #### [Wisprflow](https://wisprflow.ai/) - Voice dictation
-* #### [Notebook LM](https://notebooklm.google.com/) - Understand complex topics, ask questions, & get instant insight
+* #### [Gemini Notebook (formerly NotebookLM)](https://notebooklm.google.com/) - Understand complex topics, ask questions, & get instant insight
 * #### [OpenClaw](https://openclaw.ai/) - Clawdbot Personal AI assistant
 * #### [OpenClaw Use Case Examples](https://www.kdnuggets.com/7-practical-openclaw-use-cases-you-should-know) - KDnuggets article on OpenClaw use cases
 
