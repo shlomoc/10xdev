@@ -28,6 +28,10 @@ A modern framework for building AI agents with TypeScript, built-in integrations
 
 * #### [A Practical Guide to Building Agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) OpenAI PDF guide to designing and building AI agents in practice
 
+* #### [Graph Engineeering](https://aisuperpowers.substack.com/p/the-loop-is-over) AI Superpowers article on evolving beyond traditional agent loops
+
+* #### [Agent Framework Insights](https://x.com/0xRafy/status/2079542513317118268) 0xRafy's X post on AI agent frameworks
+
 ---
 Explore each framework to find the right approach for your agent development needs. Consider factors like team coordination, workflow complexity, platform integration, and observability requirements when choosing a framework.
 

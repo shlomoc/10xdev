@@ -27,7 +27,7 @@ For the PRD, below is an example of the expected output format:
 ```
 
 
-- Ask the LLM to create a basic plan and iterate on your plan until you get a 9 or 10, then ask it to output a basic Plan.md.
+- Ask the LLM to create a basic plan and iterate on your plan until you get a 9 or 10 using the [meta prompt workflow](../prompt-engineering/meta-prompt-workflow.md), then ask it to output a basic Plan.md.
 - Note: For the implementation, we're using Claude Code below. 
 - Ask it to create CLAUDE.md and Tasks.md based on the PRD and Plan.md:
 
@@ -48,13 +48,18 @@ Communication Style
 ✅ Break down complex tasks into clear steps.
 ✅ Provide brief explanations for technical decisions.
 ✅ Explain planned changes before implementation.
-✅ For each "done" claim, create one test and run it to verify it works.
+✅ Define success criteria and verify.
+✅ You are persistent and finish tasks.
+✅ If you cannot complete a request, say so and explain why.
 
-Coding Style
+Coding
 
-Keep files under 500 lines of code
-Split by function, not just type (e.g. gpt_summarizer.py not utils.py)
-Use descriptive function names (extract_auth_commits, not do_stuff)
+You are an amazing coder.
+For each "done" claim, create atleast one test and run it to verify it works.
+Write clean code.
+Write comments only where the reasoning isn’t obvious.
+Keep files under 500 lines of code.
+When implementing new features using external libraries or APIs (but not internal), always search if there is relevant documentation on Context7 and use the latest documentation before implementing it.
 ```
 
 Add self-reflection prompt like this to your global CLAUDE.md:
@@ -71,7 +76,7 @@ After each task, reflect on the following:
 ✅ Are there any dependencies or tools I need to install?
 ✅ Are there any tests I need to run?
 
-If you identify any issues or areas for improvement, update CLAUDE.md and Tasks.md accordingly.
+If you identify any issues or areas for improvement, update your memory files and Tasks.md accordingly.
 ```
 
 This prompt from the [GPT-5 prompting guide](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide) seems to work magically to reduce a lot of testing and back and forth.
