@@ -10,6 +10,7 @@
 - [ChatGPT Quickstart](https://learn.chatgpt.com/docs/quickstart) - Official guide to getting started with ChatGPT
 - [Getting Started with Codex](https://www.youtube.com/watch?v=px7XlbYgk7I) - OpenAI Youtube video
 - [Codex Use Cases](https://developers.openai.com/codex/use-cases) - Official OpenAI examples for using Codex across common workflows
+- [Codex Use Cases for Engineers](https://academy.openai.com/public/clubs/work-users-ynjqu/resources/use-cases-engineers) - OpenAI Academy resource on engineering use cases
 - [Codex CLI GitHub](https://github.com/openai/codex) - Official open source repository for the Codex CLI
 - [Models in ChatGPT](https://learn.chatgpt.com/docs/models?surface=app) - Official guide to choosing ChatGPT models
 - [GPT-5.6](https://openai.com/index/gpt-5-6/) - OpenAI announcement and overview of GPT-5.6

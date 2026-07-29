@@ -54,7 +54,7 @@ Claude Code is a CLI that can also be used with an IDE like VS Code.
 - [Skill authoring best practices](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices) - Official doc
 - [Claude Skills](https://x.com/aiedge_/status/2015822565500194961) - X article on deploying Claude Skills effectively
 - [10 Skills for Claude Code](https://x.com/PrajwalTomar_/status/2076238393881796742) - Prajwal Tomar's X post on a curated skill stack for persistent memory, context management, planning, design, and code review
-- [Separation of Responsibilities: MCP vs Skills](https://x.com/dani_avila7/status/2014409635370041517) - X article on MCP and Skills boundaries
+- [Claude Skills vs. MCP](https://www.makemyskill.com/guides/claude-skills-vs-mcp) - Guide to choosing between Claude Skills and MCP
 - [awesome claude skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of Claude Skills, resources, and tools for customizing Claude AI workflows
 - [Skills For Real Engineers](https://github.com/mattpocock/skills) - Matt Pocock's Claude skills for planning, development, debugging, and tooling
 - [Andrej Karpathy Skills](https://github.com/forrestchang/andrej-karpathy-skills) - Community Claude skills based on Andrej Karpathy's guidance
