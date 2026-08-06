@@ -5,6 +5,7 @@ Directories, discovery tools, model deployment platforms, and MCP resources for 
 ## Tools
 
 * #### [AI Tools Directory](https://tools.forwardfuture.ai/) - from Forward Future
+* #### [Block/Buzz](https://github.com/block/buzz) - Self-hostable workspace where humans and AI agents build together
 * #### [Starred AI Repos](https://goodailist.com/repos) - Sortable list of AI github repositories
 * #### [Chrome DevTools for agents](https://developer.chrome.com/docs/devtools/agents) - Official Chrome docs for browser automation, debugging, and verification with AI agents
 * #### [ChatPRD](https://www.chatprd.ai/) - AI product manager for creating PRDs, user stories, technical specs, and go-to-market briefs

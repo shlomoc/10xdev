@@ -5,6 +5,7 @@ Educational resources, roadmaps, and longer-form reading for improving your AI e
 ## Educational
 
 * #### [Free AI Courses](https://tathastu-rh.notion.site/Free-AI-Courses-30c9464bdbf98027b434d121af78cb79) - Curated Notion collection of free AI cours
+* #### [Traversaal Academy Free Resources](https://app.notion.com/p/traversaal-ai/Traversaal-Academy-Free-Resources-38b9a2e5c4a680eb905edf236759db6b) - Free AI learning resources from Traversaal Academy
 * #### [The Modern Software Dev](https://themodernsoftware.dev) - CS146 The Modern Software Developer
 * #### [Awesome generative ai guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - Repository for generative AI educational resources and research updates
 * #### [OpenClaw Resources by Category](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/openclaw_mastery_for_everyone/best-openclaw-resources.md) - Curated OpenClaw guides, tools, videos, security resources, and community content
