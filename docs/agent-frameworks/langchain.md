@@ -1,14 +1,18 @@
 # **LangChain**
 
-LangChain is the general-purpose building layer for composing prompts, tools, retrievers, and other LLM workflow pieces, which makes it a practical starting point for smaller or more linear applications. 
+LangGraph, LangChain, and Deep Agents form three composable layers of LangChain's open source agent stack. LangGraph is the runtime, LangChain is the framework and integrations layer, and Deep Agents is the agent harness. Each layer trades abstraction for control, so builders can move between them or combine them rather than committing to only one.
 
-LangGraph sits one layer up and is better suited to workflows that need explicit state, branching, retry behavior, looping, or longer-running agent coordination.
+[View the LangChain agent stack pyramid](../img/langchain-pyramid.jpeg)
 
-Deep Agents adds an agent harness on top of the LangChain ecosystem when you want built-in planning, subagents, file-system tooling, and support for more demanding multi-step tasks.
+Deep Agents is the highest-level starting point and the best fit for most new agents. It packages context-engineering practices such as file-system-backed context, subagents, skills, memory, and summarization into an opinionated harness designed for capable, longer-running agents.
 
-LangSmith fills the observability role across the ecosystem by helping teams trace runs, evaluate behavior, and monitor quality over time. 
+LangChain provides a minimal, unopinionated agent loop—an LLM repeatedly choosing and calling tools—plus model and tool integrations. Reach for its `create_agent` abstraction when you want less built-in context management, need finer control over the agent loop, or plan to assemble a bespoke harness. Middleware can add deterministic steps such as approvals, verification, or summarization around that loop.
 
-A reasonable progression is to start with LangChain, adopt LangGraph when orchestration becomes more complex, use Deep Agents when you want an agent harness, and add LangSmith when you need stronger debugging and evaluation.
+LangGraph is the lower-level runtime beneath both LangChain agents and Deep Agents. It is the right choice when a standard agent loop is not enough, when a workflow mixes deterministic and agentic steps, or when you need to encode custom branching and control flow directly. Its durable execution, human-in-the-loop, fault-tolerance, and observability primitives support production workflows.
+
+The practical rule of thumb is to start with Deep Agents, use LangChain when you want a leaner harness and finer control, and use LangGraph when you need a fully custom workflow or maximum determinism. The layers remain composable: LangChain or Deep Agents can run inside a larger LangGraph workflow, and custom LangGraph workflows can be exposed as subagents.
+
+LangSmith complements all three layers with deployment, tracing, evaluation, and production observability.
 
 Because this ecosystem moves quickly, the most reliable way to check current APIs and examples is often the official docs MCP server rather than older blog posts or tutorials. LangChain provides an MCP endpoint at `https://docs.langchain.com/mcp`, which can be used from tools to fetch up-to-date documentation.
 
@@ -38,6 +42,7 @@ A standalone library in the LangChain ecosystem for building agents with plannin
 - [Deep Agents GitHub](https://github.com/langchain-ai/deepagents) Official repository
 - [How we build evals for Deep Agents](https://blog.langchain.com/how-we-build-evals-for-deep-agents/) LangChain blog post
 - [Your harness, your memory](https://blog.langchain.com/your-harness-your-memory/) LangChain blog post on agent harnesses, memory, and lock-in
+- [Why managed agents are the next big thing in agent building](https://x.com/hwchase17/status/2085780032031760694) X article by Harrison Chase on Managed Deep Agents and production agent infrastructure
 
 ## [LangSmith](https://www.langchain.com/langsmith) 
 A unified observability & evals platform where teams can debug, test, and monitor AI app performance
