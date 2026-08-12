@@ -24,3 +24,4 @@ Cursor started as a VS Code fork. It has expanded into a desktop app and CLI.
 ## Community Resources
 - [Cursor Rules and Resources](https://cursor.directory/)
 - [Awesome Cursor Rules](https://github.com/PatrickJS/awesome-cursorrules)
+- [Cursor Plugins](https://github.com/cursor/plugins): Official repository for Cursor plugins
