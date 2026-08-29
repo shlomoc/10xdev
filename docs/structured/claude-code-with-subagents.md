@@ -6,6 +6,8 @@ You can go through the full structured approach in the folders below or just ski
 
 See the [ADLC diagram](../img/adlc.jpeg).
 
+For Anthropic's stage-by-stage approach to integrating AI across the development lifecycle, see [The AI-Native SDLC playbook](https://claude.com/blog/the-ai-native-sdlc-playbook).
+
 ## Subagents
 In the sections of Structured Development Process below, there are prompts for each stage.  Now, with Claude Code, you can even create subagents based on these prompts to help implement the process automatically. 
 
