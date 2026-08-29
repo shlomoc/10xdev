@@ -16,9 +16,10 @@ description: Deploy applications reliably and efficiently
 ## Steps
 
 ### 1. Follow the [Deployment using Vercel guide](vercel-deployment.md)
-### 2. Configure environments (dev, staging, production)
-### 3. Set up continuous integration
-### 4. Implement monitoring and logging
+### 2. If using Supabase, review the [Going into Production guide](https://supabase.com/docs/guides/deployment/going-into-prod) for production-readiness recommendations
+### 3. Configure environments (dev, staging, production)
+### 4. Set up continuous integration
+### 5. Implement monitoring and logging
 
 ## Output
 
@@ -27,4 +28,3 @@ description: Deploy applications reliably and efficiently
 ## Next Steps
 
 - Proceed to [Documentation](../documentation/index.md) to complete your project documentation
-
