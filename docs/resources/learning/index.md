@@ -4,19 +4,31 @@ Educational resources, roadmaps, and longer-form reading for improving your AI e
 
 ## Educational
 
-* #### [Free AI Courses](https://tathastu-rh.notion.site/Free-AI-Courses-30c9464bdbf98027b434d121af78cb79) - Curated Notion collection of free AI cours
+### AI Foundations & Resource Collections
+
+* #### [Free AI Courses](https://tathastu-rh.notion.site/Free-AI-Courses-30c9464bdbf98027b434d121af78cb79) - Curated Notion collection of free AI courses
 * #### [Traversaal Academy Free Resources](https://app.notion.com/p/traversaal-ai/Traversaal-Academy-Free-Resources-38b9a2e5c4a680eb905edf236759db6b) - Free AI learning resources from Traversaal Academy
-* #### [The Modern Software Dev](https://themodernsoftware.dev) - CS146 The Modern Software Developer
+* #### [10 Public NotebookLM Notebooks](https://www.learnwithmeai.com/p/notebooklm-notebooks-mit-hormozi-buffett) - LearnAIWithMe collection covering AI, prompt engineering, startups, sales, investing, open models, and grounding
 * #### [Awesome generative ai guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - Repository for generative AI educational resources and research updates
-* #### [OpenClaw Resources by Category](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/openclaw_mastery_for_everyone/best-openclaw-resources.md) - Curated OpenClaw guides, tools, videos, security resources, and community content
 * #### [LLM visualization](https://bbycroft.net/llm) - View inside a Transformer
 * #### [ML Engineer Guide](https://x.com/ArmanHezarkhani/status/2013608521900683765) - Article (on X) - with index of educational youtube videos
 * #### [10 FREE Resources to Understand How LLMs Work Under the Hood](https://x.com/ihtesham2005/status/2026631750538113517?s=20) - Ihtesham on X
+* #### [AI Engineering educational Resources](https://docs.google.com/document/d/1irYLQNfATQ6sldOBczkdrYD3wJjvRm02UesD_5qZp4Y) - Google Doc from PyCoach
+
+### AI-Assisted Software Development
+
+* #### [The Modern Software Dev](https://themodernsoftware.dev) - CS146 The Modern Software Developer
+* #### [AI Dev Tools Zoomcamp](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp) - Free, hands-on course on disciplined AI-assisted software development
+* #### [Learning project for building a nano Claude Code-like agent](https://github.com/shareAI-lab/learn-claude-code) - A nano Claude Code-like agent, built from 0 to 1
+
+### Agents & Architectures
+
+* #### [OpenClaw Resources by Category](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/openclaw_mastery_for_everyone/best-openclaw-resources.md) - Curated OpenClaw guides, tools, videos, security resources, and community content
 * #### [Agents towards production](https://github.com/NirDiamant/agents-towards-production) - Tutorials on GenAI agents
 * #### [Agent architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) - Implementation of 17+ agentic architectures
-* #### [Learning project for building a nano Claude Code-like agent](https://github.com/shareAI-lab/learn-claude-code) - A nano Claude Code-like agent, built from 0 to 1
-* #### [AI Builder Resources](https://www.theunwindai.com/) - Collection of LLM apps
-* #### [AI Engineering educational Resources](https://docs.google.com/document/d/1irYLQNfATQ6sldOBczkdrYD3wJjvRm02UesD_5qZp4Y) - Google Doc from PyCoach
+
+### AI Products & Startups
+
 * #### [AI Builders Handbook](https://drive.google.com/file/d/179XUGVR2lXEBo7hSwpHddMq-22q5Ylnq/view) - Google Drive handbook for AI builders
 * #### [How developers build defensible startups that scale](https://drive.google.com/file/d/1cRFQ5gKPVzmGmFSh3avNN_diMlRoN9U9/view) - Google Drive PDF from Jeremiah Owyang's lecture
 
