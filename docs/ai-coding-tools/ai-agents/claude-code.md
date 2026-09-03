@@ -4,7 +4,7 @@
 
 Claude Code is a CLI that can also be used with an IDE like VS Code.
 
-- [Claude Code](https://www.anthropic.com/claude-code) - You can sign up for a monthly plan instead of paying per token.
+- [Claude Code](https://www.anthropic.com/claude-code) - Home page
 - [Claude Code GitHub](https://github.com/anthropics/claude-code) - Official repository
 - [Connect apps](https://claude.ai/directory) - Unlock more with Claude when you connect remote and local tools
 
@@ -49,6 +49,7 @@ Claude Code is a CLI that can also be used with an IDE like VS Code.
 
 - [Claude Code Agent Skills](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills) - Article explaining how skills are organized folders containing instructions, scripts, and resources
 - [Agent Skills](https://code.claude.com/docs/en/skills) - Official documentation and examples
+- [Anthropic Skills](https://github.com/anthropics/skills) - Official repository of skills for Claude
 - [Agent Skills Tutorial](https://learn.deeplearning.ai/courses/agent-skills-with-anthropic) - DeepLearning.AI course on Agent Skills
 - [Guide to building skills](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf) - PDF guide on building skills
 - [Skill authoring best practices](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices) - Official doc
