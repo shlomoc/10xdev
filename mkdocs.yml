@@ -147,7 +147,9 @@ nav:
   - 🛠️ AI Coding Tools:
     - Overview: ai-coding-tools/index.md
     - AI Agents:
-      - Claude Code: ai-coding-tools/ai-agents/claude-code.md
+      - Claude Code:
+        - ai-coding-tools/ai-agents/claude-code/index.md
+        - Community Tips: ai-coding-tools/ai-agents/claude-code/community-tips.md
       - Codex: ai-coding-tools/ai-agents/codex.md
       - Antigravity: ai-coding-tools/ai-agents/antigravity.md
     - Cloud AI IDEs:

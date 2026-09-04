@@ -41,4 +41,4 @@ claude --enable-auto-mode
 
 ## Next Steps
 
-You can find more resources, skills and subagents on the [Claude Code](../../ai-coding-tools/ai-agents/claude-code.md) page of this website.
+You can find more resources, skills and subagents on the [Claude Code](../../ai-coding-tools/ai-agents/claude-code/index.md) page of this website.

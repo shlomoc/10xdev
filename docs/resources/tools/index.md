@@ -37,7 +37,7 @@ Directories, discovery tools, model deployment platforms, and MCP resources for 
 ## Skills
 
 * #### [Skills.sh](https://skills.sh/) - Directory for discovering and sharing AI agent skills
-* #### [Claude Code Skills](../../ai-coding-tools/ai-agents/claude-code.md#skills) - Claude Code skills resources and examples
+* #### [Claude Code Skills](../../ai-coding-tools/ai-agents/claude-code/index.md#skills) - Claude Code skills resources and examples
 * #### [OpenAI Skills](../../ai-coding-tools/ai-agents/codex.md#skills) - OpenAI skills resources for Codex
 * #### [Last 30 Days](https://github.com/mvanhorn/last30days-skill) - AI agent skill for researching recent topics across social platforms, developer communities, prediction markets, and the web
 

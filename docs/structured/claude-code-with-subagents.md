@@ -56,7 +56,7 @@ Plugins are distribution containers that can include skills, slash commands, sub
 
 They are focused on extending the Claude Code environment itself—defining how and when capabilities show up in your IDE/terminal workflow, and are often shared via marketplaces or repos.
 
-You can find more about Claude Skills and Plugins on the [Claude Code](../ai-coding-tools/ai-agents/claude-code.md) page of this website.
+You can find more about Claude Skills and Plugins on the [Claude Code](../ai-coding-tools/ai-agents/claude-code/index.md) page of this website.
 
 ## The Spec-Driven Plugin
 
