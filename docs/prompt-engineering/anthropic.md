@@ -2,8 +2,8 @@
 
 ## Core Products & Tools
 - [Claude](https://claude.ai/new)  
-- [Anthropic Workbench](https://console.anthropic.com/workbench)  
-- [Anthropic Prompt Generator/Improver](https://console.anthropic.com/dashboard)  
+- [Anthropic Playground](https://platform.claude.com/workspaces/default/playground)
+- [Claude Console](https://console.anthropic.com/dashboard)
 
 ## Documentation & Guides
 - [Anthropic Docs](https://docs.anthropic.com/en/home) 
@@ -14,6 +14,7 @@
 - [Anthropics Courses](https://github.com/anthropics/courses)
 
 ## Tips from the community
+- [6 Claude Workflow Formulas](https://x.com/rubenhassid/status/2078797005069979661/photo/1) - Ruben Hassid's X post on skills, projects, context management, question gathering, model selection, and efficient prompting
 - [Claude Can Do All of This](https://x.com/AnatoliKopadze/status/2057813254617858078) Anatoli Kopadze overview guide to Claude features, workflows, and starter prompts
 - [How to Write a Prompt using a 4-Layer Structure](https://x.com/0xCodez/status/2057807200173613450) Codez article synthesizing Anthropic prompt engineering guidance
 - [How to Give Your Claude Agent a Memory in 12 Steps](https://x.com/0xCodez/status/2058156429559636069) Codez guide to persistent memory and self-improving Claude agents

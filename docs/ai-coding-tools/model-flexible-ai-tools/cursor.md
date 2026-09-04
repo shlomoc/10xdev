@@ -25,3 +25,4 @@ Cursor started as a VS Code fork. It has expanded into a desktop app and CLI.
 - [Cursor Rules and Resources](https://cursor.directory/)
 - [Awesome Cursor Rules](https://github.com/PatrickJS/awesome-cursorrules)
 - [Cursor Plugins](https://github.com/cursor/plugins): Official repository for Cursor plugins
+- [SDLC Starter Prompts](https://github.com/chrisdunlopnz/cursor-starter) - GitHub repository of starter prompts for software development

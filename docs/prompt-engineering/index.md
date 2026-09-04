@@ -33,7 +33,6 @@ See also [Tools, Skills & MCP](../resources/tools/index.md) for related AI devel
 * [God of Prompt](https://www.godofprompt.ai/) Your AI Superpowers In One Click
 * [LangChain Hub](https://smith.langchain.com/hub/) Explore and contribute prompts to the community hub
 * [Prompt Hub](https://www.prompthub.us/) Community-driven prompt platform
-* [SDLC Prompts](https://github.com/chrisdunlopnz/cursor-starter) Github repo of prompts for software development
 
 ## Best practices
 

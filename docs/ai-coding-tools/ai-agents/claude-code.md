@@ -88,7 +88,7 @@ Claude Code is a CLI that can also be used with an IDE like VS Code.
 
 ## Community Guides And Tips
 
-- [9 Claude Workflow Formulas](https://x.com/rubenhassid/status/2078797005069979661/photo/1) - Ruben Hassid's X post on skills, projects, context management, question gathering, model selection, and efficient prompting
+
 - [Basic Cheat Sheet](https://awesomeclaude.ai/code-cheatsheet.pdf) - PDF cheat sheet
 - [Advanced cheat sheet](https://github.com/Njengah/claude-code-cheat-sheet) - Collection of Claude Code tips from Joe Njenga
 - [27 Hidden Claude Features, Settings & Shortcuts](https://x.com/sairahul1/status/2070428662080618607) - X article on Claude Code features, settings, and shortcuts from beginner to pro

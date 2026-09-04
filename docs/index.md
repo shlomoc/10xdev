@@ -14,7 +14,7 @@ Welcome to 10xDevelopers.dev - your comprehensive guide to AI-powered coding, de
 
 ### What You'll Learn
 
-Master **AI-powered coding** techniques, explore cutting-edge **development tools** like Claude Code and Codex, and learn **vibe coding** methodologies to build production-ready applications faster than ever.
+Master **AI-powered coding** techniques, explore cutting-edge **development tools** like Claude Code and Codex, and learn methodologies to build production-ready applications faster than ever.
 
 Guides, patterns, tools, and resources — to help you go from experimenting with AI to getting real results. Browse by development phase, platform, frameworks, tools or search for a specific topic.
 

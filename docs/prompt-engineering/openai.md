@@ -16,8 +16,7 @@
 - [OpenAI Function calling](https://platform.openai.com/docs/guides/function-calling)  
 - [OpenAI API Reference](https://platform.openai.com/docs/api-reference/introduction)
 - [OpenAI Guide to building agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)
-- [OpenAI Model Spec](https://model-spec.openai.com/2025-12-18.html) Approach to shaping desired model behavior.
-* [GPT-5 prompting tips](../reference/gpt-5-tips.md)
+- [OpenAI Model Spec](https://model-spec.openai.com/) Approach to shaping desired model behavior.
 
 ## Development & Testing
 - [OpenAI Evals](https://platform.openai.com/docs/guides/evals)
@@ -31,7 +30,6 @@
 - [OpenAI Blog](https://openai.com/blog)  
 - [OpenAI Developer Forum](https://community.openai.com/)  
 - [OpenAI Academy](https://academy.openai.com/public/content)
-- [Prompt Packs](https://academy.openai.com/public/tags/prompt-packs-6849a0f98c613939acef841c)
 
 ## Coding Tools
 see [Codex](../ai-coding-tools/ai-agents/codex.md)

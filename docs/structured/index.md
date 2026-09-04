@@ -79,7 +79,7 @@ After each task, reflect on the following:
 If you identify any issues or areas for improvement, update your memory files and Tasks.md accordingly.
 ```
 
-This prompt from the [GPT-5 prompting guide](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide) seems to work magically to reduce a lot of testing and back and forth.
+This prompt seems to work magically to reduce a lot of testing and back and forth.
 
 ```
 First, spend time thinking of a rubric until you are confident.

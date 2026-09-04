@@ -14,6 +14,7 @@ Channels, videos, communities, newsletters, and blogs to stay current with AI de
 * #### [Peter Yang](https://www.youtube.com/@PeterYangYT) - AI product management, LLM applications, and career advice
 * #### [AI Advantage](https://www.youtube.com/@aiadvantage) - AI tools, workflows, and productivity tutorials
 * #### [Nate Herk](https://www.youtube.com/@nateherk) - AI automation tutorials and implementation guides
+* #### [Agentics.org Youtube channel](https://www.youtube.com/@agentics-foundation)
 
 ## YouTube Videos
 
@@ -27,7 +28,6 @@ Channels, videos, communities, newsletters, and blogs to stay current with AI de
 ## Communities
 
 * #### [Agentics.org](http://agentics.org) - Non-profit organization dedicated to democratizing artificial intelligence education and innovation
-* #### [Agentics.org Youtube channel](https://www.youtube.com/@agentics-foundation)
 * #### [AI MVP builders](https://www.skool.com/aimvpbuilders/about) - Learn how to build and launch a SaaS using AI
 
 ## Newsletters
