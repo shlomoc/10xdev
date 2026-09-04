@@ -14,10 +14,10 @@
 - [Anthropics Courses](https://github.com/anthropics/courses)
 
 ## Tips from the community
-- [6 Claude Workflow Formulas](https://x.com/rubenhassid/status/2078797005069979661/photo/1) - Ruben Hassid's X post on skills, projects, context management, question gathering, model selection, and efficient prompting
 - [Claude Can Do All of This](https://x.com/AnatoliKopadze/status/2057813254617858078) Anatoli Kopadze overview guide to Claude features, workflows, and starter prompts
-- [How to Write a Prompt using a 4-Layer Structure](https://x.com/0xCodez/status/2057807200173613450) Codez article synthesizing Anthropic prompt engineering guidance
-- [How to Give Your Claude Agent a Memory in 12 Steps](https://x.com/0xCodez/status/2058156429559636069) Codez guide to persistent memory and self-improving Claude agents
+- [6 Claude Workflow Formulas](https://x.com/rubenhassid/status/2078797005069979661/photo/1) - Ruben Hassid's X post on skills, projects, context management, question gathering, model selection, and efficient prompting
+- [Ruben Hassid's Substack](https://ruben.substack.com/) - Ruben Hassid's newsletter on How to AI with Claude
+- [0xmovez's Substack](https://substack.com/@0xmovez) - newsletter summarizing Claude code best practises
 
 ## Development & Testing
 - [Anthropic Evals](https://docs.anthropic.com/en/docs/test-and-evaluate/eval-tool)
