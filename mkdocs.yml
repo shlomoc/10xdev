@@ -164,6 +164,7 @@ nav:
       - Cursor AI: ai-coding-tools/model-flexible-ai-tools/cursor.md
       - Devin: ai-coding-tools/model-flexible-ai-tools/devin.md
       - Kiro: ai-coding-tools/model-flexible-ai-tools/kiro.md
+      - GitHub Copilot: ai-coding-tools/model-flexible-ai-tools/github.md
     - Open Source Coding Agents:
       - Cline: ai-coding-tools/open-source-coding-agents/cline.md
       - OpenCode: ai-coding-tools/open-source-coding-agents/opencode.md

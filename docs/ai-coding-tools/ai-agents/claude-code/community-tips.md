@@ -4,10 +4,11 @@ This page collects community-created Claude Code tutorials, workflow ideas, reco
 
 ## Getting Started
 
-- [Tips on using Claude Code](../../../reference/claude-code-tips.md) - Tips collected by Ian Nuttall
-- [Claude Code overview](https://x.com/akshay_pachaar/status/2035341800739877091) - Overview introducing Claude Code
-- [27 Hidden Claude Features, Settings & Shortcuts](https://x.com/sairahul1/status/2070428662080618607) - Features, settings, and shortcuts ranging from beginner to advanced
 - [Thariq's Claude Code tips](https://x.com/trq212/status/2035372716820218141) - Pinned collection of Claude Code tips
+- [Tips on using Claude Code](https://x.com/iannuttall/status/1951243907628724725) - Tips collected by Ian Nuttall
+- [Anatomy of the .claude/ folder](https://x.com/akshay_pachaar/status/2035341800739877091) - X Post
+- [27 Hidden Claude Features, Settings & Shortcuts](https://x.com/sairahul1/status/2070428662080618607) - Features, settings, and shortcuts ranging from beginner to advanced
+
 
 ## Guides
 
@@ -17,7 +18,6 @@ This page collects community-created Claude Code tutorials, workflow ideas, reco
 
 ## Resource Collections
 
-- [Awesome Claude Code Resources](https://awesomeclaude.ai/) - Community resource hub
 - [10 GitHub Repositories to Master Claude Code](https://www.kdnuggets.com/10-github-repositories-to-master-claude-code) - KDnuggets article on Claude Code repositories
 - [Claude Code Templates](https://www.aitmpl.com/) - Ready-to-use agents, commands, hooks, MCP configurations, and settings
 
@@ -55,5 +55,5 @@ This page collects community-created Claude Code tutorials, workflow ideas, reco
 
 ## Follow
 
-- [ClaudeDevs](https://x.com/ClaudeDevs) - Account sharing Claude Code articles, examples, and updates
+- [ClaudeDevs](https://x.com/ClaudeDevs) - X Account sharing Claude Code articles, examples, and updates
 

@@ -39,7 +39,7 @@ Use the category pages to reflect on your needs:
 ## Level up by using multiple tools
 
 For example, consider this coding setup:
-VS Code with OpenAI Codex on the left, Claude Opus/Sonnet on the right
+VS Code with OpenAI Codex on the left, Claude on the right
 
 1. Start building with Claude Code in plan mode
 2. Copy and paste every plan into Codex. Validate the plan. If they have any critical feedback, give it back to CC
@@ -47,3 +47,5 @@ VS Code with OpenAI Codex on the left, Claude Opus/Sonnet on the right
 4. When one agent submits a PR, use the other agent to review it
 
 Not only will you produce better apps, you'll have fun just feeling like you're managing a team of engineers.
+
+Now there are also platforms like [Buzz](https://github.com/block/buzz) where you can have multiple agents collaborate with you.
