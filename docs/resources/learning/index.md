@@ -6,6 +6,8 @@ Educational resources, roadmaps, and longer-form reading for improving your AI e
 
 ### AI Foundations & Resource Collections
 
+* #### [5 Free Courses to Go From LLM Beginner to Practitioner](https://www.kdnuggets.com/5-free-courses-to-go-from-llm-beginner-to-practitioner) - KDnuggets article on courses covering neural network foundations, LLM systems, fine-tuning, and deployment
+* #### [Stanford Online AI playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3) - YouTube playlist on artificial intelligence
 * #### [Free AI Courses](https://tathastu-rh.notion.site/Free-AI-Courses-30c9464bdbf98027b434d121af78cb79) - Curated Notion collection of free AI courses
 * #### [Traversaal Academy Free Resources](https://app.notion.com/p/traversaal-ai/Traversaal-Academy-Free-Resources-38b9a2e5c4a680eb905edf236759db6b) - Free AI learning resources from Traversaal Academy
 * #### [10 Public NotebookLM Notebooks](https://www.learnwithmeai.com/p/notebooklm-notebooks-mit-hormozi-buffett) - LearnAIWithMe collection covering AI, prompt engineering, startups, sales, investing, open models, and grounding
@@ -13,10 +15,10 @@ Educational resources, roadmaps, and longer-form reading for improving your AI e
 * #### [LLM visualization](https://bbycroft.net/llm) - View inside a Transformer
 * #### [ML Engineer Guide](https://x.com/ArmanHezarkhani/status/2013608521900683765) - Article (on X) - with index of educational youtube videos
 * #### [10 FREE Resources to Understand How LLMs Work Under the Hood](https://x.com/ihtesham2005/status/2026631750538113517?s=20) - Ihtesham on X
-* #### [AI Engineering educational Resources](https://docs.google.com/document/d/1irYLQNfATQ6sldOBczkdrYD3wJjvRm02UesD_5qZp4Y) - Google Doc from PyCoach
 
 ### AI-Assisted Software Development
 
+* #### [AI Hero: AI Coding Courses & Tutorials](https://www.aihero.dev/) - Matt Pocock's courses, articles, and skills for building software with AI coding agents
 * #### [The Modern Software Dev](https://themodernsoftware.dev) - CS146 The Modern Software Developer
 * #### [AI Dev Tools Zoomcamp](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp) - Free, hands-on course on disciplined AI-assisted software development
 * #### [Learning project for building a nano Claude Code-like agent](https://github.com/shareAI-lab/learn-claude-code) - A nano Claude Code-like agent, built from 0 to 1

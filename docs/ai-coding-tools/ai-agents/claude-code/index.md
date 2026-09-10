@@ -23,6 +23,7 @@ Claude Code is Anthropic's agentic coding tool. It runs in the terminal and is a
 
 ## Practices And Workflows
 
+- [Maximizing the value of your Claude Code sessions](https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions) - Official guidance on managing context, prompt caching, and token usage for efficient sessions
 - [How Claude Code works in large codebases](https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start) - Official guidance for adopting Claude Code in large repositories
 - [Claude prompting best practices](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices) - Official prompt engineering guidance
 - [How Boris Uses Claude Code](https://howborisusesclaudecode.com/) - Boris Cherny's collection of Claude Code practices and workflows
