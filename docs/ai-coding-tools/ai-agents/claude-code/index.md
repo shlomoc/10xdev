@@ -19,6 +19,7 @@ Claude Code is Anthropic's agentic coding tool. It runs in the terminal and is a
 - [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action) - Interactive course
 - [Claude Code: A Highly Agentic Coding Assistant](https://learn.deeplearning.ai/courses/claude-code-a-highly-agentic-coding-assistant) - DeepLearning.AI course
 - [Code with Claude Workshops](https://github.com/anthropics/cwc-workshops) - Official workshop materials for Claude and agent development
+- [Code with Claude San Francisco Recordings](https://claude.com/code-with-claude/san-francisco#recordings) - Conference talks and live coding sessions covering Claude Code, the Claude Platform, and AI research
 - [Explore Claude Code](https://exploreclaudecode.com) - Learn through a self-documenting example project
 
 ## Practices And Workflows
