@@ -9,46 +9,47 @@ See the [ADLC diagram](../img/adlc.jpeg).
 For Anthropic's stage-by-stage approach to integrating AI across the development lifecycle, see [The AI-Native SDLC playbook](https://claude.com/blog/the-ai-native-sdlc-playbook).
 
 ## Subagents
-In the sections of Structured Development Process below, there are prompts for each stage.  Now, with Claude Code, you can even create subagents based on these prompts to help implement the process automatically. 
+
+Claude Code and Codex can delegate work to subagents. Use the prompts from each stage of this structured development process to define focused tasks for implementation, testing, or review. See the [overview](index.md#using-claude-code-or-codex) for shared project documents and instruction files.
 
 For example, you can create a backend python coding subagent to implement a feature, and a testing subagent to test the feature.  
 
 It's useful to have a verification system in place because the model often marks tasks as complete prematurely.  Create a separate test subagent that is responsible for checking the work done by the code agent to ensure that the results are reliable.  When the coding subagent says it is done, the test subagent will run the tests and let you know if they passed or failed.  If they failed, the coding subagent will be asked to fix the code and run the tests again.  This can be repeated until the tests pass.
 
-You can also use subagents to parallelize tasks that are independent of each other.  This can speed up the process.
+You can also use subagents to parallelize independent tasks. Give each subagent a clear scope and expected output. Run dependent work in sequence, such as testing after implementation, and assign separate files or worktrees when agents edit code in parallel.
 
-[What are subagents?](https://docs.anthropic.com/en/docs/claude-code/sub-agents)
+### Claude Code Setup
 
-> Subagents are pre-configured AI personalities that Claude Code can delegate tasks to. Each subagent:
->
-> - Has a specific purpose and expertise area
-> - Uses its own context window separate from the main conversation
-> - Can be configured with specific tools it's allowed to use
-> - Includes a custom system prompt that guides its behavior
->
-> When Claude Code encounters a task that matches a subagent’s expertise, it can delegate that task to the specialized subagent, which works independently and returns results.
->
-> *Excerpt copied from [Anthropic documentation](https://docs.anthropic.com/en/docs/claude-code/sub-agents).*
+Claude Code custom subagents use Markdown files with YAML frontmatter in `.claude/agents/` for a project or `~/.claude/agents/` for personal use. Each definition describes the agent's purpose, instructions, and tool access. Follow the [official Claude Code subagent guide](https://code.claude.com/docs/en/sub-agents) for configuration.
 
-The Anthropic help doc has instructions for creating subagents.  You can customize prompts like in the structured development processes below, and create your own agents.  
+- [Claude agent examples](https://github.com/iannuttall/claude-agents) - Ian Nuttall's example subagent definitions.
 
-[Basic Example implementation](https://github.com/iannuttall/claude-agents) from Ian Nuttall
+To customize agents for your existing code, use a prompt like this:
 
-To customize agents for your existing code, you can use a prompt like this
-
-```md
-There is a feature in Claude Code called subagents, the documentation is at https://docs.anthropic.com/en/docs/claude-code/sub-agents. Please go through it and determine the best sub agents you can create for my app to improve my app and speed up coding time, then implement the subagents. 
+```text
+Read https://code.claude.com/docs/en/sub-agents and the project's shared specifications. Create focused Claude Code subagents in .claude/agents/ for implementation and verification where they would help this project. Give each a clear scope, tool access, and expected output.
 ```
 
-If you are using subagents, also add a rule to CLAUDE.md to use subagents for tasks that match their expertise, and parallelize tasks but do not overwrite each others updates.
+### Codex Setup
+
+In Codex, ask explicitly for subagents or describe when to delegate in `AGENTS.md` or a skill. For reusable custom agents, use TOML files in `.codex/agents/` for a project or `~/.codex/agents/` for personal use. These have a different format from Claude Code's agent definitions; follow the [official Codex subagent guide](https://learn.chatgpt.com/docs/agent-configuration/subagents).
+
+For example, after implementation:
+
+```text
+Review the implementation against the shared specifications and acceptance criteria using two subagents. Ask one to inspect the changed code for bugs and regressions, and the other to run the relevant tests and identify coverage gaps. Neither should edit application code. Wait for both results, then summarize findings, test results, and recommended fixes with file references.
+```
+
+For either tool, record delegation rules in its project instruction file (`CLAUDE.md` or `AGENTS.md`). Define which tasks can run independently and how the main agent should combine and verify results.
 
 You can even build a council of subagents to review each other and give perspectives.  This [Youtube video](https://www.youtube.com/watch?v=LpM1dlB12-A) explains the idea.
 
-Since the subagents feature was shipped, Anthropic has added new features including Skills and Plugins.
+## Skills
 
-## Claude Skills
+Skills package reusable instructions and supporting resources for tasks such as writing a PRD or reviewing code. You can turn repeated prompts from this process into skills for your chosen agent. Follow the tool's authoring and installation guidance:
 
-Claude Skills are domain-specific “packs” of knowledge, instructions, and optionally scripts that Claude can load only when needed, keeping the context window lean.
+- [Claude Code skills](https://code.claude.com/docs/en/skills) - Official guide to creating and using skills in Claude Code.
+- [Codex skills](https://learn.chatgpt.com/docs/build-skills) - Official guide to building skills for Codex.
 
 ## Claude Plugins
 
@@ -56,9 +57,11 @@ Plugins are distribution containers that can include skills, slash commands, sub
 
 They are focused on extending the Claude Code environment itself—defining how and when capabilities show up in your IDE/terminal workflow, and are often shared via marketplaces or repos.
 
-You can find more about Claude Skills and Plugins on the [Claude Code](../ai-coding-tools/ai-agents/claude-code/index.md) page of this website.
+Use the [Claude Code](../ai-coding-tools/ai-agents/claude-code/index.md) and [Codex](../ai-coding-tools/ai-agents/codex.md) resource pages for extensions for your chosen tool. Check each extension's supported tools and installation instructions before reusing it with another agent.
 
 ## The Spec-Driven Plugin
+
+The installation and commands in this section describe the **Claude Code** workflow. For Codex, use the shared stage prompts directly, or check the plugin's current documentation for a supported Codex installation before using these commands.
 
 The full methodology on this site is available as a ready-to-use Claude Code plugin. Instead of manually prompting through each phase, the plugin gives you a set of slash commands that orchestrate 15 specialized subagents — one per task — covering every phase from market research to maintenance.
 

@@ -41,7 +41,6 @@ Educational resources, roadmaps, and longer-form reading for improving your AI e
 
 ## 10x Articles
 
-* #### [Andrew Ng on why coding is still valuable in the age of AI](https://www.deeplearning.ai/the-batch/issue-292/)
 * #### [Andrew Ng on concept of 10x Engineer](https://www.linkedin.com/posts/andrewyng_a-10x-engineer-a-widely-accepted-concept-activity-7293685385631539201-GvfA/)
 * #### [How To Become A 10x Developer: Step-By-Step Guide](https://zerotomastery.io/blog/how-to-become-a-10x-developer/) - Andrei Neagoie
 * #### [The Ultimate Guide to Becoming a 10x Dev](https://www.fromthetrenches.dev/p/16-ways-to-become-100x-dev) - From The Trenches

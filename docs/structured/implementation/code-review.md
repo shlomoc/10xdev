@@ -8,9 +8,9 @@ Analyze implemented code to improve code quality.
 - `implementation-steps.md`
 
 For code review, you can now use tools like [CodeRabbit](https://www.coderabbit.ai/) (free) inside your coding tool.
-Just install the extension in VS Code, stage a commit, and get instant feedback.  Then you can paste the feedback into (Claude Code) and ask it to resolve the issues.
+Just install the extension in VS Code, stage a commit, and get instant feedback. Then give the feedback to your coding agent and ask it to resolve the issues.
 
-Coding agents like Claude, Codex and Jules can be configured to do code reviews (e.g. on Pull Requests).
+Coding agents like Claude Code, Codex and Jules can be configured to do code reviews (e.g. on Pull Requests).
 
 Alternatively, you can use a prompt like below:
 ## Prompt

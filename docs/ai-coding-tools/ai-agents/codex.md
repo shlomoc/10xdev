@@ -13,7 +13,7 @@
 - [Codex Use Cases for Engineers](https://academy.openai.com/public/clubs/work-users-ynjqu/resources/use-cases-engineers) - OpenAI Academy resource on engineering use cases
 - [Codex CLI GitHub](https://github.com/openai/codex) - Official open source repository for the Codex CLI
 - [Models in ChatGPT](https://learn.chatgpt.com/docs/models?surface=app) - Official guide to choosing ChatGPT models
-- [GPT-5.6](https://openai.com/index/gpt-5-6/) - OpenAI announcement and overview of GPT-5.6
+- [GPT-6 Astra](https://openai.com/index/gpt-6-astra/) - OpenAI announcement and overview of GPT-6 Astra
 - [Codex OSS mode](https://developers.openai.com/codex/config-advanced#oss-mode-local-providers) - Use the Codex App, CLI, and SDK with open source models through local providers like Ollama or LM Studio
 
 ## Learning Path

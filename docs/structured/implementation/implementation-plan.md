@@ -9,25 +9,30 @@ Use this prompt to break down a complex app project into manageable steps for ex
 - `app-sitemap.md` - Application structure and navigation
 - `tech-stack.md` - Tech stack
 
-## For Existing codebase (or starting from template)
-Take a screenshot of the folders (from the Explorer view in the Visual Studio editor) and include that in the prompt.
+## For an Existing Codebase (or Starting from a Template)
 
-If you use Claude-code, run the /init command.  You can also create a slash command `onboard.md` with content like the following:
-```md
-You are given the following context:
-$ARGUMENTS
+Open the repository in your coding agent so it can inspect the files directly. If it cannot access the repository, provide the relevant source files and a directory tree.
 
-Instructions
-Your job is to "onboard" yourself to the current task.
-Do this by:
-Using ultrathink
-Exploring the codebase
-Asking me questions if needed
+Initialize project instructions using the command for your tool, then review the generated file:
 
-The goal is to get you fully prepared to start working on the task.
-Take as long as you need to get yourself ready. 
+| Tool | Command | Project instruction file |
+| --- | --- | --- |
+| [Claude Code](https://code.claude.com/docs/en/memory) | `/init` | `CLAUDE.md` |
+| [Codex CLI](https://learn.chatgpt.com/guides/best-practices) | `/init` | `AGENTS.md` |
 
-Record everything in a .claude/tasks/[TASK_ID]/onboarding.md file. This file will be used to onboard you to the task in a new session if needed, so make sure it’s comprehensive.
+Use this onboarding prompt with either tool. Replace the task ID and description before running it; `specs/tasks/` is a shared project convention, not a required tool directory.
+
+```text
+Task ID: <task-id>
+Task: <describe the task and its acceptance criteria>
+
+Prepare to work on this task before changing application code:
+- Read the applicable project instructions and shared specifications.
+- Explore the relevant source files, dependencies, and existing tests.
+- Identify constraints, open questions, and the commands needed to verify the work.
+- Ask me to clarify requirements when needed.
+
+Record your findings, relevant file paths, decisions, and proposed next steps in specs/tasks/<task-id>/onboarding.md. Make it useful for resuming the task in a new session with either coding agent.
 ```
 
 ### Useful Tools

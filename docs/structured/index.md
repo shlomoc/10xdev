@@ -9,8 +9,27 @@ description: Learn spec-driven design methodology for AI-powered development. Cr
 
 Instead of coding impulsively ("vibe coding"), we shift to a structured approach called "spec-driven design," where we first define what the application needs to do before writing code.
 
+## Using Claude Code or Codex
+
+You can follow this structured development process with either [Claude Code](../ai-coding-tools/ai-agents/claude-code/index.md) or [OpenAI Codex](../ai-coding-tools/ai-agents/codex.md). The requirements, specifications, implementation plans, and verification steps describe the work to be done and can be used with either tool.
+
+Throughout these guides, **your coding agent** means the tool you choose. Keep shared specifications and task lists in ordinary Markdown files, and use the appropriate instruction file for your agent:
+
+| Purpose | Claude Code | Codex |
+| --- | --- | --- |
+| Project instructions | `CLAUDE.md` | `AGENTS.md` |
+| Personal instructions across projects | `~/.claude/CLAUDE.md` | `~/.codex/AGENTS.md` |
+| Shared project artifacts | PRD, design spec, plan, and task list | The same documents |
+
+See the official guides to [Claude Code project instructions](https://code.claude.com/docs/en/memory) and [Codex project instructions](https://learn.chatgpt.com/docs/agent-configuration/agents-md) for loading and scope rules. If you use both tools, keep their instructions consistent and point them to the same project documents.
+
+For a shared source of project rules, you can keep them in `AGENTS.md` and import it from a root-level `CLAUDE.md` with `@AGENTS.md`, adding any Claude-specific instructions below the import. Claude Code also supports reading `AGENTS.md` directly in supported versions and configurations; see its [shared instruction file guidance](https://code.claude.com/docs/en/memory#share-one-file-with-other-coding-tools).
+
+Some examples use tool-specific commands, configuration, subagents, or plugins. Follow the instructions for your chosen tool; these details may need adaptation even when the underlying workflow is the same. Codex users can also refer to [OpenAI's workflow guidance](https://learn.chatgpt.com/guides/best-practices) for planning, requirements interviews, and verification.
+
 ## Basic Approach
-- Once you have a product in mind, start by having a discussion with your LLM. You can ask Claude Code to interview you using its built-in AskUserQuestion tool to create clear requirements for your MVP, then ask it to output a basic PRD (Product Requirements Document). 
+
+- Once you have a product in mind, ask your coding agent to interview you, clarify your MVP requirements, and output a basic PRD (Product Requirements Document).
 - Similarly, define your tech stack. 
 
 For the PRD, below is an example of the expected output format:
@@ -28,19 +47,21 @@ For the PRD, below is an example of the expected output format:
 
 
 - Ask the LLM to create a basic plan and iterate on your plan until you get a 9 or 10 using the [meta prompt workflow](../prompt-engineering/meta-prompt-workflow.md), then ask it to output a basic Plan.md.
-- Note: For the implementation, we're using Claude Code below. 
-- Ask it to create CLAUDE.md and Tasks.md based on the PRD and Plan.md:
+- Ask your coding agent to create or update its project instruction file and `Tasks.md` based on the PRD and `Plan.md`:
 
-```
-Create CLAUDE.md outlining everything needed to know regarding this project based on the PRD and design spec. Then, create Tasks.md outlining all phases and steps needed to bring this project to completion.  
+```text
+Use CLAUDE.md if you are Claude Code, or AGENTS.md if you are Codex.
+Create or update that project instruction file based on the PRD and design spec, preserving existing relevant instructions. Include project conventions, build and test commands, and references to the shared specifications.
+Then, create or update Tasks.md outlining all phases and steps needed to bring this project to completion.
 
-Add following rules to CLAUDE.md:
-- Keep CLAUDE.md up-to-date based on the project's current state and add any notes or relevant details you'd need to remember between chats. 
+Add the following rules to the project instruction file:
+- Keep project instructions up to date with durable conventions and commands. Record task progress and handoff notes in Tasks.md or the relevant shared specification.
 - For every task, implement the code and tests, then run the tests to verify the functionality works. 
 - Keep Tasks.md up to date based on the project's current state. 
 ```
 
-Include some general rules in your global CLAUDE.md file like the following:
+Include general rules like the following in your personal instruction file (`~/.claude/CLAUDE.md` for Claude Code or `~/.codex/AGENTS.md` for Codex):
+
 ```md
 Communication Style
 
@@ -62,7 +83,7 @@ Keep files under 500 lines of code.
 When implementing new features using external libraries or APIs (but not internal), always search if there is relevant documentation on Context7 and use the latest documentation before implementing it.
 ```
 
-Add self-reflection prompt like this to your global CLAUDE.md:
+Add a self-reflection prompt like this to the same personal instruction file:
 
 ```md
 Self-Reflection Prompt
@@ -90,6 +111,4 @@ Finally, use the rubric to internally think and iterate on the best possible sol
 
 ## Next Steps
 
-- Use the PRD.md, Tasks.md, Plan.md and CLAUDE.md as input to the Claude Code to implement the app.
-
-Note: You can use AI tools other than Claude Code with an [AGENTS.md](https://agents.md/) file that is similar to CLAUDE.md
+- Ask your coding agent to implement the app using `PRD.md`, `Tasks.md`, `Plan.md`, and its project instructions (`CLAUDE.md` for Claude Code or `AGENTS.md` for Codex).
