@@ -50,6 +50,7 @@ This page collects community-created Claude Code tutorials, workflow ideas, reco
 
 ## Architecture
 
+- [Claude Code from Source](https://claude-code-from-source.com/) - Independent educational book on Claude Code's architecture, agent loop, tool execution, memory, and multi-agent orchestration
 - [The code behind Claude Code](https://x.com/mal_shaik/status/2038918662489510273) - Technical discussion of Claude Code's implementation
 - [The architecture of Claude Code](https://x.com/mal_shaik/status/2039198750275461198) - Follow-up discussion of Claude Code's architecture
 

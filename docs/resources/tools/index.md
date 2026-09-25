@@ -13,6 +13,7 @@ Directories, discovery tools, model deployment platforms, and MCP resources for 
 * #### [git push no-mistakes](https://kunchenguid.github.io/no-mistakes/) - Local git gate for agent-written branches that runs review, tests, docs, linting, PR creation, and CI follow-up before pushing upstream
 * #### [loops](https://signals.forwardfuture.ai/loop-library/) - Copy practical AI agent prompts with clear checks and stopping conditions
 * #### [Finn Loop Guide](https://finn-loop-guide.alexfinn1.chatgpt.site/) - Guide to the Finn loop for iterative AI-assisted development
+* #### [Made with Jev](https://madewithjev.com/) - Independent directory of projects, use cases, and guides for building with TypeSafe AI's Jev model
 
 ## Search & Documentation
 
@@ -33,6 +34,7 @@ Directories, discovery tools, model deployment platforms, and MCP resources for 
 * #### [Copilotkit.ai](https://www.copilotkit.ai/) - Build an AI copilot for your app
 * #### [Braintrust.dev](https://www.braintrust.dev/docs/guides/evals) - Evals
 * #### [Spec Kit](https://github.com/github/spec-kit) - Toolkit to help you get started with Spec-Driven Development
+* #### [TypeSafe AI](https://typesafe.ai/) - Jev model for returning typed decisions and confidence estimates in automated workflows
 
 ## Skills
 
