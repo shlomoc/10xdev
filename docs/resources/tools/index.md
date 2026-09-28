@@ -5,7 +5,6 @@ Directories, discovery tools, model deployment platforms, and MCP resources for 
 ## Tools
 
 * #### [AI Tools Directory](https://tools.forwardfuture.ai/) - from Forward Future
-* #### [Block/Buzz](https://github.com/block/buzz) - Self-hostable workspace where humans and AI agents build together
 * #### [Starred AI Repos](https://goodailist.com/repos) - Sortable list of AI github repositories
 * #### [Chrome DevTools for agents](https://developer.chrome.com/docs/devtools/agents) - Official Chrome docs for browser automation, debugging, and verification with AI agents
 * #### [ChatPRD](https://www.chatprd.ai/) - AI product manager for creating PRDs, user stories, technical specs, and go-to-market briefs
@@ -14,6 +13,14 @@ Directories, discovery tools, model deployment platforms, and MCP resources for 
 * #### [loops](https://signals.forwardfuture.ai/loop-library/) - Copy practical AI agent prompts with clear checks and stopping conditions
 * #### [Finn Loop Guide](https://finn-loop-guide.alexfinn1.chatgpt.site/) - Guide to the Finn loop for iterative AI-assisted development
 * #### [Made with Jev](https://madewithjev.com/) - Independent directory of projects, use cases, and guides for building with TypeSafe AI's Jev model
+
+## AI Agents
+
+* #### [Block/Buzz](https://github.com/block/buzz) - Self-hostable workspace where humans and AI agents build together
+* #### [Grok Bot](https://x.ai/bot) - AI agents with a shared cloud computer for working across apps and websites
+* #### [Hermes Agent](https://hermes-agent.nousresearch.com/) - Open-source AI agent from Nous Research with persistent memory, skills, and scheduled tasks
+* #### [OpenClaw](https://openclaw.ai/) - Clawdbot Personal AI assistant
+* #### [OpenClaw Use Case Examples](https://www.kdnuggets.com/7-practical-openclaw-use-cases-you-should-know) - KDnuggets article on OpenClaw use cases
 
 ## Search & Documentation
 
@@ -55,8 +62,6 @@ Directories, discovery tools, model deployment platforms, and MCP resources for 
 * #### [Obsidian](https://obsidian.md/) - Markdown Editor
 * #### [Wisprflow](https://wisprflow.ai/) - Voice dictation
 * #### [Gemini Notebook (formerly NotebookLM)](https://notebooklm.google.com/) - Understand complex topics, ask questions, & get instant insight
-* #### [OpenClaw](https://openclaw.ai/) - Clawdbot Personal AI assistant
-* #### [OpenClaw Use Case Examples](https://www.kdnuggets.com/7-practical-openclaw-use-cases-you-should-know) - KDnuggets article on OpenClaw use cases
 
 ## MCP
 
