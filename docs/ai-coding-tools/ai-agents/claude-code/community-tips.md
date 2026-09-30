@@ -15,6 +15,7 @@ This page collects community-created Claude Code tutorials, workflow ideas, reco
 - [Claude Code How-To Guide](https://luongnv.com/claude-howto/index.html) - Visual, example-driven learning path with tutorials and copy-ready templates for Claude Code features
 - [Claude Code in Practice](https://github.com/hamzafarooq/claude-code-starter) - Hands-on course and starter kit with templates, skills, commands, and demo applications
 - [Claude Certified Architect Study Resources](https://github.com/hamzafarooq/claude-certified-architect) - Community study materials for the Claude Certified Architect: Foundations certification, including a practice exam, cheat sheets, and sample questions
+- [Claude Code: Everything You Need to Know](https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know) - In-depth community handbook covering setup, prompting, skills, hooks, subagents, agent teams, MCP, and reusable project configurations
 
 ## Resource Collections
 
@@ -39,9 +40,11 @@ This page collects community-created Claude Code tutorials, workflow ideas, reco
 - [Skills For Real Engineers](https://github.com/mattpocock/skills) - Matt Pocock's Claude skills for planning, development, debugging, and tooling
 - [Andrej Karpathy Skills](https://github.com/forrestchang/andrej-karpathy-skills) - Community Claude skills based on Andrej Karpathy's guidance
 - [Prompt Master](https://github.com/nidhinjs/prompt-master) - Claude skill for writing accurate prompts for AI tools
+- [Awesome Claude Skills](https://github.com/ComposioHQ/awesome-claude-skills) - Curated community collection of Claude skills and resources
 
 ## Subagents And Agent Teams
 
+- [Awesome Claude Code Subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - Curated community collection of subagents
 - [Dawn of the Swarms](https://x.com/seejayhess/status/2015148706471846275) - Using persistent Claude Code tasks to support subagent swarms
 
 ## Plugins
@@ -54,7 +57,8 @@ This page collects community-created Claude Code tutorials, workflow ideas, reco
 - [The code behind Claude Code](https://x.com/mal_shaik/status/2038918662489510273) - Technical discussion of Claude Code's implementation
 - [The architecture of Claude Code](https://x.com/mal_shaik/status/2039198750275461198) - Follow-up discussion of Claude Code's architecture
 
-## Follow
+## Communities And News
 
 - [ClaudeDevs](https://x.com/ClaudeDevs) - X Account sharing Claude Code articles, examples, and updates
+- [r/ClaudeCode](https://www.reddit.com/r/ClaudeCode/) - Community discussions about Claude Code
 

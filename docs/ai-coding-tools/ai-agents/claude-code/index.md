@@ -40,7 +40,6 @@ Claude Code is Anthropic's agentic coding tool. It runs in the terminal and is a
 - [Anthropic Skills](https://github.com/anthropics/skills) - Official repository of skills
 - [Skill authoring best practices](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices) - Official guidance for writing effective skills
 - [Agent Skills Tutorial](https://learn.deeplearning.ai/courses/agent-skills-with-anthropic) - DeepLearning.AI course
-- [Awesome Claude Skills](https://github.com/ComposioHQ/awesome-claude-skills) - Curated community collection of Claude skills and resources
 
 ### Hooks And MCP
 
@@ -51,7 +50,6 @@ Claude Code is Anthropic's agentic coding tool. It runs in the terminal and is a
 
 - [Run agents in parallel](https://code.claude.com/docs/en/agents) - Official comparison of subagents, agent view, agent teams, and worktrees
 - [Create custom subagents](https://code.claude.com/docs/en/sub-agents) - Official guide to specialized agents with isolated context
-- [Awesome Claude Code Subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - Curated community collection of subagents
 
 ### Plugins
 
@@ -70,15 +68,12 @@ Claude Code is Anthropic's agentic coding tool. It runs in the terminal and is a
 - [How Anthropic's product team moves faster than anyone else](https://www.youtube.com/watch?v=PplmzlgE0kg) - Interview with Claude Code Head of Product Cat Wu
 - [Steps of AI Adoption](https://claude.ai/code/artifact/bfdfaef9-bc62-4dfe-ba9e-c58a26c9accf) - Interactive Claude artifact about AI adoption from Boris Cherny
 
-## Comprehensive Community Guide
+## Communities And News
 
-- [Claude Code: Everything You Need to Know](https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know) - In-depth community handbook covering setup, prompting, skills, hooks, subagents, agent teams, MCP, and reusable project configurations
+- [Claude Blog](https://claude.com/blog) - Official product updates and engineering posts
+- [claude.dev](https://claude.dev/) - Anthropic developers' articles on Claude Code workflows, agents, skills, and engineering
 
 ## Community References
 
 - [Claude Code community tips](community-tips.md) - Community tutorials, workflows, templates, recommendations, and technical discussions
 
-## Communities And News
-
-- [Claude Blog](https://claude.com/blog) - Official product updates and engineering posts
-- [r/ClaudeCode](https://www.reddit.com/r/ClaudeCode/) - Community discussions about Claude Code
