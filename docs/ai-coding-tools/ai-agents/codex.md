@@ -55,5 +55,6 @@ Codex can use skills ported from Claude Code, but review them for Claude-specifi
 
 ## Communities And News
 
+- [OpenAI DevDay developer updates](https://x.com/OpenAIDevs/status/2105073596611830252) - OpenAI Developers thread rounding up Codex and other developer announcements from DevDay 2026
 - [Builders Community](https://academy.openai.com/public/clubs/builders-etkn1/overview) - Codex Builders Community
 - [Codex subreddit](https://www.reddit.com/r/codex/) - Reddit community for Codex users

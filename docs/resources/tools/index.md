@@ -18,6 +18,7 @@ Directories, discovery tools, model deployment platforms, and MCP resources for 
 
 * #### [Block/Buzz](https://github.com/block/buzz) - Self-hostable workspace where humans and AI agents build together
 * #### [Grok Bot](https://x.ai/bot) - AI agents with a shared cloud computer for working across apps and websites
+* #### [OpenAI Dots](https://openai.com/index/introducing-dots/) - Always-on AI agents with their own cloud computer that can work across connected apps and bring tasks back for review
 * #### [Hermes Agent](https://hermes-agent.nousresearch.com/) - Open-source AI agent from Nous Research with persistent memory, skills, and scheduled tasks
 * #### [OpenClaw](https://openclaw.ai/) - Clawdbot Personal AI assistant
 * #### [OpenClaw Use Case Examples](https://www.kdnuggets.com/7-practical-openclaw-use-cases-you-should-know) - KDnuggets article on OpenClaw use cases
