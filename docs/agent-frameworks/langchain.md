@@ -37,6 +37,7 @@ An open source AI agent framework designed to build, deploy and manage complex g
 A standalone library in the LangChain ecosystem for building agents with planning, subagents, file-system tools, and other capabilities for complex multi-step tasks
 
 - [Deep Agents Quickstart](https://docs.langchain.com/oss/python/deepagents/quickstart) Build your first deep agent
+- [Loop Engineering with LangChain Deep Agents](https://learn.deeplearning.ai/courses/loop-engineering-with-langchain-deep-agents/lesson/k292hz/introduction) DeepLearning.AI course on building and improving agent loops
 - [Deep Agents](https://blog.langchain.com/deep-agents/) LangChain blog post introducing Deep Agents
 - [Deep Agents CLI](https://docs.langchain.com/oss/python/deepagents/cli) Official CLI docs
 - [Deep Agents GitHub](https://github.com/langchain-ai/deepagents) Official repository

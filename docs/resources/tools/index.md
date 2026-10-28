@@ -9,6 +9,7 @@ Directories, discovery tools, model deployment platforms, and MCP resources for 
 * #### [Chrome DevTools for agents](https://developer.chrome.com/docs/devtools/agents) - Official Chrome docs for browser automation, debugging, and verification with AI agents
 * #### [ChatPRD](https://www.chatprd.ai/) - AI product manager for creating PRDs, user stories, technical specs, and go-to-market briefs
 * #### [Headroom](https://github.com/chopratejas/headroom) - Context compression tool for reducing the tokens used by AI agents across tool outputs, logs, files, and RAG results
+* #### [Herdr](https://herdr.dev/) - Runtime for managing persistent coding agent sessions across projects and machines
 * #### [git push no-mistakes](https://kunchenguid.github.io/no-mistakes/) - Local git gate for agent-written branches that runs review, tests, docs, linting, PR creation, and CI follow-up before pushing upstream
 * #### [loops](https://signals.forwardfuture.ai/loop-library/) - Copy practical AI agent prompts with clear checks and stopping conditions
 * #### [Finn Loop Guide](https://finn-loop-guide.alexfinn1.chatgpt.site/) - Guide to the Finn loop for iterative AI-assisted development
