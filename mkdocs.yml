@@ -97,6 +97,7 @@ extra_css:
 nav:
   - 🏠 Home: index.md
   - ✨ A Vibe Coding Guide: guides/ultimate-vibe-coding-guide.md
+  - 🌐 One API Key for Every Model: guides/multi-model-api-gateway.md
   - 📋 Structured Development Process:
     - Spec-Driven Design: structured/index.md
     - Spec-Driven Design with subagents: structured/claude-code-with-subagents.md
