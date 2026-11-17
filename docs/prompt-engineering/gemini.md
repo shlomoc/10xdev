@@ -15,6 +15,7 @@
 - [Google Skills Courses](https://x.com/AndrewBolis/status/2012876394259468307) List of 10 free beginner Courses
 
 ## Development & Testing
+- [Generative AI on Google Cloud](https://github.com/GoogleCloudPlatform/generative-ai) - Official repository of Gemini notebooks, code samples, and sample apps for building generative AI workflows on Google Cloud
 - [Tune Gemini Models by using SFT](https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/gemini-use-supervised-tuning)
 
 ## Community & Updates

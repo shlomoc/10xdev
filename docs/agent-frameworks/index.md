@@ -20,6 +20,8 @@ A modern framework for building AI agents with TypeScript, built-in integrations
 
 ## Resources
 
+* #### [Hugging Face Agents Course](https://github.com/huggingface/agents-course) - Free course covering AI agent fundamentals, smolagents, LangGraph, LlamaIndex, and hands-on agent projects
+
 * #### [Agent Architect Prompt](https://x.com/alex_prompter/status/2012310997160046687?s=20) X post to prompt as an agent architect role
 
 * #### [Agentic Architect Fundamentals Course](https://synaptic-ai-consulting.github.io/learn-aamad/) A guided, hands-on introduction to an Agentic Architect mindset (using Cursor AI)

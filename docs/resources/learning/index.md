@@ -6,6 +6,7 @@ Educational resources, roadmaps, and longer-form reading for improving your AI e
 
 ### AI Foundations & Resource Collections
 
+* #### [Neural Networks: Zero to Hero](https://github.com/karpathy/nn-zero-to-hero) - Andrej Karpathy's hands-on course on building neural networks from scratch, with video lectures and Jupyter notebooks
 * #### [5 Free Courses to Go From LLM Beginner to Practitioner](https://www.kdnuggets.com/5-free-courses-to-go-from-llm-beginner-to-practitioner) - KDnuggets article on courses covering neural network foundations, LLM systems, fine-tuning, and deployment
 * #### [Stanford Online AI playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3) - YouTube playlist on artificial intelligence
 * #### [Free AI Courses](https://tathastu-rh.notion.site/Free-AI-Courses-30c9464bdbf98027b434d121af78cb79) - Curated Notion collection of free AI courses

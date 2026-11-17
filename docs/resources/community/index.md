@@ -10,11 +10,10 @@ Channels, videos, communities, newsletters, and blogs to stay current with AI de
 * #### [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy) - AI Researcher and educator
 * #### [AI Engineer](https://www.youtube.com/@aiDotEngineer) - Talks, workshops, events, and training for AI Engineers
 * #### [Alex Finn](https://www.youtube.com/@AlexFinnOfficial) - Latest AI tutorials and guides
-* #### [AI Jason](https://www.youtube.com/@AIJasonZ) - AI Builder Club
 * #### [Peter Yang](https://www.youtube.com/@PeterYangYT) - AI product management, LLM applications, and career advice
 * #### [AI Advantage](https://www.youtube.com/@aiadvantage) - AI tools, workflows, and productivity tutorials
 * #### [Nate Herk](https://www.youtube.com/@nateherk) - AI automation tutorials and implementation guides
-* #### [Agentics.org Youtube channel](https://www.youtube.com/@agentics-foundation)
+* #### [Agentics.org](https://www.youtube.com/@agentics-foundation) - Agentics org meetings
 
 ## YouTube Videos
 
@@ -28,7 +27,7 @@ Channels, videos, communities, newsletters, and blogs to stay current with AI de
 ## Communities
 
 * #### [Agentics.org](http://agentics.org) - Non-profit organization dedicated to democratizing artificial intelligence education and innovation
-* #### [AI MVP builders](https://www.skool.com/aimvpbuilders/about) - Learn how to build and launch a SaaS using AI
+* #### [Maker Zero](https://www.skool.com/maker-zero) - Nick Saraev's free Skool community with courses and resources on Claude Code, Codex, AI agents, and automation
 
 ## Newsletters
 
