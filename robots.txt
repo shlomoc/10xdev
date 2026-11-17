@@ -1,0 +1,25 @@
+# robots.txt for 10xDevelopers.dev
+# Allow all crawlers to access all content
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://10xdevelopers.dev/sitemap.xml
+
+# Crawl-delay for politeness (optional)
+# Crawl-delay: 1
+
+# Block specific user agents if needed (examples below are commented out)
+# User-agent: BadBot
+# Disallow: /
+
+# Allow common search engines explicitly
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
